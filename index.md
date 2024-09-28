@@ -7,7 +7,7 @@ layout: home
 
 Available tools to keep up with newly published research are often frustrating. Email alerts from publishers clutter the email inbox, arrive at seemingly random intervals, and do not include abstracts. Publisher RSS feeds are similarly frustrating to use as available RSS readers are either clunky or come with expensive subscription models. Signing up to email alerts or finding the RSS feeds from a handful of publishers can easily take an entire afternoon. Twitter/X - uhm. 
 
-[Moritz Marbach](https://www.moritz-marbach.com/) built Paper Picnic to keep up with newly published research in Political Science. It relies on three key ideas: 
+Yetian Cai built Ag Econ Paper Picnic to keep up with newly published research in Ag Econ. It relies on three key ideas: 
 
 1. Updates once a week at a known time.
 2. Displays all new research on a single web page without clutter. 
@@ -38,7 +38,7 @@ When the title is generic, e.g., when it includes the word "Errata", "Frontmatte
 
 # Contribute #
 
-1. Find and fix bugs or add new features to the crawler/web page. GitHub repository: [github.com/sumtxt/paper-picnic](https://github.com/sumtxt/picnic).
+1. Find and fix bugs or add new features to the crawler/web page. GitHub repository: [http://github.com/caiyetiana/ag_econ_picnic](http://github.com/caiyetiana/ag_econ_picnic).
 
 2. Use the crawled data for your own tool: <button type="button" class="align-items-center btn btn-primary btn-sm rounded-pill" data-bs-toggle="modal" data-bs-target="#jsonlist">All JSON Files</button>
 

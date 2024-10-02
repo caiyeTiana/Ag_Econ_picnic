@@ -6,21 +6,16 @@
 
   {% assign count_total = 0 %}
 
-  {% assign count_politics = site.data.politics_journals | size %}
+  {% assign count_economics = site.data.ag_econ_journals | size %}
   {% assign count_economics = site.data.economics_journals | size %}
-  {% assign count_sociology = site.data.sociology_journals | size %}
+  {% assign count_sociology = site.data.econ_other_field_journals | size %}
   {% assign count_multidisciplinary = site.data.multidisciplinary_journals | size %}
-  {% assign count_economics = site.data.ag_economics_journals | size %}
-  {% assign count_sociology = site.data.others_economics_journals | size %}
-  {% assign count_migration = site.data.migration_journals | size %}
 
-  {% assign count_total = count_total | plus: count_politics %}
+  {% assign count_total = count_total | plus: count_ag_econ %}
   {% assign count_total = count_total | plus: count_economics %}
-  {% assign count_total = count_total | plus: count_sociology %}
+  {% assign count_total = count_total | plus: count_econ_other_field %}
   {% assign count_total = count_total | plus: count_multidisciplinary %}
-  {% assign count_total = count_total | plus: count_ag_economics %}
-  {% assign count_total = count_total | plus: count_others_economics %}
-  {% assign count_total = count_total | plus: count_migration %}
+
 
 
   {% include nav.html %}
@@ -41,12 +36,10 @@
             Baskets
           </button>
           <ul class="dropdown-menu">
-            <li><a class="dropdown-item" href="./politics">Politics</a></li>
+            <li><a class="dropdown-item" href="./ag_econ">Ag Econ</a></li>
             <li><a class="dropdown-item" href="./economics">Economics</a></li>
-            <li><a class="dropdown-item" href="./sociology">Sociology</a></li>
+            <li><a class="dropdown-item" href="./econ_other_field">Econ Other Field</a></li>
             <li><a class="dropdown-item" href="./multidisciplinary">Multidisciplinary</a></li>
-            <li><a class="dropdown-item" href="./ag_economics">Ag Econ</a></li>
-            <li><a class="dropdown-item" href="./others_economics">Other Econ</a></li>
           </ul>
         </div>
         
@@ -73,7 +66,7 @@
     <div class="row row-cols-1 row-cols-md-2 align-items-md-start g-5">
       <div class="col">
         <ul class="list-group list-group">
-          {% for journal in site.data.politics_journals %}
+          {% for journal in site.data.ag_econ_journals %}
           <li class="list-group-item"> {{ journal.journal_full }} </li>
           {% endfor %}
         </ul>
@@ -86,36 +79,19 @@
           {% endfor %}
         </ul>
 
-        <ul class="list-group list-group mt-3">
-          {% for journal in site.data.sociology_journals %}
+        
+       <ul class="list-group list-group mt-3">
+          {% for journal in site.data.econ_other_field_journals %}
           <li class="list-group-item"> {{ journal.journal_full }} </li>
           {% endfor %}
         </ul>
-
+        
         <ul class="list-group list-group mt-3">
           {% for journal in site.data.multidisciplinary_journals %}
           <li class="list-group-item"> {{ journal.journal_full }} </li>
           {% endfor %}
         </ul>
-
-        <ul class="list-group list-group mt-3">
-          {% for journal in site.data.ag_economics_journals %}
-          <li class="list-group-item"> {{ journal.journal_full }} </li>
-          {% endfor %}
-        </ul>
-
-       <ul class="list-group list-group mt-3">
-          {% for journal in site.data.others_economics_journals %}
-          <li class="list-group-item"> {{ journal.journal_full }} </li>
-          {% endfor %}
-        </ul>
-
-        <ul class="list-group list-group mt-3">
-          {% for journal in site.data.migration_journals %}
-          <li class="list-group-item"> {{ journal.journal_full }} </li>
-          {% endfor %}
-        </ul>
-
+        
       </div>
     </div>
   </div>

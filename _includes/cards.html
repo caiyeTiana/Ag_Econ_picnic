@@ -101,6 +101,12 @@
         {% for journal in site.data.multidisciplinary_journals %}
         <li> {{ journal.journal_short }}: {{ journal.journal_full }} </li>
         {% endfor %}
+        {% for journal in site.data.ag_economics_journals %}
+        <li> {{ journal.journal_short }}: {{ journal.journal_full }} </li>
+        {% endfor %}
+        {% for journal in site.data.others_economics_journals %}
+        <li> {{ journal.journal_short }}: {{ journal.journal_full }} </li>
+        {% endfor %}
         {% for journal in site.data.migration_journals %}
         <li> {{ journal.journal_short }}: {{ journal.journal_full }} </li>
         {% endfor %}

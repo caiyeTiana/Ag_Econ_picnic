@@ -38,11 +38,10 @@ jobs:
       - name: Get data and produce JSON
         working-directory: ./main_folder
         run: |
-          Rscript crawl.R "politics"
+          Rscript crawl.R "ag_econ"
           Rscript crawl.R "economics"
-          Rscript crawl.R "sociology"
+          Rscript crawl.R "econ_other_field"
           Rscript crawl.R "multidisciplinary"
-          Rscript crawl.R "migration"
 
       - name: Commit results main branch 
         working-directory: ./main_folder

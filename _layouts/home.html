@@ -10,11 +10,15 @@
   {% assign count_economics = site.data.economics_journals | size %}
   {% assign count_sociology = site.data.sociology_journals | size %}
   {% assign count_multidisciplinary = site.data.multidisciplinary_journals | size %}
+  {% assign count_economics = site.data.ag_economics_journals | size %}
+  {% assign count_sociology = site.data.others_economics_journals | size %}
   {% assign count_migration = site.data.migration_journals | size %}
 
   {% assign count_total = count_total | plus: count_politics %}
   {% assign count_total = count_total | plus: count_economics %}
   {% assign count_total = count_total | plus: count_multidisciplinary %}
+  {% assign count_total = count_total | plus: count_ag_economics %}
+  {% assign count_total = count_total | plus: count_others_economics %}
   {% assign count_total = count_total | plus: count_migration %}
 
 
@@ -40,6 +44,8 @@
             <li><a class="dropdown-item" href="./economics">Economics</a></li>
             <li><a class="dropdown-item" href="./sociology">Sociology</a></li>
             <li><a class="dropdown-item" href="./multidisciplinary">Multidisciplinary</a></li>
+            <li><a class="dropdown-item" href="./ag_economics">Ag Econ</a></li>
+            <li><a class="dropdown-item" href="./others_economics">Other Econ</a></li>
           </ul>
         </div>
         
@@ -87,6 +93,18 @@
 
         <ul class="list-group list-group mt-3">
           {% for journal in site.data.multidisciplinary_journals %}
+          <li class="list-group-item"> {{ journal.journal_full }} </li>
+          {% endfor %}
+        </ul>
+
+        <ul class="list-group list-group mt-3">
+          {% for journal in site.data.ag_economics_journals %}
+          <li class="list-group-item"> {{ journal.journal_full }} </li>
+          {% endfor %}
+        </ul>
+
+       <ul class="list-group list-group mt-3">
+          {% for journal in site.data.others_economics_journals %}
           <li class="list-group-item"> {{ journal.journal_full }} </li>
           {% endfor %}
         </ul>

@@ -124,17 +124,17 @@
       "journal_short": "JLE",
       "articles": [
         {
-          "title": "Is Parental Leave Costly for Firms and Coworkers?",
-          "authors": "Anne Ardila Brenøe, Serena Canaan, Nikolaj A. Harmon, Heather N. Royer",
-          "url": "http://dx.doi.org/10.1086/725554",
-          "doi": "10.1086/725554",
-          "filter": 0
-        },
-        {
           "title": "Altruism or Money? Reducing Teacher Sorting Using Behavioral Strategies in Peru",
           "authors": "Nicolás Ajzenman, Eleonora Bertoni, Gregory Elacqua, Luana Marotta, Carolina Méndez Vargas",
           "url": "http://dx.doi.org/10.1086/725166",
           "doi": "10.1086/725166",
+          "filter": 0
+        },
+        {
+          "title": "Is Parental Leave Costly for Firms and Coworkers?",
+          "authors": "Anne Ardila Brenøe, Serena Canaan, Nikolaj A. Harmon, Heather N. Royer",
+          "url": "http://dx.doi.org/10.1086/725554",
+          "doi": "10.1086/725554",
           "filter": 0
         },
         {
@@ -145,17 +145,17 @@
           "filter": 0
         },
         {
-          "title": "Do Less Informative College Admission Exams Reduce Earnings Inequality? Evidence from Colombia",
-          "authors": "Evan Riehl",
-          "url": "http://dx.doi.org/10.1086/725167",
-          "doi": "10.1086/725167",
-          "filter": 0
-        },
-        {
           "title": "Unemployed Job Search across People and over Time: Evidence from Applied-For Jobs",
           "authors": "Jonas Fluchtmann, Anita M. Glenny, Nikolaj Harmon, Jonas Maibom",
           "url": "http://dx.doi.org/10.1086/725165",
           "doi": "10.1086/725165",
+          "filter": 0
+        },
+        {
+          "title": "Do Less Informative College Admission Exams Reduce Earnings Inequality? Evidence from Colombia",
+          "authors": "Evan Riehl",
+          "url": "http://dx.doi.org/10.1086/725167",
+          "doi": "10.1086/725167",
           "filter": 0
         },
         {
@@ -172,16 +172,16 @@
           "filter": 0
         },
         {
-          "title": "Jacob Mincer Award",
-          "url": "http://dx.doi.org/10.1086/733091",
-          "doi": "10.1086/733091",
-          "filter": 0
-        },
-        {
           "title": "The Efficacy of Tournaments for Nonroutine Team Tasks",
           "authors": "Florian Englmaier, Stefan Grimm, Dominik Grothe, David Schindler, Simeon Schudy",
           "url": "http://dx.doi.org/10.1086/725553",
           "doi": "10.1086/725553",
+          "filter": 0
+        },
+        {
+          "title": "Jacob Mincer Award",
+          "url": "http://dx.doi.org/10.1086/733091",
+          "doi": "10.1086/733091",
           "filter": 0
         },
         {

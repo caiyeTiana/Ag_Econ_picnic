@@ -4,12 +4,20 @@
     "journal_short": "AAPSS"
   },
   {
+    "journal_full": "Climate Change",
+    "journal_short": "CC"
+  },
+  {
     "journal_full": "Nature",
     "journal_short": "Nat"
   },
   {
     "journal_full": "Nature Human Behaviour",
     "journal_short": "NatHumBehav"
+  },
+  {
+    "journal_full": "PNAS",
+    "journal_short": "PNAS"
   },
   {
     "journal_full": "Proceedings of the National Academy of Sciences",

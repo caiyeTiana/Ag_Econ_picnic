@@ -2,6 +2,33 @@
   "update": "2024-10-03",
   "content": [
     {
+      "journal_full": "Climate Change",
+      "journal_short": "CC",
+      "articles": [
+        {
+          "title": "Diversity in IPCC author’s composition does not equate to inclusion",
+          "authors": "Martina Angela Caretta, Shobha Maharaj",
+          "url": "http://dx.doi.org/10.1038/s41558-024-02150-8",
+          "doi": "10.1038/s41558-024-02150-8",
+          "filter": "-1"
+        },
+        {
+          "title": "Publisher Correction: Climate damage projections beyond annual temperature",
+          "authors": "Paul Waidelich, Fulden Batibeniz, James Rising, Jarmo S. Kikstra, Sonia I. Seneviratne",
+          "url": "http://dx.doi.org/10.1038/s41558-024-02174-0",
+          "doi": "10.1038/s41558-024-02174-0",
+          "filter": "-1"
+        },
+        {
+          "title": "Major step up in carbon capture and storage needed to keep warming below 2 °C",
+          "url": "http://dx.doi.org/10.1038/s41558-024-02112-0",
+          "doi": "10.1038/s41558-024-02112-0",
+          "filter": "-1"
+        }
+      ],
+      "articles_hidden": []
+    },
+    {
       "journal_full": "Nature",
       "journal_short": "Nat",
       "articles": [],
@@ -20,6 +47,109 @@
           "filter": "4"
         }
       ]
+    },
+    {
+      "journal_full": "PNAS",
+      "journal_short": "PNAS",
+      "articles": [
+        {
+          "title": "Chemical mapping of the surface interactome of PIEZO1 identifies CADM1 as a modulator of channel inactivation",
+          "authors": "Anna K. Koster, Oleg Yarishkin, Adrienne E. Dubin, Jennifer M. Kefauver, Ryan A. Pak, Benjamin F. Cravatt, Ardem Patapoutian",
+          "abstract": "The propeller-shaped blades of the PIEZO1 and PIEZO2 ion channels partition into the plasma membrane and respond to indentation or stretching of the lipid bilayer, thus converting mechanical forces into signals that can be interpreted by cells, in the form of calcium flux and changes in membrane potential. While PIEZO channels participate in diverse physiological processes, from sensing the shear stress of blood flow in the vasculature to detecting touch through mechanoreceptors in the skin, the molecular details that enable these mechanosensors to tune their responses over a vast dynamic range of forces remain largely uncharacterized. To survey the molecular landscape surrounding PIEZO channels at the cell surface, we employed a mass spectrometry-based proteomic approach to capture and identify extracellularly exposed proteins in the vicinity of PIEZO1. This PIEZO1-proximal interactome was enriched in surface proteins localized to cell junctions and signaling hubs within the plasma membrane. Functional screening of these interaction candidates by calcium imaging and electrophysiology in an overexpression system identified the adhesion molecule CADM1/SynCAM that slows the inactivation kinetics of PIEZO1 with little effect on PIEZO2. Conversely, we found that CADM1 knockdown accelerates inactivation of endogenous PIEZO1 in Neuro-2a cells. Systematic deletion of CADM1 domains indicates that the transmembrane region is critical for the observed effects on PIEZO1, suggesting that modulation of inactivation is mediated by interactions in or near the lipid bilayer.",
+          "url": "http://dx.doi.org/10.1073/pnas.2415934121",
+          "doi": "10.1073/pnas.2415934121",
+          "filter": "-1"
+        },
+        {
+          "title": "Ultrafast transient absorption spectra and kinetics of human blue cone visual pigment at room temperature",
+          "authors": "Arjun Krishnamoorthi, David Salom, Arum Wu, Krzysztof Palczewski, Peter M. Rentzepis",
+          "abstract": "The ultrafast photochemical reaction mechanism, transient spectra, and transition kinetics of the human blue cone visual pigment have been recorded at room temperature. Ultrafast time-resolved absorption spectroscopy revealed the progressive formation and decay of several metastable photo-intermediates, corresponding to the Batho to Meta-II photo-intermediates previously observed with bovine rhodopsin and human green cone opsin, on the picosecond to millisecond timescales following pulsed excitation. The experimental data reveal several interesting similarities and differences between the photobleaching sequences of bovine rhodopsin, human green cone opsin, and human blue cone opsin. While Meta-II formation kinetics are comparable between bovine rhodopsin and blue cone opsin, the transition kinetics of earlier photo-intermediates and qualitative characteristics of the Meta-I to Meta-II transition are more similar for blue cone opsin and green cone opsin. Additionally, the blue cone photo-intermediate spectra exhibit a high degree of overlap with uniquely small spectral shifts. The observed variation in Meta-II formation kinetics between rod and cone visual pigments is explained based on key structural differences.",
+          "url": "http://dx.doi.org/10.1073/pnas.2414037121",
+          "doi": "10.1073/pnas.2414037121",
+          "filter": "-1"
+        },
+        {
+          "title": "Complexity of confined water vitrification and its glass transition temperature",
+          "authors": "Jorge H. Melillo, Daniele Cangialosi, Valerio Di Lisio, Elisa Steinrücken, Michael Vogel, Silvina Cerveny",
+          "abstract": "The ability of vitrification when crossing the glass transition temperature (T g ) of confined and bulk water is crucial for myriad phenomena in diverse fields, ranging from the cryopreservation of organs and food to the development of cryoenzymatic reactions, frost damage to buildings, and atmospheric water. However, determining water’s T g remains a major challenge. Here, we elucidate the glass transition of water by analyzing the calorimetric behavior of nano-confined water across various pore topologies (diameters: 0.3 to 2.5 nm). Our approach involves subjecting confined water to annealing protocols to identify the temperature and time evolution of nonequilibrium glass kinetics. Furthermore, we complement this calorimetric approach with the dynamics of confined water, as seen by broadband dielectric spectroscopy and linear calorimetric measurements, including the fast scanning technique. This study demonstrated that confined water undergoes a glass transition in the temperature range of 170 to 200 K, depending on the confinement size and the interaction with the confinement walls. Moreover, we also show that the thermal event observed at ~136 K must be interpreted as an annealing prepeak, also referred to as the “shadow glass transition.” Calorimetric measurements also allow the detection of a specific heat step above 200 K, which is insensitive to annealing and, thereby, interpreted as a true thermodynamic transition. Finally, by connecting our results to bulk water behavior, we offer a comprehensive understanding of confined water vitrification with potential implications for numerous applications.",
+          "url": "http://dx.doi.org/10.1073/pnas.2407030121",
+          "doi": "10.1073/pnas.2407030121",
+          "filter": "-1"
+        },
+        {
+          "title": "The Drosophila tracheal terminal cell as a model for branching morphogenesis",
+          "authors": "Tatyana Gavrilchenko, Alison G. Simpkins, Tanner Simpson, Lena A. Barrett, Pauline Hansen, Stanislav Y. Shvartsman, Jodi Schottenfeld-Roames",
+          "abstract": "The terminal cells of the Drosophila larval tracheal system are perhaps the simplest delivery networks, providing an analogue for mammalian vascular growth and function in a system with many fewer components. These cells are a prime example of single-cell morphogenesis, branching significantly over time to adapt to the needs of the growing tissue they supply. While the genetic mechanisms governing local branching decisions have been studied extensively, an understanding of the emergence of a global network architecture is still lacking. Mapping out the full network architecture of populations of terminal cells at different developmental times of Drosophila larvae, we find that cell growth follows scaling laws relating the total edge length, supply area, and branch density. Using time-lapse imaging of individual terminal cells, we identify that the cells grow in three ways: by extending branches, by the side budding of new branches, and by internally growing existing branches. A generative model based on these modes of growth recapitulates statistical properties of the terminal cell network data. These results suggest that the scaling laws arise from the coupled contributions of branching and internal growth. This study establishes the terminal cell as a uniquely tractable model system for further studies of transportation and distribution networks.",
+          "url": "http://dx.doi.org/10.1073/pnas.2404462121",
+          "doi": "10.1073/pnas.2404462121",
+          "filter": "-1"
+        },
+        {
+          "title": "Autonomous multicolor bioluminescence imaging in bacteria, mammalian, and plant hosts",
+          "authors": "Subhan Hadi Kusuma, Taishi Kakizuka, Mitsuru Hattori, Takeharu Nagai",
+          "abstract": "Bioluminescence imaging has become a valuable tool in biological research, offering several advantages over fluorescence-based techniques, including the absence of phototoxicity and photobleaching, along with a higher signal-to-noise ratio. Common bioluminescence imaging methods often require the addition of an external chemical substrate (luciferin), which can result in a decrease in luminescence intensity over time and limit prolonged observations. Since the bacterial bioluminescence system is genetically encoded for luciferase-luciferin production, it enables autonomous bioluminescence (auto-bioluminescence) imaging. However, its application to multiple reporters is restricted due to a limited range of color variants. Here, we report five-color auto-bioluminescence system named Nano-lanternX (NLX), which can be expressed in bacterial, mammalian, and plant hosts, thereby enabling auto-bioluminescence in various living organisms. Utilizing spectral unmixing, we achieved the successful observation of multicolor auto-bioluminescence, enabling detailed single-cell imaging across both bacterial and mammalian cells. We have also expanded the applications of the NLX system, such as multiplexed auto-bioluminescence imaging for gene expression, protein localization, and dynamics of biomolecules within living mammalian cells.",
+          "url": "http://dx.doi.org/10.1073/pnas.2406358121",
+          "doi": "10.1073/pnas.2406358121",
+          "filter": "-1"
+        },
+        {
+          "title": "YkuR functions as a protein deacetylase in Streptococcus mutans",
+          "authors": "Qizhao Ma, Jing Li, Shuxing Yu, Jing Zhou, Yaqi Liu, Xinyue Wang, Dingwei Ye, Yumeng Wu, Tao Gong, Qiong Zhang, Lingyun Wang, Jing Zou, Yuqing Li",
+          "abstract": "Protein acetylation is a common and reversible posttranslational modification tightly governed by protein acetyltransferases and deacetylases crucial for various biological processes in both eukaryotes and prokaryotes. Although recent studies have characterized many acetyltransferases in diverse bacterial species, only a few protein deacetylases have been identified in prokaryotes, perhaps in part due to their limited sequence homology. In this study, we identified YkuR, encoded by smu_318 , as a unique protein deacetylase in Streptococcus mutans . Through protein acetylome analysis, we demonstrated that the deletion of ykuR significantly upregulated protein acetylation levels, affecting key enzymes in translation processes and metabolic pathways, including starch and sucrose metabolism, glycolysis/gluconeogenesis, and biofilm formation. In particular, YkuR modulated extracellular polysaccharide synthesis and biofilm formation through the direct deacetylation of glucosyltransferases (Gtfs) in the presence of NAD + . Intriguingly, YkuR can be acetylated in a nonenzymatic manner, which then negatively regulated its deacetylase activity, suggesting the presence of a self-regulatory mechanism. Moreover, in vivo studies further demonstrated that the deletion of ykuR attenuated the cariogenicity of S. mutans in the rat caries model, substantiating its involvement in the pathogenesis of dental caries. Therefore, our study revealed a unique regulatory mechanism mediated by YkuR through protein deacetylation that regulates the physiology and pathogenicity of S. mutans .",
+          "url": "http://dx.doi.org/10.1073/pnas.2407820121",
+          "doi": "10.1073/pnas.2407820121",
+          "filter": "-1"
+        },
+        {
+          "title": "Mechanosensitive fluorescence lifetime probes for investigating the dynamic mechanism of ferroptosis",
+          "authors": "Xing Liang, Yuping Zhao, Jun Yan, Qian Zhang, Tony D. James, Weiying Lin",
+          "abstract": "Deciphering the dynamic mechanism of ferroptosis can provide insights into pathogenesis, which is valuable for disease diagnosis and treatment. However, due to the lack of suitable time-resolved mechanosensitive tools, researchers have been unable to determine the membrane tension and morphology of the plasma membrane and the nuclear envelope during ferroptosis. With this research, we propose a rational strategy to develop robust mechanosensitive fluorescence lifetime probes which can facilitate simultaneous fluorescence lifetime imaging of the plasma membrane and nuclear envelope. Fluorescence lifetime imaging microscopy using the unique mechanosensitive probes reveal a dynamic mechanism for ferroptosis: The membrane tension of both the plasma membrane and the nuclear envelope decreases during ferroptosis, and the nuclear envelope exhibits budding during the advanced stage of ferroptosis. Significantly, the membrane tension of the plasma membrane is always larger than that of the nuclear envelope, and the membrane tension of the nuclear envelope is slightly larger than that of the nuclear membrane bubble. Meanwhile, the membrane lesions are repaired in the low-tension regions through exocytosis.",
+          "url": "http://dx.doi.org/10.1073/pnas.2316450121",
+          "doi": "10.1073/pnas.2316450121",
+          "filter": "-1"
+        },
+        {
+          "title": "Brain–machine convergent evolution: Why finding parallels between brain and artificial systems is informative",
+          "authors": "Erez Simony, Shany Grossman, Rafael Malach",
+          "abstract": "Central nervous system neurons manifest a rich diversity of selectivity profiles—whose precise role is still poorly understood. Following the striking success of artificial networks, a major debate has emerged concerning their usefulness in explaining neuronal properties. Here we propose that finding parallels between artificial and neuronal networks is informative precisely because these systems are so different from each other. Our argument is based on an extension of the concept of convergent evolution—well established in biology—to the domain of artificial systems. Applying this concept to different areas and levels of the cortical hierarchy can be a powerful tool for elucidating the functional role of well-known cortical selectivities. Importantly, we further demonstrate that such parallels can uncover novel functionalities by showing that grid cells in the entorhinal cortex can be modeled to function as a set of basis functions in a lossy representation such as the well-known JPEG compression. Thus, contrary to common intuition, here we illustrate that finding parallels with artificial systems provides novel and informative insights, particularly in those cases that are far removed from realistic brain biology.",
+          "url": "http://dx.doi.org/10.1073/pnas.2319709121",
+          "doi": "10.1073/pnas.2319709121",
+          "filter": "-1"
+        },
+        {
+          "title": "Switching of electrochemical selectivity due to plasmonic field-induced dissociation",
+          "authors": "Francis M. Alcorn, Sajal Kumar Giri, Maya Chattoraj, Rachel Nixon, George C. Schatz, Prashant K. Jain",
+          "abstract": "Electrochemical reactivity is known to be dictated by the structure and composition of the electrocatalyst–electrolyte interface. Here, we show that optically generated electric fields at this interface can influence electrochemical reactivity insofar as to completely switch reaction selectivity. We study an electrocatalyst composed of gold–copper alloy nanoparticles known to be active toward the reduction of CO 2 to CO. However, under the action of highly localized electric fields generated by plasmonic excitation of the gold–copper alloy nanoparticles, water splitting becomes favored at the expense of CO 2 reduction. Real-time time-dependent density functional tight binding calculations indicate that optically generated electric fields promote transient-hole-transfer-driven dissociation of the O─H bond of water preferentially over transient-electron-driven dissociation of the C─O bond of CO 2 . These results highlight the potential of optically generated electric fields for modulating pathways, switching reactivity on/off, and even directing outcomes.",
+          "url": "http://dx.doi.org/10.1073/pnas.2404433121",
+          "doi": "10.1073/pnas.2404433121",
+          "filter": "-1"
+        },
+        {
+          "title": "Does the use of unusual combinations of datasets contribute to greater scientific impact?",
+          "authors": "Yulin Yu, Daniel M. Romero",
+          "abstract": "Scientific datasets play a crucial role in contemporary data-driven research, as they allow for the progress of science by facilitating the discovery of new patterns and phenomena. This mounting demand for empirical research raises important questions on how strategic data utilization in research projects can stimulate scientific advancement. In this study, we examine the hypothesis inspired by the recombination theory, which suggests that innovative combinations of existing knowledge, including the use of unusual combinations of datasets, can lead to high-impact discoveries. Focusing on social science, we investigate the scientific outcomes of such atypical data combinations in more than 30,000 publications that leverage over 5,000 datasets curated within one of the largest social science databases, Interuniversity Consortium for Political and Social Research. This study offers four important insights. First, combining datasets, particularly those infrequently paired, significantly contributes to both scientific and broader impacts (e.g., dissemination to the general public). Second, infrequently paired datasets maintain a strong association with citation even after controlling for the atypicality of dataset topics. In contrast, the atypicality of dataset topics has a much smaller positive impact on citation counts. Third, smaller and less experienced research teams tend to use atypical combinations of datasets in research more frequently than their larger and more experienced counterparts. Last, despite the benefits of data combination, papers that amalgamate data remain infrequent. This finding suggests that the unconventional combination of datasets is an underutilized but powerful strategy correlated with the scientific impact and broader dissemination of scientific discoveries.",
+          "url": "http://dx.doi.org/10.1073/pnas.2402802121",
+          "doi": "10.1073/pnas.2402802121",
+          "filter": "-1"
+        },
+        {
+          "title": "The smallest electrochemical bubbles",
+          "authors": "Esteban D. Gadea, Yamila A. Perez Sirkin, Valeria Molinero, Damian A. Scherlis",
+          "abstract": "Many of the relevant electrochemical processes in the context of catalysis or energy conversion and storage, entail the production of gases. This often implicates the nucleation of bubbles at the interface, with the concomitant blockage of the electroactive area leading to overpotentials and Ohmic drop. Nanoelectrodes have been envisioned as assets to revert this effect, by inhibiting bubble formation. Experiments show, however, that nanobubbles nucleate and attach to nanoscale electrodes, imposing a limit to the current, which turns out to be independent of size and applied potential in a wide range from 3 nm to tenths of microns. Here we investigate the potential-current response for disk electrodes of diameters down to a single-atom, employing molecular simulations including electrochemical generation of gas. Our analysis reveals that nanoelectrodes of 1 nm can offer twice as much current as that delivered by electrodes with areas four orders of magnitude larger at the same bias. This boost in the extracted current is a consequence of the destabilization of the gas phase. The grand potential of surface nanobubbles shows they can not reach a thermodynamically stable state on supports below 2 nm. As a result, the electroactive area becomes accessible to the solution and the current turns out to be sensitive to the electrode radius. In this way, our simulations establish that there is an optimal size for the nanoelectrodes, in between the single-atom and ∼3 nm, that optimizes the gas production.",
+          "url": "http://dx.doi.org/10.1073/pnas.2406956121",
+          "doi": "10.1073/pnas.2406956121",
+          "filter": "-1"
+        },
+        {
+          "title": "Isoform-specific C-terminal phosphorylation drives autoinhibition of Casein kinase 1",
+          "authors": "Rachel L. Harold, Nikhil K. Tulsian, Rajesh Narasimamurthy, Noelle Yaitanes, Maria G. Ayala Hernandez, Hsiau-Wei Lee, Priya Crosby, Sarvind M. Tripathi, David M. Virshup, Carrie L. Partch",
+          "abstract": "Casein kinase 1δ (CK1δ) controls essential biological processes including circadian rhythms and wingless-related integration site (Wnt) signaling, but how its activity is regulated is not well understood. CK1δ is inhibited by autophosphorylation of its intrinsically disordered C-terminal tail. Two CK1 splice variants, δ1 and δ2, are known to have very different effects on circadian rhythms. These variants differ only in the last 16 residues of the tail, referred to as the extreme C termini (XCT), but with marked changes in potential phosphorylation sites. Here, we test whether the XCT of these variants have different effects in autoinhibition of the kinase. Using NMR and hydrogen/deuterium exchange mass spectrometry, we show that the δ1 XCT is preferentially phosphorylated by the kinase and the δ1 tail makes more extensive interactions across the kinase domain. Mutation of δ1-specific XCT phosphorylation sites increases kinase activity both in vitro and in cells and leads to changes in the circadian period, similar to what is reported in vivo. Mechanistically, loss of the phosphorylation sites in XCT disrupts tail interaction with the kinase domain. δ1 autoinhibition relies on conserved anion-binding sites around the CK1 active site, demonstrating a common mode of product inhibition of CK1δ. These findings demonstrate how a phosphorylation cycle controls the activity of this essential kinase.",
+          "url": "http://dx.doi.org/10.1073/pnas.2415567121",
+          "doi": "10.1073/pnas.2415567121",
+          "filter": "-1"
+        }
+      ],
+      "articles_hidden": []
     },
     {
       "journal_full": "Proceedings of the National Academy of Sciences",
@@ -50,14 +180,6 @@
           "filter": "-1"
         },
         {
-          "title": "YkuR functions as a protein deacetylase in Streptococcus mutans",
-          "authors": "Qizhao Ma, Jing Li, Shuxing Yu, Jing Zhou, Yaqi Liu, Xinyue Wang, Dingwei Ye, Yumeng Wu, Tao Gong, Qiong Zhang, Lingyun Wang, Jing Zou, Yuqing Li",
-          "abstract": "Protein acetylation is a common and reversible posttranslational modification tightly governed by protein acetyltransferases and deacetylases crucial for various biological processes in both eukaryotes and prokaryotes. Although recent studies have characterized many acetyltransferases in diverse bacterial species, only a few protein deacetylases have been identified in prokaryotes, perhaps in part due to their limited sequence homology. In this study, we identified YkuR, encoded by smu_318 , as a unique protein deacetylase in Streptococcus mutans . Through protein acetylome analysis, we demonstrated that the deletion of ykuR significantly upregulated protein acetylation levels, affecting key enzymes in translation processes and metabolic pathways, including starch and sucrose metabolism, glycolysis/gluconeogenesis, and biofilm formation. In particular, YkuR modulated extracellular polysaccharide synthesis and biofilm formation through the direct deacetylation of glucosyltransferases (Gtfs) in the presence of NAD + . Intriguingly, YkuR can be acetylated in a nonenzymatic manner, which then negatively regulated its deacetylase activity, suggesting the presence of a self-regulatory mechanism. Moreover, in vivo studies further demonstrated that the deletion of ykuR attenuated the cariogenicity of S. mutans in the rat caries model, substantiating its involvement in the pathogenesis of dental caries. Therefore, our study revealed a unique regulatory mechanism mediated by YkuR through protein deacetylation that regulates the physiology and pathogenicity of S. mutans .",
-          "url": "http://dx.doi.org/10.1073/pnas.2407820121",
-          "doi": "10.1073/pnas.2407820121",
-          "filter": "-1"
-        },
-        {
           "title": "The Drosophila tracheal terminal cell as a model for branching morphogenesis",
           "authors": "Tatyana Gavrilchenko, Alison G. Simpkins, Tanner Simpson, Lena A. Barrett, Pauline Hansen, Stanislav Y. Shvartsman, Jodi Schottenfeld-Roames",
           "abstract": "The terminal cells of the Drosophila larval tracheal system are perhaps the simplest delivery networks, providing an analogue for mammalian vascular growth and function in a system with many fewer components. These cells are a prime example of single-cell morphogenesis, branching significantly over time to adapt to the needs of the growing tissue they supply. While the genetic mechanisms governing local branching decisions have been studied extensively, an understanding of the emergence of a global network architecture is still lacking. Mapping out the full network architecture of populations of terminal cells at different developmental times of Drosophila larvae, we find that cell growth follows scaling laws relating the total edge length, supply area, and branch density. Using time-lapse imaging of individual terminal cells, we identify that the cells grow in three ways: by extending branches, by the side budding of new branches, and by internally growing existing branches. A generative model based on these modes of growth recapitulates statistical properties of the terminal cell network data. These results suggest that the scaling laws arise from the coupled contributions of branching and internal growth. This study establishes the terminal cell as a uniquely tractable model system for further studies of transportation and distribution networks.",
@@ -74,19 +196,19 @@
           "filter": "-1"
         },
         {
+          "title": "YkuR functions as a protein deacetylase in Streptococcus mutans",
+          "authors": "Qizhao Ma, Jing Li, Shuxing Yu, Jing Zhou, Yaqi Liu, Xinyue Wang, Dingwei Ye, Yumeng Wu, Tao Gong, Qiong Zhang, Lingyun Wang, Jing Zou, Yuqing Li",
+          "abstract": "Protein acetylation is a common and reversible posttranslational modification tightly governed by protein acetyltransferases and deacetylases crucial for various biological processes in both eukaryotes and prokaryotes. Although recent studies have characterized many acetyltransferases in diverse bacterial species, only a few protein deacetylases have been identified in prokaryotes, perhaps in part due to their limited sequence homology. In this study, we identified YkuR, encoded by smu_318 , as a unique protein deacetylase in Streptococcus mutans . Through protein acetylome analysis, we demonstrated that the deletion of ykuR significantly upregulated protein acetylation levels, affecting key enzymes in translation processes and metabolic pathways, including starch and sucrose metabolism, glycolysis/gluconeogenesis, and biofilm formation. In particular, YkuR modulated extracellular polysaccharide synthesis and biofilm formation through the direct deacetylation of glucosyltransferases (Gtfs) in the presence of NAD + . Intriguingly, YkuR can be acetylated in a nonenzymatic manner, which then negatively regulated its deacetylase activity, suggesting the presence of a self-regulatory mechanism. Moreover, in vivo studies further demonstrated that the deletion of ykuR attenuated the cariogenicity of S. mutans in the rat caries model, substantiating its involvement in the pathogenesis of dental caries. Therefore, our study revealed a unique regulatory mechanism mediated by YkuR through protein deacetylation that regulates the physiology and pathogenicity of S. mutans .",
+          "url": "http://dx.doi.org/10.1073/pnas.2407820121",
+          "doi": "10.1073/pnas.2407820121",
+          "filter": "-1"
+        },
+        {
           "title": "Mechanosensitive fluorescence lifetime probes for investigating the dynamic mechanism of ferroptosis",
           "authors": "Xing Liang, Yuping Zhao, Jun Yan, Qian Zhang, Tony D. James, Weiying Lin",
           "abstract": "Deciphering the dynamic mechanism of ferroptosis can provide insights into pathogenesis, which is valuable for disease diagnosis and treatment. However, due to the lack of suitable time-resolved mechanosensitive tools, researchers have been unable to determine the membrane tension and morphology of the plasma membrane and the nuclear envelope during ferroptosis. With this research, we propose a rational strategy to develop robust mechanosensitive fluorescence lifetime probes which can facilitate simultaneous fluorescence lifetime imaging of the plasma membrane and nuclear envelope. Fluorescence lifetime imaging microscopy using the unique mechanosensitive probes reveal a dynamic mechanism for ferroptosis: The membrane tension of both the plasma membrane and the nuclear envelope decreases during ferroptosis, and the nuclear envelope exhibits budding during the advanced stage of ferroptosis. Significantly, the membrane tension of the plasma membrane is always larger than that of the nuclear envelope, and the membrane tension of the nuclear envelope is slightly larger than that of the nuclear membrane bubble. Meanwhile, the membrane lesions are repaired in the low-tension regions through exocytosis.",
           "url": "http://dx.doi.org/10.1073/pnas.2316450121",
           "doi": "10.1073/pnas.2316450121",
-          "filter": "-1"
-        },
-        {
-          "title": "Switching of electrochemical selectivity due to plasmonic field-induced dissociation",
-          "authors": "Francis M. Alcorn, Sajal Kumar Giri, Maya Chattoraj, Rachel Nixon, George C. Schatz, Prashant K. Jain",
-          "abstract": "Electrochemical reactivity is known to be dictated by the structure and composition of the electrocatalyst–electrolyte interface. Here, we show that optically generated electric fields at this interface can influence electrochemical reactivity insofar as to completely switch reaction selectivity. We study an electrocatalyst composed of gold–copper alloy nanoparticles known to be active toward the reduction of CO 2 to CO. However, under the action of highly localized electric fields generated by plasmonic excitation of the gold–copper alloy nanoparticles, water splitting becomes favored at the expense of CO 2 reduction. Real-time time-dependent density functional tight binding calculations indicate that optically generated electric fields promote transient-hole-transfer-driven dissociation of the O─H bond of water preferentially over transient-electron-driven dissociation of the C─O bond of CO 2 . These results highlight the potential of optically generated electric fields for modulating pathways, switching reactivity on/off, and even directing outcomes.",
-          "url": "http://dx.doi.org/10.1073/pnas.2404433121",
-          "doi": "10.1073/pnas.2404433121",
           "filter": "-1"
         },
         {
@@ -98,6 +220,14 @@
           "filter": "-1"
         },
         {
+          "title": "Switching of electrochemical selectivity due to plasmonic field-induced dissociation",
+          "authors": "Francis M. Alcorn, Sajal Kumar Giri, Maya Chattoraj, Rachel Nixon, George C. Schatz, Prashant K. Jain",
+          "abstract": "Electrochemical reactivity is known to be dictated by the structure and composition of the electrocatalyst–electrolyte interface. Here, we show that optically generated electric fields at this interface can influence electrochemical reactivity insofar as to completely switch reaction selectivity. We study an electrocatalyst composed of gold–copper alloy nanoparticles known to be active toward the reduction of CO 2 to CO. However, under the action of highly localized electric fields generated by plasmonic excitation of the gold–copper alloy nanoparticles, water splitting becomes favored at the expense of CO 2 reduction. Real-time time-dependent density functional tight binding calculations indicate that optically generated electric fields promote transient-hole-transfer-driven dissociation of the O─H bond of water preferentially over transient-electron-driven dissociation of the C─O bond of CO 2 . These results highlight the potential of optically generated electric fields for modulating pathways, switching reactivity on/off, and even directing outcomes.",
+          "url": "http://dx.doi.org/10.1073/pnas.2404433121",
+          "doi": "10.1073/pnas.2404433121",
+          "filter": "-1"
+        },
+        {
           "title": "Does the use of unusual combinations of datasets contribute to greater scientific impact?",
           "authors": "Yulin Yu, Daniel M. Romero",
           "abstract": "Scientific datasets play a crucial role in contemporary data-driven research, as they allow for the progress of science by facilitating the discovery of new patterns and phenomena. This mounting demand for empirical research raises important questions on how strategic data utilization in research projects can stimulate scientific advancement. In this study, we examine the hypothesis inspired by the recombination theory, which suggests that innovative combinations of existing knowledge, including the use of unusual combinations of datasets, can lead to high-impact discoveries. Focusing on social science, we investigate the scientific outcomes of such atypical data combinations in more than 30,000 publications that leverage over 5,000 datasets curated within one of the largest social science databases, Interuniversity Consortium for Political and Social Research. This study offers four important insights. First, combining datasets, particularly those infrequently paired, significantly contributes to both scientific and broader impacts (e.g., dissemination to the general public). Second, infrequently paired datasets maintain a strong association with citation even after controlling for the atypicality of dataset topics. In contrast, the atypicality of dataset topics has a much smaller positive impact on citation counts. Third, smaller and less experienced research teams tend to use atypical combinations of datasets in research more frequently than their larger and more experienced counterparts. Last, despite the benefits of data combination, papers that amalgamate data remain infrequent. This finding suggests that the unconventional combination of datasets is an underutilized but powerful strategy correlated with the scientific impact and broader dissemination of scientific discoveries.",
@@ -106,19 +236,19 @@
           "filter": "-1"
         },
         {
-          "title": "Isoform-specific C-terminal phosphorylation drives autoinhibition of Casein kinase 1",
-          "authors": "Rachel L. Harold, Nikhil K. Tulsian, Rajesh Narasimamurthy, Noelle Yaitanes, Maria G. Ayala Hernandez, Hsiau-Wei Lee, Priya Crosby, Sarvind M. Tripathi, David M. Virshup, Carrie L. Partch",
-          "abstract": "Casein kinase 1δ (CK1δ) controls essential biological processes including circadian rhythms and wingless-related integration site (Wnt) signaling, but how its activity is regulated is not well understood. CK1δ is inhibited by autophosphorylation of its intrinsically disordered C-terminal tail. Two CK1 splice variants, δ1 and δ2, are known to have very different effects on circadian rhythms. These variants differ only in the last 16 residues of the tail, referred to as the extreme C termini (XCT), but with marked changes in potential phosphorylation sites. Here, we test whether the XCT of these variants have different effects in autoinhibition of the kinase. Using NMR and hydrogen/deuterium exchange mass spectrometry, we show that the δ1 XCT is preferentially phosphorylated by the kinase and the δ1 tail makes more extensive interactions across the kinase domain. Mutation of δ1-specific XCT phosphorylation sites increases kinase activity both in vitro and in cells and leads to changes in the circadian period, similar to what is reported in vivo. Mechanistically, loss of the phosphorylation sites in XCT disrupts tail interaction with the kinase domain. δ1 autoinhibition relies on conserved anion-binding sites around the CK1 active site, demonstrating a common mode of product inhibition of CK1δ. These findings demonstrate how a phosphorylation cycle controls the activity of this essential kinase.",
-          "url": "http://dx.doi.org/10.1073/pnas.2415567121",
-          "doi": "10.1073/pnas.2415567121",
-          "filter": "-1"
-        },
-        {
           "title": "The smallest electrochemical bubbles",
           "authors": "Esteban D. Gadea, Yamila A. Perez Sirkin, Valeria Molinero, Damian A. Scherlis",
           "abstract": "Many of the relevant electrochemical processes in the context of catalysis or energy conversion and storage, entail the production of gases. This often implicates the nucleation of bubbles at the interface, with the concomitant blockage of the electroactive area leading to overpotentials and Ohmic drop. Nanoelectrodes have been envisioned as assets to revert this effect, by inhibiting bubble formation. Experiments show, however, that nanobubbles nucleate and attach to nanoscale electrodes, imposing a limit to the current, which turns out to be independent of size and applied potential in a wide range from 3 nm to tenths of microns. Here we investigate the potential-current response for disk electrodes of diameters down to a single-atom, employing molecular simulations including electrochemical generation of gas. Our analysis reveals that nanoelectrodes of 1 nm can offer twice as much current as that delivered by electrodes with areas four orders of magnitude larger at the same bias. This boost in the extracted current is a consequence of the destabilization of the gas phase. The grand potential of surface nanobubbles shows they can not reach a thermodynamically stable state on supports below 2 nm. As a result, the electroactive area becomes accessible to the solution and the current turns out to be sensitive to the electrode radius. In this way, our simulations establish that there is an optimal size for the nanoelectrodes, in between the single-atom and ∼3 nm, that optimizes the gas production.",
           "url": "http://dx.doi.org/10.1073/pnas.2406956121",
           "doi": "10.1073/pnas.2406956121",
+          "filter": "-1"
+        },
+        {
+          "title": "Isoform-specific C-terminal phosphorylation drives autoinhibition of Casein kinase 1",
+          "authors": "Rachel L. Harold, Nikhil K. Tulsian, Rajesh Narasimamurthy, Noelle Yaitanes, Maria G. Ayala Hernandez, Hsiau-Wei Lee, Priya Crosby, Sarvind M. Tripathi, David M. Virshup, Carrie L. Partch",
+          "abstract": "Casein kinase 1δ (CK1δ) controls essential biological processes including circadian rhythms and wingless-related integration site (Wnt) signaling, but how its activity is regulated is not well understood. CK1δ is inhibited by autophosphorylation of its intrinsically disordered C-terminal tail. Two CK1 splice variants, δ1 and δ2, are known to have very different effects on circadian rhythms. These variants differ only in the last 16 residues of the tail, referred to as the extreme C termini (XCT), but with marked changes in potential phosphorylation sites. Here, we test whether the XCT of these variants have different effects in autoinhibition of the kinase. Using NMR and hydrogen/deuterium exchange mass spectrometry, we show that the δ1 XCT is preferentially phosphorylated by the kinase and the δ1 tail makes more extensive interactions across the kinase domain. Mutation of δ1-specific XCT phosphorylation sites increases kinase activity both in vitro and in cells and leads to changes in the circadian period, similar to what is reported in vivo. Mechanistically, loss of the phosphorylation sites in XCT disrupts tail interaction with the kinase domain. δ1 autoinhibition relies on conserved anion-binding sites around the CK1 active site, demonstrating a common mode of product inhibition of CK1δ. These findings demonstrate how a phosphorylation cycle controls the activity of this essential kinase.",
+          "url": "http://dx.doi.org/10.1073/pnas.2415567121",
+          "doi": "10.1073/pnas.2415567121",
           "filter": "-1"
         }
       ],
@@ -145,27 +275,19 @@
           "filter": "-1"
         },
         {
-          "title": "Deeper but smaller: Higher-order interactions increase linear stability but shrink basins",
-          "authors": "Yuanzhao Zhang, Per Sebastian Skardal, Federico Battiston, Giovanni Petri, Maxime Lucas",
-          "abstract": "A key challenge of nonlinear dynamics and network science is to understand how higher-order interactions influence collective dynamics. Although many studies have approached this question through linear stability analysis, less is known about how higher-order interactions shape the global organization of different states. Here, we shed light on this issue by analyzing the rich patterns supported by identical Kuramoto oscillators on hypergraphs. We show that higher-order interactions can have opposite effects on linear stability and basin stability: They stabilize twisted states (including full synchrony) by improving their linear stability, but also make them hard to find by markedly reducing their basin size. Our results highlight the importance of understanding higher-order interactions from both local and global perspectives.",
-          "url": "http://dx.doi.org/10.1126/sciadv.ado8049",
-          "doi": "10.1126/sciadv.ado8049",
-          "filter": "-1"
-        },
-        {
-          "title": "N 6 -methyladenosine modification–tuned lipid metabolism controls skin immune homeostasis via regulating neutrophil chemotaxis",
-          "authors": "Lian Cui, You Wu, Zeyu Chen, Bingjie Li, Jiangluyi Cai, Zhanhe Chang, Weide Xiao, Yuanyuan Wang, Nan Yang, Yu Wang, Zengyang Yu, Lingling Yao, Rui Ma, Xin Wang, Youdong Chen, Qianyu Chen, Hao Mei, Zhiyi Lan, Yingyuan Yu, Rongfen Chen, Xingbiao Wu, Qian Yu, Jiajing Lu, Ning Yu, Xilin Zhang, Jun Liu, Lingjuan Zhang, Yuping Lai, Shaorong Gao, Yawei Gao, Chunyuan Guo, Yuling Shi",
-          "abstract": "Disrupted N 6 -methyladenosine (m 6 A) modification modulates various inflammatory disorders. However, the role of m 6 A in regulating cutaneous inflammation remains elusive. Here, we reveal that the m 6 A and its methyltransferase METTL3 are down-regulated in keratinocytes in inflammatory skin diseases. Inducible deletion of Mettl3 in murine keratinocytes results in spontaneous skin inflammation and increases susceptibility to cutaneous inflammation with activation of neutrophil recruitment. Therapeutically, restoration of m 6 A alleviates the disease phenotypes in mice and suppresses inflammation in human biopsy specimens. We support a model in which m 6 A modification stabilizes the mRNA of the lipid-metabolizing enzyme ELOVL6 via the m 6 A reader IGF2BP3, leading to a rewiring of fatty acid metabolism with a reduction in palmitic acid accumulation and, consequently, suppressing neutrophil chemotaxis in cutaneous inflammation. Our findings highlight a previously unrecognized epithelial-intrinsic m 6 A modification–lipid metabolism pathway that is essential for maintaining epidermal and immune homeostasis and lay the basis for potential therapeutic targeting of m 6 A modulators to attenuate inflammatory skin diseases.",
-          "url": "http://dx.doi.org/10.1126/sciadv.adp5332",
-          "doi": "10.1126/sciadv.adp5332",
-          "filter": "-1"
-        },
-        {
           "title": "Orbit symmetry breaking in MXene implements enhanced soft bioelectronic implants",
           "authors": "Yizhang Wu, Yuan Li, Yihan Liu, Dashuai Zhu, Sicheng Xing, Noah Lambert, Hannah Weisbecker, Siyuan Liu, Brayden Davis, Lin Zhang, Meixiang Wang, Gongkai Yuan, Chris Zhoufan You, Anran Zhang, Cate Duncan, Wanrong Xie, Yihang Wang, Yong Wang, Sreya Kanamurlapudi, Garcia-Guzman Evert, Arjun Putcha, Michael D. Dickey, Ke Huang, Wubin Bai",
           "abstract": "Bioelectronic implants featuring soft mechanics, excellent biocompatibility, and outstanding electrical performance hold promising potential to revolutionize implantable technology. These biomedical implants can record electrophysiological signals and execute direct therapeutic interventions within internal organs, offering transformative potential in the diagnosis, monitoring, and treatment of various pathological conditions. However, challenges remain in improving excessive impedance at the bioelectronic-tissue interface and thus the efficacy of electrophysiological signaling and intervention. Here, we devise orbit symmetry breaking in MXene (a low-cost scalability, biocompatible, and conductive two dimensionally layered material, which we refer to as OBXene), which exhibits low bioelectronic-tissue impedance, originating from the out-of-plane charge transfer. Furthermore, the Schottky-induced piezoelectricity stemming from the asymmetric orbital configuration of OBXene facilitates interlayered charge transport in the device. We report an OBXene-based cardiac patch applied on the left ventricular epicardium of both rodent and porcine models to enable spatiotemporal epicardium mapping and pacing while coupling the wireless and battery-free operation for long-term real-time recording and closed-loop stimulation.",
           "url": "http://dx.doi.org/10.1126/sciadv.adp8866",
           "doi": "10.1126/sciadv.adp8866",
+          "filter": "-1"
+        },
+        {
+          "title": "Deeper but smaller: Higher-order interactions increase linear stability but shrink basins",
+          "authors": "Yuanzhao Zhang, Per Sebastian Skardal, Federico Battiston, Giovanni Petri, Maxime Lucas",
+          "abstract": "A key challenge of nonlinear dynamics and network science is to understand how higher-order interactions influence collective dynamics. Although many studies have approached this question through linear stability analysis, less is known about how higher-order interactions shape the global organization of different states. Here, we shed light on this issue by analyzing the rich patterns supported by identical Kuramoto oscillators on hypergraphs. We show that higher-order interactions can have opposite effects on linear stability and basin stability: They stabilize twisted states (including full synchrony) by improving their linear stability, but also make them hard to find by markedly reducing their basin size. Our results highlight the importance of understanding higher-order interactions from both local and global perspectives.",
+          "url": "http://dx.doi.org/10.1126/sciadv.ado8049",
+          "doi": "10.1126/sciadv.ado8049",
           "filter": "-1"
         },
         {
@@ -185,19 +307,19 @@
           "filter": "-1"
         },
         {
+          "title": "N 6 -methyladenosine modification–tuned lipid metabolism controls skin immune homeostasis via regulating neutrophil chemotaxis",
+          "authors": "Lian Cui, You Wu, Zeyu Chen, Bingjie Li, Jiangluyi Cai, Zhanhe Chang, Weide Xiao, Yuanyuan Wang, Nan Yang, Yu Wang, Zengyang Yu, Lingling Yao, Rui Ma, Xin Wang, Youdong Chen, Qianyu Chen, Hao Mei, Zhiyi Lan, Yingyuan Yu, Rongfen Chen, Xingbiao Wu, Qian Yu, Jiajing Lu, Ning Yu, Xilin Zhang, Jun Liu, Lingjuan Zhang, Yuping Lai, Shaorong Gao, Yawei Gao, Chunyuan Guo, Yuling Shi",
+          "abstract": "Disrupted N 6 -methyladenosine (m 6 A) modification modulates various inflammatory disorders. However, the role of m 6 A in regulating cutaneous inflammation remains elusive. Here, we reveal that the m 6 A and its methyltransferase METTL3 are down-regulated in keratinocytes in inflammatory skin diseases. Inducible deletion of Mettl3 in murine keratinocytes results in spontaneous skin inflammation and increases susceptibility to cutaneous inflammation with activation of neutrophil recruitment. Therapeutically, restoration of m 6 A alleviates the disease phenotypes in mice and suppresses inflammation in human biopsy specimens. We support a model in which m 6 A modification stabilizes the mRNA of the lipid-metabolizing enzyme ELOVL6 via the m 6 A reader IGF2BP3, leading to a rewiring of fatty acid metabolism with a reduction in palmitic acid accumulation and, consequently, suppressing neutrophil chemotaxis in cutaneous inflammation. Our findings highlight a previously unrecognized epithelial-intrinsic m 6 A modification–lipid metabolism pathway that is essential for maintaining epidermal and immune homeostasis and lay the basis for potential therapeutic targeting of m 6 A modulators to attenuate inflammatory skin diseases.",
+          "url": "http://dx.doi.org/10.1126/sciadv.adp5332",
+          "doi": "10.1126/sciadv.adp5332",
+          "filter": "-1"
+        },
+        {
           "title": "Prediction of metal-free Stoner and Mott-Hubbard magnetism in triangulene-based two-dimensional polymers",
           "authors": "Hongde Yu, Thomas Heine",
           "abstract": "Ferromagnetism and antiferromagnetism require robust long-range magnetic ordering, which typically involves strongly interacting spins localized at transition metal atoms. However, in metal-free systems, the spin orbitals are largely delocalized, and weak coupling between the spins in the lattice hampers long-range ordering. Metal-free magnetism is of fundamental interest to physical sciences, unlocking unprecedented dimensions for strongly correlated materials and biocompatible magnets. Here, we present a strategy to achieve strong coupling between spin centers of planar radical monomers in π-conjugated two-dimensional (2D) polymers and rationally control the orderings. If the π-states in these triangulene-based 2D polymers are half-occupied, then we predict that they are antiferromagnetic Mott-Hubbard insulators. Incorporating a boron or nitrogen heteroatom per monomer results in Stoner ferromagnetism and half-metallicity, with the Fermi level located at spin-polarized Dirac points. An unprecedented antiferromagnetic half-semiconductor is observed in a binary boron-nitrogen–centered 2D polymer. Our findings pioneer Stoner and Mott-Hubbard magnetism emerging in the electronic π-system of crystalline-conjugated 2D polymers.",
           "url": "http://dx.doi.org/10.1126/sciadv.adq7954",
           "doi": "10.1126/sciadv.adq7954",
-          "filter": "-1"
-        },
-        {
-          "title": "Oxidative stability of chelated Sn(II) (aq) at neutral pH: The critical role of NO 3 − ions",
-          "authors": "Shaoyi Zhang, Gokul V. Govindaraju, Chi-Yuan Cheng, Carlo Amorin Daep, Dandan Chen, Cristina Castro, Patrick S. Corrigan, James G. Masters, Long Pan, Guofeng Xu, Tatiana V. Brinzari, Carl P. Myers",
-          "abstract": "Tin(II) compounds are versatile materials with applications across fields such as catalysis, diagnostic imaging, and therapeutic drugs. However, oxidative stabilization of Sn(II) has remained an unresolved challenge as its reactivity with water and dioxygen results in loss of functionality, limiting technological advancement. Approaches to slow Sn(II) oxidation with chelating ligands or sacrificial electron donors have yielded only moderate improvements. We demonstrate here that the addition of nitrate to pyrophosphate-chelated Sn(II) (aq) suppresses Sn(II) oxidation in water across a broad pH range. Evidence of hydroxyl radical concentration reduction and detection of a radical nitrogen species that only forms in the presence of chelated Sn(II) point to a radical-based reaction mechanism. While this chemistry can be broadly applied, we present that this approach maintains Sn(II)’s antibacterial and anti-inflammatory efficacies as an example of sustained oral chemotherapeutic functionality.",
-          "url": "http://dx.doi.org/10.1126/sciadv.adq0839",
-          "doi": "10.1126/sciadv.adq0839",
           "filter": "-1"
         },
         {
@@ -209,14 +331,6 @@
           "filter": "-1"
         },
         {
-          "title": "In situ continuous hydrogen-bonded engineering for intrinsically stretchable and healable high-mobility polymer semiconductors",
-          "authors": "Haoguo Yue, Ying Wang, Shaochuan Luo, Junfeng Guo, Jun Jin, Gongxi Li, Zhihao Meng, Lei Zhang, Dongshan Zhou, Yonggang Zhen, Wenping Hu",
-          "abstract": "As a key component for wearable electronics, intrinsically stretchable and healable semiconducting polymers are scarce because carrier mobility is often reduced with increasing stretchability and self-healability. Here, we combine stepwise polymerization and thermal conversion to introduce in situ continuous hydrogen bonding sites in a polymer backbone without breaking the conjugation or introducing bulky softer side chains, benefiting the intrachain and interchain charge transport. We demonstrate that a regular sequence structure facilitated the formation of big nanofibers with a high degree of aggregation, providing the loose and porous thin film with simultaneously improved charge transport, stretchability, and self-healability. The mobility of damaged devices can be recovered to 81% after a healing treatment. Fully stretchable transistor based on the designed polymer exhibited a greatly enhanced mobility up to 1.08 square centimeters per volt per second under 100% strain, which is an unprecedented value and constitutes a major step for the development of intrinsically stretchable and healable semiconducting polymers.",
-          "url": "http://dx.doi.org/10.1126/sciadv.adq0171",
-          "doi": "10.1126/sciadv.adq0171",
-          "filter": "-1"
-        },
-        {
           "title": "Identifying metabolic limitations in the tumor microenvironment",
           "authors": "Guillaume Cognet, Alexander Muir",
           "abstract": "Solid tumors are characterized by dysfunctional vasculature that limits perfusion and delivery of nutrients to the tumor microenvironment. Limited perfusion coupled with the high metabolic demand of growing tumors has led to the hypothesis that many tumors experience metabolic stress driven by limited availability of nutrients such as glucose, oxygen, and amino acids in the tumor. Such metabolic stress has important implications for the biology of cells in the microenvironment, affecting both disease progression and response to therapies. Recently, techniques have been developed to identify limiting nutrients and resulting metabolic stresses in solid tumors. These techniques have greatly expanded our understanding of the metabolic limitations in tumors. This review will discuss these experimental tools and the emerging picture of metabolic limitations in tumors arising from recent studies using these approaches.",
@@ -225,19 +339,19 @@
           "filter": "-1"
         },
         {
-          "title": "SRSF6 modulates histone-chaperone HIRA splicing to orchestrate AR and E2F activity in prostate cancer",
-          "authors": "Antonio J. Montero-Hidalgo, Juan M. Jiménez-Vacas, Enrique Gómez-Gómez, Francisco Porcel-Pastrana, Prudencio Sáez-Martínez, Jesús M. Pérez-Gómez, Antonio C. Fuentes-Fayos, Ricardo Blázquez-Encinas, Rafael Sánchez-Sánchez, Teresa González-Serrano, Elena Castro, Pablo J. López-Soto, Julia Carrasco-Valiente, André Sarmento-Cabral, Antonio J. Martinez-Fuentes, Eduardo Eyras, Justo P. Castaño, Adam Sharp, David Olmos, Manuel D. Gahete, Raúl M. Luque",
-          "abstract": "Despite novel therapeutic strategies, advanced-stage prostate cancer (PCa) remains highly lethal, pointing out the urgent need for effective therapeutic strategies. While dysregulation of the splicing process is considered a cancer hallmark, the role of certain splicing factors remains unknown in PCa. This study focuses on characterizing the levels and role of SRSF6 in this disease. Comprehensive analyses of SRSF6 alterations (copy number/mRNA/protein) were conducted across eight well-characterized PCa cohorts and the Hi-MYC transgenic model. SRSF6 was up-regulated in PCa samples, correlating with adverse clinical parameters. Functional assays, both in vitro (cell proliferation, migration, colony, and tumorsphere formation) and in vivo (xenograft tumors), demonstrated the impact of SRSF6 modulation on critical cancer hallmarks. Mechanistically, SRSF6 regulates the splicing pattern of the histone-chaperone HIRA , consequently affecting the activity of H3.3 in PCa and breast cancer cell models and disrupting pivotal oncogenic pathways (AR and E2F) in PCa cells. These findings underscore SRSF6 as a promising therapeutic target for PCa/advanced-stage PCa.",
-          "url": "http://dx.doi.org/10.1126/sciadv.ado8231",
-          "doi": "10.1126/sciadv.ado8231",
+          "title": "Oxidative stability of chelated Sn(II) (aq) at neutral pH: The critical role of NO 3 − ions",
+          "authors": "Shaoyi Zhang, Gokul V. Govindaraju, Chi-Yuan Cheng, Carlo Amorin Daep, Dandan Chen, Cristina Castro, Patrick S. Corrigan, James G. Masters, Long Pan, Guofeng Xu, Tatiana V. Brinzari, Carl P. Myers",
+          "abstract": "Tin(II) compounds are versatile materials with applications across fields such as catalysis, diagnostic imaging, and therapeutic drugs. However, oxidative stabilization of Sn(II) has remained an unresolved challenge as its reactivity with water and dioxygen results in loss of functionality, limiting technological advancement. Approaches to slow Sn(II) oxidation with chelating ligands or sacrificial electron donors have yielded only moderate improvements. We demonstrate here that the addition of nitrate to pyrophosphate-chelated Sn(II) (aq) suppresses Sn(II) oxidation in water across a broad pH range. Evidence of hydroxyl radical concentration reduction and detection of a radical nitrogen species that only forms in the presence of chelated Sn(II) point to a radical-based reaction mechanism. While this chemistry can be broadly applied, we present that this approach maintains Sn(II)’s antibacterial and anti-inflammatory efficacies as an example of sustained oral chemotherapeutic functionality.",
+          "url": "http://dx.doi.org/10.1126/sciadv.adq0839",
+          "doi": "10.1126/sciadv.adq0839",
           "filter": "-1"
         },
         {
-          "title": "Quantifying the topology of magnetic skyrmions in three dimensions",
-          "authors": "David Raftrey, Simone Finizio, Rajesh V. Chopdekar, Scott Dhuey, Temuujin Bayaraa, Paul Ashby, Jörg Raabe, Tiffany Santos, Sinéad Griffin, Peter Fischer",
-          "abstract": "Magnetic skyrmions have so far been treated as two-dimensional spin structures characterized by a topological winding number. However, in real systems with the finite thickness of the device material being larger than the magnetic exchange length, the skyrmion spin texture extends into the third dimension and cannot be assumed as homogeneous. Using soft x-ray laminography, we reconstruct with about 20-nanometer spatial (voxel) size the full three-dimensional spin texture of a skyrmion in an 800-nanometer-diameter and 95-nanometer-thin disk patterned into a 30× [iridium/cobalt/platinum] multilayered film. A quantitative analysis finds that the evolution of the radial profile of the topological skyrmion number is nonuniform across the thickness of the disk. Estimates of the micromagnetic energy densities suggest that the changes in topological profile are related to nonuniform competing energetic interactions. Our results provide a foundation for nanoscale metrology for spintronics devices using topology as a design parameter.",
-          "url": "http://dx.doi.org/10.1126/sciadv.adp8615",
-          "doi": "10.1126/sciadv.adp8615",
+          "title": "In situ continuous hydrogen-bonded engineering for intrinsically stretchable and healable high-mobility polymer semiconductors",
+          "authors": "Haoguo Yue, Ying Wang, Shaochuan Luo, Junfeng Guo, Jun Jin, Gongxi Li, Zhihao Meng, Lei Zhang, Dongshan Zhou, Yonggang Zhen, Wenping Hu",
+          "abstract": "As a key component for wearable electronics, intrinsically stretchable and healable semiconducting polymers are scarce because carrier mobility is often reduced with increasing stretchability and self-healability. Here, we combine stepwise polymerization and thermal conversion to introduce in situ continuous hydrogen bonding sites in a polymer backbone without breaking the conjugation or introducing bulky softer side chains, benefiting the intrachain and interchain charge transport. We demonstrate that a regular sequence structure facilitated the formation of big nanofibers with a high degree of aggregation, providing the loose and porous thin film with simultaneously improved charge transport, stretchability, and self-healability. The mobility of damaged devices can be recovered to 81% after a healing treatment. Fully stretchable transistor based on the designed polymer exhibited a greatly enhanced mobility up to 1.08 square centimeters per volt per second under 100% strain, which is an unprecedented value and constitutes a major step for the development of intrinsically stretchable and healable semiconducting polymers.",
+          "url": "http://dx.doi.org/10.1126/sciadv.adq0171",
+          "doi": "10.1126/sciadv.adq0171",
           "filter": "-1"
         },
         {
@@ -249,6 +363,22 @@
           "filter": "-1"
         },
         {
+          "title": "Quantifying the topology of magnetic skyrmions in three dimensions",
+          "authors": "David Raftrey, Simone Finizio, Rajesh V. Chopdekar, Scott Dhuey, Temuujin Bayaraa, Paul Ashby, Jörg Raabe, Tiffany Santos, Sinéad Griffin, Peter Fischer",
+          "abstract": "Magnetic skyrmions have so far been treated as two-dimensional spin structures characterized by a topological winding number. However, in real systems with the finite thickness of the device material being larger than the magnetic exchange length, the skyrmion spin texture extends into the third dimension and cannot be assumed as homogeneous. Using soft x-ray laminography, we reconstruct with about 20-nanometer spatial (voxel) size the full three-dimensional spin texture of a skyrmion in an 800-nanometer-diameter and 95-nanometer-thin disk patterned into a 30× [iridium/cobalt/platinum] multilayered film. A quantitative analysis finds that the evolution of the radial profile of the topological skyrmion number is nonuniform across the thickness of the disk. Estimates of the micromagnetic energy densities suggest that the changes in topological profile are related to nonuniform competing energetic interactions. Our results provide a foundation for nanoscale metrology for spintronics devices using topology as a design parameter.",
+          "url": "http://dx.doi.org/10.1126/sciadv.adp8615",
+          "doi": "10.1126/sciadv.adp8615",
+          "filter": "-1"
+        },
+        {
+          "title": "SRSF6 modulates histone-chaperone HIRA splicing to orchestrate AR and E2F activity in prostate cancer",
+          "authors": "Antonio J. Montero-Hidalgo, Juan M. Jiménez-Vacas, Enrique Gómez-Gómez, Francisco Porcel-Pastrana, Prudencio Sáez-Martínez, Jesús M. Pérez-Gómez, Antonio C. Fuentes-Fayos, Ricardo Blázquez-Encinas, Rafael Sánchez-Sánchez, Teresa González-Serrano, Elena Castro, Pablo J. López-Soto, Julia Carrasco-Valiente, André Sarmento-Cabral, Antonio J. Martinez-Fuentes, Eduardo Eyras, Justo P. Castaño, Adam Sharp, David Olmos, Manuel D. Gahete, Raúl M. Luque",
+          "abstract": "Despite novel therapeutic strategies, advanced-stage prostate cancer (PCa) remains highly lethal, pointing out the urgent need for effective therapeutic strategies. While dysregulation of the splicing process is considered a cancer hallmark, the role of certain splicing factors remains unknown in PCa. This study focuses on characterizing the levels and role of SRSF6 in this disease. Comprehensive analyses of SRSF6 alterations (copy number/mRNA/protein) were conducted across eight well-characterized PCa cohorts and the Hi-MYC transgenic model. SRSF6 was up-regulated in PCa samples, correlating with adverse clinical parameters. Functional assays, both in vitro (cell proliferation, migration, colony, and tumorsphere formation) and in vivo (xenograft tumors), demonstrated the impact of SRSF6 modulation on critical cancer hallmarks. Mechanistically, SRSF6 regulates the splicing pattern of the histone-chaperone HIRA , consequently affecting the activity of H3.3 in PCa and breast cancer cell models and disrupting pivotal oncogenic pathways (AR and E2F) in PCa cells. These findings underscore SRSF6 as a promising therapeutic target for PCa/advanced-stage PCa.",
+          "url": "http://dx.doi.org/10.1126/sciadv.ado8231",
+          "doi": "10.1126/sciadv.ado8231",
+          "filter": "-1"
+        },
+        {
           "title": "Structural insights into phosphatidylethanolamine N -methyltransferase PmtA mediating bacterial phosphatidylcholine synthesis",
           "authors": "Salma D. Salsabila, Jungwook Kim",
           "abstract": "Phosphatidylethanolamine N -methyltransferase (PmtA) catalyzes the biosynthesis of phosphatidylcholine (PC) from phosphatidylethanolamine (PE). Although PC is one of the major phospholipids constituting bilayer membranes in eukaryotes, certain bacterial species encode PmtA, a membrane-associated methyltransferase, to produce PC, which is correlated with cellular stress responses, adaptability to environmental changes, and symbiosis or virulence with eukaryotic hosts. Depending on the organism, multiple PmtAs may be required for producing monomethyl- and dimethyl-PE derivatives along with PC, whereas in organisms such as Rubellimicrobium thermophilum , a single enzyme is sufficient to direct all three methylation steps. In this study, we present the x-ray crystal structures of PmtA from R. thermophilum in complex with dimethyl-PE and S -adenosyl- l -homocysteine, as well as in its lipid-free form. Moreover, we demonstrate that the enzyme associates with the cellular membrane via electrostatic interactions facilitated by a group of critical basic residues and can successively methylate PE and its methylated derivatives, culminating in the production of PC.",
@@ -257,11 +387,19 @@
           "filter": "-1"
         },
         {
-          "title": "Activation of NOD1 on tumor-associated macrophages augments CD8 + T cell–mediated antitumor immunity in hepatocellular carcinoma",
-          "authors": "Feng Zhang, Qiuyu Jiang, Jialiang Cai, Fansheng Meng, Wenqing Tang, Zhiyong Liu, Xiahui Lin, Wenfeng Liu, Yi Zhou, Xizhong Shen, Ruyi Xue, Ling Dong, Si Zhang",
-          "abstract": "The efficacy of immunotherapy targeting the PD-1/PD-L1 pathway in hepatocellular carcinoma (HCC) is limited. NOD-like receptors (NLRs) comprise a highly evolutionarily conserved family of cytosolic bacterial sensors, yet their impact on antitumor immunity against HCC remains unclear. In this study, we uncovered that NOD1, a well-studied member of NLR family, exhibits predominant expression in tumor-associated macrophages (TAMs) and correlates positively with improved prognosis and responses to anti–PD-1 treatments in patients with HCC. Activation of NOD1 in vivo augments antitumor immunity and enhances the effectiveness of anti–PD-1 therapy. Mechanistically, NOD1 activation resulted in diminished expression of perilipin 5, thereby hindering fatty acid oxidation and inducing free fatty acid accumulation in TAMs. This metabolic alteration promoted membrane localization of the costimulatory molecule OX40L in a lipid modification–dependent manner, thereby activating CD8 + T cells. These findings unveil a previously unrecognized role for NOD1 in fortifying antitumor T cell immunity in HCC, potentially advancing cancer immunotherapy.",
-          "url": "http://dx.doi.org/10.1126/sciadv.adp8266",
-          "doi": "10.1126/sciadv.adp8266",
+          "title": "Substrate recognition principles for the PP2A-B55 protein phosphatase",
+          "authors": "Thomas Kruse, Dimitriya H. Garvanska, Julia K. Varga, William Garland, Brennan C. McEwan, Jamin B. Hein, Melanie Bianca Weisser, Iker Benavides-Puy, Camilla Bachman Chan, Paula Sotelo-Parrilla, Blanca Lopez Mendez, A. Arockia Jeyaprakash, Ora Schueler-Furman, Torben Heick Jensen, Arminja N. Kettenbach, Jakob Nilsson",
+          "abstract": "The PP2A-B55 phosphatase regulates a plethora of signaling pathways throughout eukaryotes. How PP2A-B55 selects its substrates presents a severe knowledge gap. By integrating AlphaFold modeling with comprehensive high-resolution mutational scanning, we show that α helices in substrates bind B55 through an evolutionary conserved mechanism. Despite a large diversity in sequence and composition, these α helices share key amino acid determinants that engage discrete hydrophobic and electrostatic patches. Using deep learning protein design, we generate a specific and potent competitive peptide inhibitor of PP2A-B55 substrate interactions. With this inhibitor, we uncover that PP2A-B55 regulates the nuclear exosome targeting (NEXT) complex by binding to an α-helical recruitment module in the RNA binding protein 7 (RBM7), a component of the NEXT complex. Collectively, our findings provide a framework for the understanding and interrogation of PP2A-B55 function in health and disease.",
+          "url": "http://dx.doi.org/10.1126/sciadv.adp5491",
+          "doi": "10.1126/sciadv.adp5491",
+          "filter": "-1"
+        },
+        {
+          "title": "Models and observations agree on fewer and milder midlatitude cold extremes even over recent decades of rapid Arctic warming",
+          "authors": "Russell Blackport, Michael Sigmond, James A. Screen",
+          "abstract": "An apparent increase in observed cold extremes over recent decades in the northern midlatitudes has been reported, in contrast to robust decreases predicted by climate models. This discrepancy has led to suggestions that models fail to accurately simulate changes in weather patterns caused by Arctic warming. Here, we show that the observed frequency and intensity of midlatitude cold extremes have strongly decreased since 1990 and are consistent with modeled trends. The previously reported increase in cold extremes was overestimated due to an artifact of changing data coverage. We also show that the fraction of land with observed cold extreme increases over recent decades is consistent with model internal variability on top of a near-uniform forced reduction in cold extremes across the midlatitudes. Our results provide strong evidence of a decrease in midlatitude cold extremes over recent decades and consistency between models and observations.",
+          "url": "http://dx.doi.org/10.1126/sciadv.adp1346",
+          "doi": "10.1126/sciadv.adp1346",
           "filter": "-1"
         },
         {
@@ -281,11 +419,11 @@
           "filter": "-1"
         },
         {
-          "title": "Models and observations agree on fewer and milder midlatitude cold extremes even over recent decades of rapid Arctic warming",
-          "authors": "Russell Blackport, Michael Sigmond, James A. Screen",
-          "abstract": "An apparent increase in observed cold extremes over recent decades in the northern midlatitudes has been reported, in contrast to robust decreases predicted by climate models. This discrepancy has led to suggestions that models fail to accurately simulate changes in weather patterns caused by Arctic warming. Here, we show that the observed frequency and intensity of midlatitude cold extremes have strongly decreased since 1990 and are consistent with modeled trends. The previously reported increase in cold extremes was overestimated due to an artifact of changing data coverage. We also show that the fraction of land with observed cold extreme increases over recent decades is consistent with model internal variability on top of a near-uniform forced reduction in cold extremes across the midlatitudes. Our results provide strong evidence of a decrease in midlatitude cold extremes over recent decades and consistency between models and observations.",
-          "url": "http://dx.doi.org/10.1126/sciadv.adp1346",
-          "doi": "10.1126/sciadv.adp1346",
+          "title": "Activation of NOD1 on tumor-associated macrophages augments CD8 + T cell–mediated antitumor immunity in hepatocellular carcinoma",
+          "authors": "Feng Zhang, Qiuyu Jiang, Jialiang Cai, Fansheng Meng, Wenqing Tang, Zhiyong Liu, Xiahui Lin, Wenfeng Liu, Yi Zhou, Xizhong Shen, Ruyi Xue, Ling Dong, Si Zhang",
+          "abstract": "The efficacy of immunotherapy targeting the PD-1/PD-L1 pathway in hepatocellular carcinoma (HCC) is limited. NOD-like receptors (NLRs) comprise a highly evolutionarily conserved family of cytosolic bacterial sensors, yet their impact on antitumor immunity against HCC remains unclear. In this study, we uncovered that NOD1, a well-studied member of NLR family, exhibits predominant expression in tumor-associated macrophages (TAMs) and correlates positively with improved prognosis and responses to anti–PD-1 treatments in patients with HCC. Activation of NOD1 in vivo augments antitumor immunity and enhances the effectiveness of anti–PD-1 therapy. Mechanistically, NOD1 activation resulted in diminished expression of perilipin 5, thereby hindering fatty acid oxidation and inducing free fatty acid accumulation in TAMs. This metabolic alteration promoted membrane localization of the costimulatory molecule OX40L in a lipid modification–dependent manner, thereby activating CD8 + T cells. These findings unveil a previously unrecognized role for NOD1 in fortifying antitumor T cell immunity in HCC, potentially advancing cancer immunotherapy.",
+          "url": "http://dx.doi.org/10.1126/sciadv.adp8266",
+          "doi": "10.1126/sciadv.adp8266",
           "filter": "-1"
         },
         {
@@ -294,14 +432,6 @@
           "abstract": "Coherent manipulation of matter waves, a distinctive hallmark of quantum mechanics, is fundamental to modern quantum technologies. Spatial adiabatic passage (SAP) is a prime example of this phenomenon, where a wave packet is transferred between two uncoupled localized modes by adjusting the tunneling coupling to an intermediate third mode in a counterintuitive sequence. Although this concept was introduced over two decades ago, its observation was previously limited to electromagnetic waves. In this study, we demonstrate this quantum interference effect using massive particles that tunnel between three micro-optical traps (“optical tweezers”). We begin by preparing ultracold fermionic atoms in low vibrational eigenstates of one trap, followed by manipulating the distance between the traps to execute the SAP protocol. We observe a smooth and high-efficiency transfer of atoms between the two outer traps, with a very low population remaining in the central trap. These findings open possibilities for advanced control schemes in optical tweezer array platforms.",
           "url": "http://dx.doi.org/10.1126/sciadv.adl1220",
           "doi": "10.1126/sciadv.adl1220",
-          "filter": "-1"
-        },
-        {
-          "title": "Substrate recognition principles for the PP2A-B55 protein phosphatase",
-          "authors": "Thomas Kruse, Dimitriya H. Garvanska, Julia K. Varga, William Garland, Brennan C. McEwan, Jamin B. Hein, Melanie Bianca Weisser, Iker Benavides-Puy, Camilla Bachman Chan, Paula Sotelo-Parrilla, Blanca Lopez Mendez, A. Arockia Jeyaprakash, Ora Schueler-Furman, Torben Heick Jensen, Arminja N. Kettenbach, Jakob Nilsson",
-          "abstract": "The PP2A-B55 phosphatase regulates a plethora of signaling pathways throughout eukaryotes. How PP2A-B55 selects its substrates presents a severe knowledge gap. By integrating AlphaFold modeling with comprehensive high-resolution mutational scanning, we show that α helices in substrates bind B55 through an evolutionary conserved mechanism. Despite a large diversity in sequence and composition, these α helices share key amino acid determinants that engage discrete hydrophobic and electrostatic patches. Using deep learning protein design, we generate a specific and potent competitive peptide inhibitor of PP2A-B55 substrate interactions. With this inhibitor, we uncover that PP2A-B55 regulates the nuclear exosome targeting (NEXT) complex by binding to an α-helical recruitment module in the RNA binding protein 7 (RBM7), a component of the NEXT complex. Collectively, our findings provide a framework for the understanding and interrogation of PP2A-B55 function in health and disease.",
-          "url": "http://dx.doi.org/10.1126/sciadv.adp5491",
-          "doi": "10.1126/sciadv.adp5491",
           "filter": "-1"
         },
         {

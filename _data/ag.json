@@ -1,0 +1,1244 @@
+{
+  "update": "2024-10-03",
+  "content": [
+    {
+      "journal_full": "Agricultural and Forest Meteorology",
+      "journal_short": "AgFM",
+      "articles": [
+        {
+          "title": "The dynamic trajectory of carbon dioxide removal from terrestrial ecosystem restoration: A critical review",
+          "authors": "Shuli Niu, Ruiyang Zhang, Song Wang, Yanan Wu, Weinan Chen, Dashuan Tian, Yuanyuan Huang, Jianyang Xia, Yunting Fang, Yangjian Zhang, Lingli Liu, Junhua Yan, Guirui Yu",
+          "url": "http://dx.doi.org/10.1016/j.agrformet.2024.110244",
+          "doi": "10.1016/j.agrformet.2024.110244",
+          "filter": 0
+        },
+        {
+          "title": "Editorial special issue: Celebrating 25 years of AmeriFlux",
+          "authors": "Trevor F. Keenan, Gil Bohrer, Russell L. Scott, Rodrigo Vargas",
+          "url": "http://dx.doi.org/10.1016/j.agrformet.2024.110241",
+          "doi": "10.1016/j.agrformet.2024.110241",
+          "filter": 0
+        },
+        {
+          "title": "Patterns and controls of leaf litter nitrogen and phosphorus of broad-leaved tree species across and within the tropics and the extra-tropics",
+          "authors": "Boyu Ma, Yang Wang, Jielin Ge, Zongqiang Xie",
+          "url": "http://dx.doi.org/10.1016/j.agrformet.2024.110249",
+          "doi": "10.1016/j.agrformet.2024.110249",
+          "filter": 0
+        },
+        {
+          "title": "Novel metrics for assessing vegetation phenology from hydrological processes: Comparison with photosynthetic phenology",
+          "authors": "Fan Liu, Xingchang Wang, Yucui Zhang, Yanjun Shen",
+          "url": "http://dx.doi.org/10.1016/j.agrformet.2024.110245",
+          "doi": "10.1016/j.agrformet.2024.110245",
+          "filter": 0
+        },
+        {
+          "title": "In pursuit of change: Divergent temporal shifts in climate sensitivity of Norway spruce along an elevational and continentality gradient in the Carpathians",
+          "authors": "Andrei Popa, Jernej Jevšenak, Ionel Popa, Ovidiu Badea, Allan Buras",
+          "url": "http://dx.doi.org/10.1016/j.agrformet.2024.110243",
+          "doi": "10.1016/j.agrformet.2024.110243",
+          "filter": 0
+        },
+        {
+          "title": "Combining tree-ring growth and carbon isotope data enhances the understanding of climate sensitivity and physiological responses for Chinese fir in a common garden",
+          "authors": "Hong Wang, Aiguo Duan, Xiaoying Liu, Anming Zhu, Jianguo Zhang",
+          "url": "http://dx.doi.org/10.1016/j.agrformet.2024.110246",
+          "doi": "10.1016/j.agrformet.2024.110246",
+          "filter": 0
+        },
+        {
+          "title": "Impacts of forest canopy heterogeneity on plot-scale hydrometeorological variables - Insights from an experiment in the humid boreal forest with the Canadian Land Surface Scheme",
+          "authors": "Philippe Lagueux, Jean-Daniel Sylvain, Guillaume Drolet, Pierre-Erik Isabelle, Gonzalo Leonardini, Daniel F. Nadeau, François Anctil",
+          "url": "http://dx.doi.org/10.1016/j.agrformet.2024.110194",
+          "doi": "10.1016/j.agrformet.2024.110194",
+          "filter": 0
+        },
+        {
+          "title": "Canopy temperature dynamics are closely aligned with ecosystem water availability across a water- to energy-limited gradient",
+          "authors": "Mostafa Javadian, Russell L. Scott, William Woodgate, Andrew D. Richardson, Matthew P. Dannenberg, William K. Smith",
+          "url": "http://dx.doi.org/10.1016/j.agrformet.2024.110206",
+          "doi": "10.1016/j.agrformet.2024.110206",
+          "filter": 0
+        },
+        {
+          "title": "Effects of slow temperature acclimation of photosynthesis on gross primary production estimation",
+          "authors": "Jia Bai, Helin Zhang, Rui Sun, Yuhao Pan",
+          "url": "http://dx.doi.org/10.1016/j.agrformet.2024.110197",
+          "doi": "10.1016/j.agrformet.2024.110197",
+          "filter": 0
+        },
+        {
+          "title": "Influence of film color, mulching ratio and soil–mulch contact degree on heat transfer in Northwest China",
+          "authors": "Yin Zhao, Zunqiu Xu, Xiaomin Mao, Sien Li, Xingchao Qi, Jiangang Che",
+          "url": "http://dx.doi.org/10.1016/j.agrformet.2024.110208",
+          "doi": "10.1016/j.agrformet.2024.110208",
+          "filter": 0
+        },
+        {
+          "title": "The carbon balance and water use efficiency of an intensively managed forage crop in the Lower Fraser Valley in British Columbia, Canada",
+          "authors": "Patrick K.C. Pow, Rachhpal S. Jassal, Mark Johnson, Sean Smukler, Zoran Nesic, T. Andrew Black",
+          "url": "http://dx.doi.org/10.1016/j.agrformet.2024.110178",
+          "doi": "10.1016/j.agrformet.2024.110178",
+          "filter": 0
+        },
+        {
+          "title": "Over 100-fold improvement in the accuracy of relaxed eddy accumulation flux estimates through error diffusion",
+          "authors": "Anas Emad",
+          "url": "http://dx.doi.org/10.1016/j.agrformet.2024.110207",
+          "doi": "10.1016/j.agrformet.2024.110207",
+          "filter": 0
+        },
+        {
+          "title": "Should two-parameter generalized complementary models for evaporation be simplified to single-parameter? A pairwise evaluation over grassland and forest sites",
+          "authors": "Songjun Han, Baozhong Zhang, Weijie Wang, Fuqiang Tian, Lei Wang",
+          "url": "http://dx.doi.org/10.1016/j.agrformet.2024.110209",
+          "doi": "10.1016/j.agrformet.2024.110209",
+          "filter": 0
+        },
+        {
+          "title": "Are the ecosystem-level evaporative stress indices representative of evaporative stress of vegetation?",
+          "authors": "Pushpendra Raghav, Mukesh Kumar",
+          "url": "http://dx.doi.org/10.1016/j.agrformet.2024.110195",
+          "doi": "10.1016/j.agrformet.2024.110195",
+          "filter": 0
+        },
+        {
+          "title": "Modeling weather-driven long-distance dispersal of spruce budworm moths (Choristoneura fumiferana). Part 2: Flight model calibration using radar data",
+          "authors": "Matthew Garcia, Brian R. Sturtevant, Yan Boulanger, Jacques Régnière",
+          "url": "http://dx.doi.org/10.1016/j.agrformet.2024.110210",
+          "doi": "10.1016/j.agrformet.2024.110210",
+          "filter": 0
+        },
+        {
+          "title": "How advection affects the surface energy balance and its closure at an irrigated alfalfa field",
+          "authors": "Tianxin Wang, Joseph Alfieri, Kanishka Mallick, Ariane Arias-Ortiz, Martha Anderson, Joshua B. Fisher, Manuela Girotto, Daphne Szutu, Joseph Verfaillie, Dennis Baldocchi",
+          "url": "http://dx.doi.org/10.1016/j.agrformet.2024.110196",
+          "doi": "10.1016/j.agrformet.2024.110196",
+          "filter": 0
+        },
+        {
+          "title": "Surface energy fluxes in a drip-irrigated agroecosystem: Unique advection effect of oasis",
+          "authors": "Haichao Yu, Tianyi Yang, Sien Li, Shaozhong Kang, Taisheng Du, Yuexin Wang, Haochong Chen, Hui Guo",
+          "url": "http://dx.doi.org/10.1016/j.agrformet.2024.110204",
+          "doi": "10.1016/j.agrformet.2024.110204",
+          "filter": 0
+        },
+        {
+          "title": "Impacts of forest cover change on local temperature in Yangtze River Delta and Pearl River Delta urban agglomerations of China",
+          "authors": "Qing Liu, Wenjuan Shen, Tongyu Wang, Jiaying He, Pingting Cao, Tianyi Sun, Ying Zhang, Wenjing Ye, Chengquan Huang",
+          "url": "http://dx.doi.org/10.1016/j.agrformet.2024.110205",
+          "doi": "10.1016/j.agrformet.2024.110205",
+          "filter": 0
+        }
+      ],
+      "articles_hidden": [
+        {
+          "title": "Editorial Board",
+          "url": "http://dx.doi.org/10.1016/s0168-1923(24)00338-1",
+          "doi": "10.1016/s0168-1923(24)00338-1",
+          "filter": 1
+        }
+      ]
+    },
+    {
+      "journal_full": "Agricultural Systems",
+      "journal_short": "AgSys",
+      "articles": [
+        {
+          "title": "Determinants of adoption of climate resilient agricultural solutions",
+          "authors": "Sujata Shrestha, Uttam Babu Shrestha, Bibek Raj Shrestha, Shirish Maharjan, Erica Udas, Kamal Aryal",
+          "url": "http://dx.doi.org/10.1016/j.agsy.2024.104139",
+          "doi": "10.1016/j.agsy.2024.104139",
+          "filter": 0
+        },
+        {
+          "title": "A comparison of animal and plant-based proteins from an economic, environmental, and nutritional perspective in the Republic of Ireland",
+          "authors": "Marie Merlo, Thia Hennessy, Cathal Buckley, James O'Mahony",
+          "url": "http://dx.doi.org/10.1016/j.agsy.2024.104143",
+          "doi": "10.1016/j.agsy.2024.104143",
+          "filter": 0
+        },
+        {
+          "title": "Clarifying the impacts of climatic coupling on plastic-mulching potato production in the loess plateau of China",
+          "authors": "Zhihao He, Kaiyuan Gong, Mengyu Qu, Xiaoya Ru, Shang Chen, Tengcong Jiang, Jing Zhang, Hao Feng, Qiang Yu, Liang He, Jianqiang He",
+          "url": "http://dx.doi.org/10.1016/j.agsy.2024.104140",
+          "doi": "10.1016/j.agsy.2024.104140",
+          "filter": 0
+        },
+        {
+          "title": "Can citizen science in water-related nature-based solutions deliver transformative participation in agri-food systems? A review",
+          "authors": "Taha Loghmani-Khouzani, Victoria Dany, Nadine Seifert, Kaveh Madani, Edeltraud Guenther",
+          "url": "http://dx.doi.org/10.1016/j.agsy.2024.104052",
+          "doi": "10.1016/j.agsy.2024.104052",
+          "filter": 0
+        },
+        {
+          "title": "Quantifying the adoption of conservation agriculture: Development and application of the Conservation Agriculture Appraisal Index",
+          "authors": "Laura I. Ruiz-Espinosa, Nele Verhulst, Floris van Ogtrop, Rebecca Cross, Bram Govaerts, Harm van Rees, Richard Trethowan",
+          "url": "http://dx.doi.org/10.1016/j.agsy.2024.104095",
+          "doi": "10.1016/j.agsy.2024.104095",
+          "filter": 0
+        },
+        {
+          "title": "Research agenda for holistically assessing agricultural strategies for human micronutrient deficiencies in east and southern Africa",
+          "authors": "Philip Grabowski, Douglas Slater, Wanjiku Gichohi-Wainaina, Job Kihara, Regis Chikowo, Agnes Mwangwela, Dalitso Chimwala, Mateete Bekunda",
+          "url": "http://dx.doi.org/10.1016/j.agsy.2024.104094",
+          "doi": "10.1016/j.agsy.2024.104094",
+          "filter": 0
+        },
+        {
+          "title": "Understanding farms trajectories methods to build sustainable futures on pioneer fronts: Lessons from a systematic literature review and a framework proposal",
+          "authors": "Andrés Vega-Martinez, Nathalie Cialdella, Nadine Andrieu",
+          "url": "http://dx.doi.org/10.1016/j.agsy.2024.104093",
+          "doi": "10.1016/j.agsy.2024.104093",
+          "filter": 0
+        },
+        {
+          "title": "FACE-ing climate change: Propagation of risks and opportunities for cropping systems in mid-high-latitude regions: A case study between U.S. and China corn belts",
+          "authors": "Jiazhong Zheng, Weihan Wang, Weiguang Wang, Tong Cui, Shuai Chen, Cundong Xu, Bernard Engel",
+          "url": "http://dx.doi.org/10.1016/j.agsy.2024.104087",
+          "doi": "10.1016/j.agsy.2024.104087",
+          "filter": 0
+        },
+        {
+          "title": "Using conditional Kendall's tau estimation to assess interactions among variables in dairy-cattle systems",
+          "authors": "Naomi Ouachene, Tristan Senga Kiessé, Michael S. Corson",
+          "url": "http://dx.doi.org/10.1016/j.agsy.2024.104089",
+          "doi": "10.1016/j.agsy.2024.104089",
+          "filter": 0
+        },
+        {
+          "title": "Eco-efficiency in the agricultural landscape of North Rhine-Westphalia, Germany",
+          "authors": "Stefan Seifert, Saskia Wolff, Silke Hüttel",
+          "url": "http://dx.doi.org/10.1016/j.agsy.2024.104062",
+          "doi": "10.1016/j.agsy.2024.104062",
+          "filter": 0
+        },
+        {
+          "title": "Nitrogen fertilizer use and climate interactions: Implications for maize yields in Kansas",
+          "authors": "Na Huang, Xiaomao Lin, Fei Lun, Ruiyun Zeng, Gretchen F. Sassenrath, Zhihua Pan",
+          "url": "http://dx.doi.org/10.1016/j.agsy.2024.104079",
+          "doi": "10.1016/j.agsy.2024.104079",
+          "filter": 0
+        },
+        {
+          "title": "Developing a sustainable assessment framework for identifying industrial water suitability: Perspective on the water-energy-food nexus",
+          "authors": "En Hua, Xinxueqi Han, Bernard A. Engel, Jiajie Guan, Shikun Sun, Pute Wu, Bing Wang, Yubao Wang",
+          "url": "http://dx.doi.org/10.1016/j.agsy.2024.104065",
+          "doi": "10.1016/j.agsy.2024.104065",
+          "filter": 0
+        },
+        {
+          "title": "The role of management and farming practices, yield gaps, nutrient balance, and institutional settings in the context of large-scale organic conversion in Bhutan",
+          "authors": " Tshotsho, Christian Lippert, Sabine Zikeli, Tatjana Krimly, Ayoub Barissoul, Arndt Feuerbacher",
+          "url": "http://dx.doi.org/10.1016/j.agsy.2024.104057",
+          "doi": "10.1016/j.agsy.2024.104057",
+          "filter": 0
+        },
+        {
+          "title": "Understanding how governance arrangements within agricultural supply chains influence farmers' SAP adoption for adaptation and mitigation practices",
+          "authors": "Kusnandar Kusnandar, El Bram Apriyanto, Maulana Akbar, Eki Karsani Apriliyadi, Tomy Perdana",
+          "url": "http://dx.doi.org/10.1016/j.agsy.2024.104085",
+          "doi": "10.1016/j.agsy.2024.104085",
+          "filter": 0
+        },
+        {
+          "title": "Legume choice and planting configuration influence intercrop nutrient and yield gains through complementarity and selection effects in legume-based wheat intercropping systems",
+          "authors": "Muhammad Ali Raza, Atta Mohi Ud Din, Ghulam Abbas Shah, Wang Zhiqi, Ling Yang Feng, Hina Gul, Hassan Shehryar Yasin, Mohammad Shafiq ur Rahman, Chen Juan, Xue Liang, Raheela Rehman, Amal Mohamed Al Garawi, Wopke van der Werf, Ruijun Qin, Liu Xin, Muhammad Hayder Bin Khalid, Ma Zhongming",
+          "url": "http://dx.doi.org/10.1016/j.agsy.2024.104081",
+          "doi": "10.1016/j.agsy.2024.104081",
+          "filter": 0
+        },
+        {
+          "title": "Participatory AI for inclusive crop improvement",
+          "authors": "Violet Lasdun, Davíd Güereña, Berta Ortiz-Crespo, Stephen Mutuvi, Michael Selvaraj, Teshale Assefa",
+          "url": "http://dx.doi.org/10.1016/j.agsy.2024.104054",
+          "doi": "10.1016/j.agsy.2024.104054",
+          "filter": 0
+        },
+        {
+          "title": "Concurrent drought threatens wheat and maize production and will widen crop yield gaps in the future",
+          "authors": "Miaolei Hou, Yi Li, Asim Biswas, Xinguo Chen, Lulu Xie, Deli Liu, Linchao Li, Hao Feng, Shufang Wu, Yusuke Satoh, Alim Pulatov, Kadambot H.M. Siddique",
+          "url": "http://dx.doi.org/10.1016/j.agsy.2024.104056",
+          "doi": "10.1016/j.agsy.2024.104056",
+          "filter": 0
+        },
+        {
+          "title": "Improving smallholders' capacity building by creating an enabling environment for sustainable crop production",
+          "authors": "Yajuan Li, Xinxin Zhang, Qianni Huang, Donasius Pathera, Zhichao An, Xiaoqiang Jiao, Fusuo Zhang",
+          "url": "http://dx.doi.org/10.1016/j.agsy.2024.104083",
+          "doi": "10.1016/j.agsy.2024.104083",
+          "filter": 0
+        },
+        {
+          "title": "Perceived resilience of community supported agriculture in Germany",
+          "authors": "Anna Rosman, Joseph MacPherson, Marie Arndt, Katharina Helming",
+          "url": "http://dx.doi.org/10.1016/j.agsy.2024.104068",
+          "doi": "10.1016/j.agsy.2024.104068",
+          "filter": 0
+        },
+        {
+          "title": "A spatially explicit assessment on the carrying capacity of livestock under minimum feed imports and artificial fertilizer use in Dutch agriculture",
+          "authors": "M. Lessmann, A. Kanellopoulos, J. Kros, F. Orsi, M. Bakker",
+          "url": "http://dx.doi.org/10.1016/j.agsy.2024.104092",
+          "doi": "10.1016/j.agsy.2024.104092",
+          "filter": 0
+        },
+        {
+          "title": "Optimizing water and nitrogen inputs for sustainable wheat yields and minimal environmental impacts",
+          "authors": "Xiaomeng Huang, Xinpeng Xu, Qichao Zhu, Yitao Zhang",
+          "url": "http://dx.doi.org/10.1016/j.agsy.2024.104061",
+          "doi": "10.1016/j.agsy.2024.104061",
+          "filter": 0
+        },
+        {
+          "title": "Characterization of crop sequences in Argentina. Spatial distribution and determinants",
+          "authors": "Diego de Abelleyra, Santiago Banchero, Santiago Verón",
+          "url": "http://dx.doi.org/10.1016/j.agsy.2024.104069",
+          "doi": "10.1016/j.agsy.2024.104069",
+          "filter": 0
+        },
+        {
+          "title": "How does pesticide reduction affect labour time and profitability? A crop production case study",
+          "authors": "Manika Rödiger, Alexander Zorn, Michael Mielewczik, Katja Heitkämper, Andreas Roesch, Nadja El Benni",
+          "url": "http://dx.doi.org/10.1016/j.agsy.2024.104101",
+          "doi": "10.1016/j.agsy.2024.104101",
+          "filter": 0
+        },
+        {
+          "title": "Influence of crop-livestock integration on direct and indirect contributions of beef systems to food security",
+          "authors": "C. Battheu-Noirfalise, A. Mertens, H. Soyeurt, D. Stilmant, E. Froidmont, Y. Beckers",
+          "url": "http://dx.doi.org/10.1016/j.agsy.2024.104067",
+          "doi": "10.1016/j.agsy.2024.104067",
+          "filter": 0
+        },
+        {
+          "title": "Complexity-aware principles for agri-food system interventions: Lessons from project encounters with complexity",
+          "authors": "Costanza Conti, Andrew Hall, Alastair Orr, Caroline Hambloch, Kai Mausch",
+          "url": "http://dx.doi.org/10.1016/j.agsy.2024.104080",
+          "doi": "10.1016/j.agsy.2024.104080",
+          "filter": 0
+        },
+        {
+          "title": "Adaptation strategies for winter wheat production at farmer fields under a changing climate: Employing crop and multiple global climate models",
+          "authors": "Muhammad Rizwan Shoukat, Jingjing Wang, Muhammad Habib-ur-Rahman, Xin Hui, Gerrit Hoogenboom, Haijun Yan",
+          "url": "http://dx.doi.org/10.1016/j.agsy.2024.104066",
+          "doi": "10.1016/j.agsy.2024.104066",
+          "filter": 0
+        },
+        {
+          "title": "Regional-scale trade-offs among beef production, emissions and land use impacts: A cattle diet composition perspective",
+          "authors": "R. Wang, L. Puillet, C. Pinsard, P. Lescoat, F. Accatino",
+          "url": "http://dx.doi.org/10.1016/j.agsy.2024.104048",
+          "doi": "10.1016/j.agsy.2024.104048",
+          "filter": 0
+        },
+        {
+          "title": "Climate change is expected to severely impact Protected Designation of Origin olive growing regions over the Iberian Peninsula",
+          "authors": "Inês Guise, Bruno Silva, Frederico Mestre, José Muñoz-Rojas, Maria F. Duarte, José M. Herrera",
+          "url": "http://dx.doi.org/10.1016/j.agsy.2024.104108",
+          "doi": "10.1016/j.agsy.2024.104108",
+          "filter": 0
+        },
+        {
+          "title": "Improved life cycle assessment (LCA) methods to account for crop-livestock interactions within agricultural systems",
+          "authors": "Pietro Goglio, Laurence G. Smith, Sophie Saget, Marilia I.S. Folegatti Matsuura",
+          "url": "http://dx.doi.org/10.1016/j.agsy.2024.104084",
+          "doi": "10.1016/j.agsy.2024.104084",
+          "filter": 0
+        },
+        {
+          "title": "Can we estimate farm size from field size? An empirical investigation of the field size to farm size relationship",
+          "authors": "Clemens Jänicke, Maximilian Wesemeyer, Cristina Chiarella, Tobia Lakes, Christian Levers, Patrick Meyfroidt, Daniel Müller, Marie Pratzer, Philippe Rufin",
+          "url": "http://dx.doi.org/10.1016/j.agsy.2024.104088",
+          "doi": "10.1016/j.agsy.2024.104088",
+          "filter": 0
+        },
+        {
+          "title": "Toward compatibility with national dairy production and climate goals through locally appropriate mitigation interventions in Kenya",
+          "authors": "Michael W. Graham, Şeyda Özkan, Claudia Arndt, Ricardo González-Quintero, Daniel Korir, Lutz Merbold, Anne Mottet, Phyllis W. Ndung'u, An Notenbaert, Sonja M. Leitner",
+          "url": "http://dx.doi.org/10.1016/j.agsy.2024.104098",
+          "doi": "10.1016/j.agsy.2024.104098",
+          "filter": 0
+        },
+        {
+          "title": "A state-and-transition model framework to take stock of natural capital on farms",
+          "authors": "Frederick W. Rainsford, Matthew Appleby, Angela Hawdon, Alex Maisey, Rachel Lawrence, Imogen Semmler, Daniel O'Brien, Sue Ogilvy, James Q. Radford",
+          "url": "http://dx.doi.org/10.1016/j.agsy.2024.104104",
+          "doi": "10.1016/j.agsy.2024.104104",
+          "filter": 0
+        },
+        {
+          "title": "Developing sustainable dairy farms in the tropics: From policy to practice",
+          "authors": "Titis Apdini, Corina E. van Middelaar, Simon J. Oosting",
+          "url": "http://dx.doi.org/10.1016/j.agsy.2024.104097",
+          "doi": "10.1016/j.agsy.2024.104097",
+          "filter": 0
+        },
+        {
+          "title": "Driving factors behind precision livestock farming tools adoption: The case of the pedometer on dairy farms",
+          "authors": "R. Selvaggi, G. Pappalardo, C. Zarbà, J.L. Lusk",
+          "url": "http://dx.doi.org/10.1016/j.agsy.2024.104090",
+          "doi": "10.1016/j.agsy.2024.104090",
+          "filter": 0
+        },
+        {
+          "title": "Economic outcomes from adopting cereal-legume intercropping practices in Sweden",
+          "authors": "Gordana Manevska-Tasevska, Vivian Wei Huang, Zhen Chen, Ortrud Jäck, Nasir Adam, Thanh Mai Ha, Martin Weih, Helena Hansson",
+          "url": "http://dx.doi.org/10.1016/j.agsy.2024.104064",
+          "doi": "10.1016/j.agsy.2024.104064",
+          "filter": 0
+        },
+        {
+          "title": "Bright spots of agroecology in the Netherlands: A spatial analysis of agroecological practices and income stability",
+          "authors": "Loes A. Verkuil, Peter H. Verburg, Christian Levers, Anne Elise Stratton, Catharina J.E. Schulp",
+          "url": "http://dx.doi.org/10.1016/j.agsy.2024.104086",
+          "doi": "10.1016/j.agsy.2024.104086",
+          "filter": 0
+        },
+        {
+          "title": "Evaluating the utility of weather generators in crop simulation models for in-season yield forecasting",
+          "authors": "Rohit Nandan, Varaprasad Bandaru, Pridhvi Meduri, Curtis Jones, Romulo Lollato",
+          "url": "http://dx.doi.org/10.1016/j.agsy.2024.104082",
+          "doi": "10.1016/j.agsy.2024.104082",
+          "filter": 0
+        },
+        {
+          "title": "Field monitoring reveals scope to reduce environmental impact of ware potato cultivation in the Netherlands without compromising yield",
+          "authors": "Arie Pieter Paulus Ravensbergen, Martin K. van Ittersum, Renske Hijbeek, Corné Kempenaar, Pytrik Reidsma",
+          "url": "http://dx.doi.org/10.1016/j.agsy.2024.104091",
+          "doi": "10.1016/j.agsy.2024.104091",
+          "filter": 0
+        },
+        {
+          "title": "Integrating production, ecology and livelihood confers an efficiency-driven farming system based on the sustainable farmland framework",
+          "authors": "Yanshu Yin, Yingnan Zhang, Shu Wang, Ke Xu, Yang Zhang, Thomas Dogot, Changbin Yin",
+          "url": "http://dx.doi.org/10.1016/j.agsy.2024.104049",
+          "doi": "10.1016/j.agsy.2024.104049",
+          "filter": 0
+        },
+        {
+          "title": "Feasibility of machine learning-based rice yield prediction in India at the district level using climate reanalysis and remote sensing data",
+          "authors": "Djavan De Clercq, Adam Mahdi",
+          "url": "http://dx.doi.org/10.1016/j.agsy.2024.104099",
+          "doi": "10.1016/j.agsy.2024.104099",
+          "filter": 0
+        },
+        {
+          "title": "Applying life cycle assessment to European high nature value farming systems: Environmental impacts and biodiversity",
+          "authors": "M. Torres-Miralles, V. Kyttä, P. Jeanneret, M. Lamminen, P. Manzano, H.L. Tuomisto, I. Herzon",
+          "url": "http://dx.doi.org/10.1016/j.agsy.2024.104096",
+          "doi": "10.1016/j.agsy.2024.104096",
+          "filter": 0
+        }
+      ],
+      "articles_hidden": [
+        {
+          "title": "Editorial Board",
+          "url": "http://dx.doi.org/10.1016/s0308-521x(24)00268-3",
+          "doi": "10.1016/s0308-521x(24)00268-3",
+          "filter": 1
+        }
+      ]
+    },
+    {
+      "journal_full": "Agriculture Ecosystems & Environment",
+      "journal_short": "AgEcoEnvi",
+      "articles": [
+        {
+          "title": "Cropland-scale interaction between maize evapotranspiration and groundwater in a well-irrigation district in Mu Us Sandy Land, Northwest China",
+          "authors": "Lizhu Hou, Xu-Sheng Wang, Yangxiao Zhou, Guibing Zhu, Yuesheng Gao, Jiangyi Zhou",
+          "url": "http://dx.doi.org/10.1016/j.agee.2024.109282",
+          "doi": "10.1016/j.agee.2024.109282",
+          "filter": 0
+        },
+        {
+          "title": "Water-saving irrigation practices in rice paddies reverse the impact of root aerenchyma on methane emissions",
+          "authors": "Siyu Li, Yajun Zhang, Jiamei Zhao, Kees Jan van Groenigen, Xinya Shen, Hao Zhang, Junfei Gu, Weiyang Zhang, Dafeng Hui, Yun Chen, Lijun Liu",
+          "url": "http://dx.doi.org/10.1016/j.agee.2024.109309",
+          "doi": "10.1016/j.agee.2024.109309",
+          "filter": 0
+        },
+        {
+          "title": "Optimizing phosphate application to improve soil quality and reduce phosphorus loss in rice-wheat rotation",
+          "authors": "Guanglei Chen, Liang Xiao, Ke Yue, Yu Wang, Shenqiang Wang, Yiyong Zhu, Lei Kai",
+          "url": "http://dx.doi.org/10.1016/j.agee.2024.109310",
+          "doi": "10.1016/j.agee.2024.109310",
+          "filter": 0
+        },
+        {
+          "title": "Management and rhizosphere microbial associations modulate genetic-driven nitrogen fate",
+          "authors": "Mitra Ghotbi, Marjan Ghotbi, Yakov Kuzyakov, William R. Horwath",
+          "url": "http://dx.doi.org/10.1016/j.agee.2024.109308",
+          "doi": "10.1016/j.agee.2024.109308",
+          "filter": 0
+        },
+        {
+          "title": "Divergent responses of soil aggregation and aggregate-carbon to fertilization regimes jointly explain soil organic carbon accrual in agroecosystems: A meta-analysis",
+          "authors": "Liwen Lin, Hao Chen, Yutao Peng, Junhui Yin, Junjie Guo, Chuntao He, Xiaochen Huang, Guorong Xin",
+          "url": "http://dx.doi.org/10.1016/j.agee.2024.109314",
+          "doi": "10.1016/j.agee.2024.109314",
+          "filter": 0
+        },
+        {
+          "title": "Grazing legacy mediates the diverse responses of grassland multidimensional stability to resource enrichment",
+          "authors": "Fengwei Xu, Jianjun Li, Liji Wu, Biao Zhu, Dima Chen, Yongfei Bai",
+          "url": "http://dx.doi.org/10.1016/j.agee.2024.109313",
+          "doi": "10.1016/j.agee.2024.109313",
+          "filter": 0
+        },
+        {
+          "title": "Grazing intensity by sheep affects spatial diversity in botanical composition of Inner Mongolian grassland",
+          "authors": "Xu Han, Raúl Ochoa-Hueso, Yong Ding, Xiliang Li, Ke Jin, Wim H. van der Putten, Paul C. Struik",
+          "url": "http://dx.doi.org/10.1016/j.agee.2024.109311",
+          "doi": "10.1016/j.agee.2024.109311",
+          "filter": 0
+        },
+        {
+          "title": "Warming, elevated CO2 and drought in combination amplify shifts in canopy greenness dynamics in managed grassland",
+          "authors": "Lumnesh Swaroop Kumar Joseph, Edoardo Cremonese, Mirco Migliavacca, Andreas Schaumberger, Michael Bahn",
+          "url": "http://dx.doi.org/10.1016/j.agee.2024.109304",
+          "doi": "10.1016/j.agee.2024.109304",
+          "filter": 0
+        },
+        {
+          "title": "Development of insects in newly established grassland over six years: Increased conservation benefits through diverse plant communities",
+          "authors": "Maria Peer, Sophie Kratschmer, Manuela Bürgler, Raja Imran Hussain, Dominik Rabl, Ronnie Walcher, Tobias Schernhammer, Bea Maas, Norbert Schuller, Nora Vogel, Matthias Heer, Simon Zwatz, Bernhard Krautzer, Dietmar Moser, Thomas Frank",
+          "url": "http://dx.doi.org/10.1016/j.agee.2024.109113",
+          "doi": "10.1016/j.agee.2024.109113",
+          "filter": 0
+        },
+        {
+          "title": "Maize-alfalfa intercropping alleviates the dependence of multiple ecosystem services on nonrenewable fertilization",
+          "authors": "Dongxue Tao, Manuel Delgado-Baquerizo, Guiyao Zhou, Daniel Revillini, Qiang He, Clifford S. Swanson, Yingzhi Gao",
+          "url": "http://dx.doi.org/10.1016/j.agee.2024.109141",
+          "doi": "10.1016/j.agee.2024.109141",
+          "filter": 0
+        },
+        {
+          "title": "Land use and temperature shape the beta diversity of soil nematodes across the Mollisol zone in northeast China",
+          "authors": "Fengjuan Pan, Haidong Gu, Zhuxiu Liu, Yueyu Sui, Neil B. McLaughlin, Junjie Liu, Guanghua Wang",
+          "url": "http://dx.doi.org/10.1016/j.agee.2024.109132",
+          "doi": "10.1016/j.agee.2024.109132",
+          "filter": 0
+        },
+        {
+          "title": "Pollination services in the North China Plain measured using buckwheat sentinel plants; is there a deficit?",
+          "authors": "Yanjie Chen, Chaochun Zhang, Wopke van der Werf",
+          "url": "http://dx.doi.org/10.1016/j.agee.2024.109129",
+          "doi": "10.1016/j.agee.2024.109129",
+          "filter": 0
+        },
+        {
+          "title": "Grasses don’t always win: Short-term effects of fertilization on taxonomic and functional diversity of a Mediterranean annual grassland",
+          "authors": "Melanie Köbel, Sergio Chozas, Gerardo Moreno, Mirco Migliavacca, Cristina Branquinho, Alice Nunes",
+          "url": "http://dx.doi.org/10.1016/j.agee.2024.109125",
+          "doi": "10.1016/j.agee.2024.109125",
+          "filter": 0
+        },
+        {
+          "title": "Neonicotinoid retention and transport in a maize cropping system with contour prairie strips",
+          "authors": "Corinn E. Rutkoski, Lisa A. Schulte, Sarah E. Evans",
+          "url": "http://dx.doi.org/10.1016/j.agee.2024.109111",
+          "doi": "10.1016/j.agee.2024.109111",
+          "filter": 0
+        },
+        {
+          "title": "Bacterial functions are main driving factors on paddy soil organic carbon in both surface soil and subsoil",
+          "authors": "Xiang-Wen Huang, Jia-Jun Lin, De-Jin Li, Xiang-Qi Huang, Qi-Huan Xie, Sheng-Gang Pan, Xiang-Ru Tang, Jian-Ying Qi",
+          "url": "http://dx.doi.org/10.1016/j.agee.2024.109123",
+          "doi": "10.1016/j.agee.2024.109123",
+          "filter": 0
+        },
+        {
+          "title": "Plant litter regulates the effect of nitrogen and water enrichment on ecosystem carbon sequestration in a semi-arid grassland",
+          "authors": "Wanjie Chen, Xuezhen Zhao, Jishuai Su, Xiaoming Lu, Yongfei Bai",
+          "url": "http://dx.doi.org/10.1016/j.agee.2024.109154",
+          "doi": "10.1016/j.agee.2024.109154",
+          "filter": 0
+        },
+        {
+          "title": "Cover crop grazing effects on soil properties in no-tillage dryland cropping systems in the central Great Plains",
+          "authors": "Logan M. Simon, Augustine K. Obour, Jonathan D. Holman, Sandy K. Johnson, Kraig L. Roozeboom",
+          "url": "http://dx.doi.org/10.1016/j.agee.2024.109140",
+          "doi": "10.1016/j.agee.2024.109140",
+          "filter": 0
+        },
+        {
+          "title": "Do voluntary sustainability standards reduce primary forest loss? A global analysis for food commodities",
+          "authors": "Saskia Dröge, Bruno Verbist, Miet Maertens, Bart Muys",
+          "url": "http://dx.doi.org/10.1016/j.agee.2024.109158",
+          "doi": "10.1016/j.agee.2024.109158",
+          "filter": 0
+        },
+        {
+          "title": "How does intercropping contribute to soil organic carbon accumulation? A global synthesis",
+          "authors": "Shujuan Li, Sha Ye, Zeqin Liu, Muhammad Umair Hassan, Guoqin Huang, Quan Zhou",
+          "url": "http://dx.doi.org/10.1016/j.agee.2024.109173",
+          "doi": "10.1016/j.agee.2024.109173",
+          "filter": 0
+        },
+        {
+          "title": "Conversion of rainforest to both traditional and industrial oil palm systems changes the biodiversity, web-building, and prey capture of understory spiders (Liberia, West Africa)",
+          "authors": "Michael D. Pashkevich, Brogan L. Pett, Cicely A.M. Marshall, Jean-Pierre Caliman, Benedictus Freeman, Marshall M. Guahn, Peter M. Hadfield, Matthew T. Hendren, Morris T. Jah, Tiecanna Jones, Ari Saputra, Rudy H. Widodo, Edgar C. Turner",
+          "url": "http://dx.doi.org/10.1016/j.agee.2024.109102",
+          "doi": "10.1016/j.agee.2024.109102",
+          "filter": 0
+        },
+        {
+          "title": "Do rotation and fertilization practices shape weed communities and affect rice yield in low input rainfed agroecosystems in the Malagasy highlands?",
+          "authors": "Aude Ripoche, Karim Barkaoui, Nina Allouch, Mathias Christina, Benjamin Heuclin, Antsa Rafenomanjato, Anna-Camilla Moonen, Patrice Autfray, Pascal Marnotte",
+          "url": "http://dx.doi.org/10.1016/j.agee.2024.109136",
+          "doi": "10.1016/j.agee.2024.109136",
+          "filter": 0
+        },
+        {
+          "title": "Long-term different fertilization practices restructured the functional carbon pools in a paddy soil through distinct mechanisms",
+          "authors": "Shuotong Chen, Hechen Dong, Yu Hong, Fang Gao, Shaokang Guo, Wenhai Mi",
+          "url": "http://dx.doi.org/10.1016/j.agee.2024.109168",
+          "doi": "10.1016/j.agee.2024.109168",
+          "filter": 0
+        },
+        {
+          "title": "Insect pollination enhances faba bean yield more than weed removal or fungicide application",
+          "authors": "Chloé A. Raderschall, Laura G.A. Riggi, Ola Lundin",
+          "url": "http://dx.doi.org/10.1016/j.agee.2024.109159",
+          "doi": "10.1016/j.agee.2024.109159",
+          "filter": 0
+        },
+        {
+          "title": "Warming decouples associations between microbial network complexity and ecosystem multifunctionality in alpine grasslands",
+          "authors": "Kui Wang, Kai Xue, Wenjing Liu, Biao Zhang, Wenchao Wu, Runchen Zhao, Lizhen Cui, Zongsong Wang, Shutong Zhou, Li Tang, Junfu Dong, Jianqing Du, Yanbin Hao, Xiaoyong Cui, Shiping Wang, Yanfen Wang",
+          "url": "http://dx.doi.org/10.1016/j.agee.2024.109189",
+          "doi": "10.1016/j.agee.2024.109189",
+          "filter": 0
+        },
+        {
+          "title": "Long term comparison of GHG emissions and crop yields in response to direct straw or biochar incorporation in rice-wheat rotation systems: A 10-year field observation",
+          "authors": "Huifeng Sun, Xianxian Zhang, Jining Zhang, Cong Wang, Sheng Zhou",
+          "url": "http://dx.doi.org/10.1016/j.agee.2024.109188",
+          "doi": "10.1016/j.agee.2024.109188",
+          "filter": 0
+        },
+        {
+          "title": "Long-term green manuring increases soil carbon sequestration via decreasing qCO2 caused by lower microbial phosphorus limitation in a dry land field",
+          "authors": "Zhengbo Ma, Ting Liang, Haoran Fu, Qingxu Ma, Danna Chang, Jiudong Zhang, Zongxian Che, Guopeng Zhou, Weidong Cao",
+          "url": "http://dx.doi.org/10.1016/j.agee.2024.109142",
+          "doi": "10.1016/j.agee.2024.109142",
+          "filter": 0
+        },
+        {
+          "title": "Higher rice productivity and lower paddy nitrogen loss with optimized irrigation and fertilization practices in a rice-upland system",
+          "authors": "Weike Tao, Jiaqi Li, Weiwei Li, Chongxi Wen, Shen Gao, Yuhui Wang, Dun Liu, Lei Xu, Yu Jiang, Zhenghui Liu, Yanfeng Ding, Ganghua Li",
+          "url": "http://dx.doi.org/10.1016/j.agee.2024.109176",
+          "doi": "10.1016/j.agee.2024.109176",
+          "filter": 0
+        },
+        {
+          "title": "Long-term straw return promotes accumulation of stable soil dissolved organic matter by driving molecular-level activity and diversity",
+          "authors": "Zhen Cheng, Anjie Li, Ruigang Wang, Qian Hu, Jian Zhou, Ming Li, Tiecheng Wang, Ding He, Lingyan Zhu",
+          "url": "http://dx.doi.org/10.1016/j.agee.2024.109155",
+          "doi": "10.1016/j.agee.2024.109155",
+          "filter": 0
+        },
+        {
+          "title": "Legume-based crop diversification with optimal nitrogen fertilization benefits subsequent wheat yield and soil quality",
+          "authors": "Zhengjun Yan, Juncong Chu, Jiangwen Nie, Xinyue Qu, Antonio Rafael Sánchez-Rodríguez, Yadong Yang, Paulo S. Pavinato, Zhaohai Zeng, Huadong Zang",
+          "url": "http://dx.doi.org/10.1016/j.agee.2024.109171",
+          "doi": "10.1016/j.agee.2024.109171",
+          "filter": 0
+        },
+        {
+          "title": "Management to enhance farm dam condition improves outcomes for amphibians",
+          "authors": "Michelle Littlefair, Ben C Scheele, Angelina Siegrist, David Smith, David Lindenmayer, Maldwyn J Evans",
+          "url": "http://dx.doi.org/10.1016/j.agee.2024.109156",
+          "doi": "10.1016/j.agee.2024.109156",
+          "filter": 0
+        },
+        {
+          "title": "Long-term application of silicate fertilizer alters microbe-mediated phosphorus cycling in paddy soils",
+          "authors": "Chang Hoon Lee, Suvendu Das, Mun Hyeong Park, Sang Yoon Kim, Pil Joo Kim",
+          "url": "http://dx.doi.org/10.1016/j.agee.2024.109175",
+          "doi": "10.1016/j.agee.2024.109175",
+          "filter": 0
+        },
+        {
+          "title": "From the vineyard soil to the grape berry surface: Unravelling the dynamics of the microbial terroir",
+          "authors": "António Teixeira, Viviana Martins, Hernâni Gerós",
+          "url": "http://dx.doi.org/10.1016/j.agee.2024.109145",
+          "doi": "10.1016/j.agee.2024.109145",
+          "filter": 0
+        },
+        {
+          "title": "Influencing mechanism of farming clams on the CO2 flux from aquaculture ponds: Insights from ecosystem carbon metabolism",
+          "authors": "Shuang Li, Yupeng Chen, Dongxu Zhang, Huiling Liu, Xinru Chai, Sainan Yao, Wenjun Xu, Jie He",
+          "url": "http://dx.doi.org/10.1016/j.agee.2024.109166",
+          "doi": "10.1016/j.agee.2024.109166",
+          "filter": 0
+        },
+        {
+          "title": "Establishing flower strips near agricultural fields with minimal weed management",
+          "authors": "Anna S. Westbrook, Rebecca S. Stup, Scott H. Morris, Todd A. Ugine, Antonio DiTommaso",
+          "url": "http://dx.doi.org/10.1016/j.agee.2024.109157",
+          "doi": "10.1016/j.agee.2024.109157",
+          "filter": 0
+        },
+        {
+          "title": "Pastures as natural climate solutions: A socioecological study of tree carbon and beef production trade-offs",
+          "authors": "Bela H. Starinchak, Heather Griscom",
+          "url": "http://dx.doi.org/10.1016/j.agee.2024.109112",
+          "doi": "10.1016/j.agee.2024.109112",
+          "filter": 0
+        },
+        {
+          "title": "Using a multi-scale approach to examine the effects of field margins and landscape features on predatory carabid communities in crop fields",
+          "authors": "Kelly Jowett, Alice E. Milne, Dion Garrett, Dan Blumgart, Simon G. Potts, Deepa Senapathi, Jonathan Storkey",
+          "url": "http://dx.doi.org/10.1016/j.agee.2024.109115",
+          "doi": "10.1016/j.agee.2024.109115",
+          "filter": 0
+        },
+        {
+          "title": "Intercropping in maize reduces fall armyworm Spodoptera frugiperda (J. E. Smith) infestation, supports natural enemies, and enhances yield",
+          "authors": "P. Lakshmi Soujanya, K. VaniSree, Gouri Shankar Giri, Sushant Mahadik, S.L. Jat, J.C. Sekhar, H.S. Jat",
+          "url": "http://dx.doi.org/10.1016/j.agee.2024.109130",
+          "doi": "10.1016/j.agee.2024.109130",
+          "filter": 0
+        },
+        {
+          "title": "Contribution of the ratoon sugarcane with planting years to river pollution evidenced from the four-year watershed observation",
+          "authors": "Tingting Chen, Yong Li, Zongmeng Wu, Hao Guo, Zhigang Huang",
+          "url": "http://dx.doi.org/10.1016/j.agee.2024.109099",
+          "doi": "10.1016/j.agee.2024.109099",
+          "filter": 0
+        },
+        {
+          "title": "Carbon-scaled nitrous oxide emissions better reflect the impacts of land use changes than raw nitrous oxide emissions in the Dry Chaco region",
+          "authors": "Jorge Chalco Vera, Martín M. Acreche",
+          "url": "http://dx.doi.org/10.1016/j.agee.2024.109128",
+          "doi": "10.1016/j.agee.2024.109128",
+          "filter": 0
+        },
+        {
+          "title": "Do agri-environmental schemes target effectively species, habitats and pressures in French Natura 2000 network?",
+          "authors": "Paul Rouveyrol, Marie-Caroline Prima",
+          "url": "http://dx.doi.org/10.1016/j.agee.2024.109114",
+          "doi": "10.1016/j.agee.2024.109114",
+          "filter": 0
+        },
+        {
+          "title": "Prospects for improving productivity and composition of mixed swards in semi-arid environments by separating species in drill rows – A review",
+          "authors": "Richard C. Hayes, Guangdi D. Li, Rowan W. Smith, Mark B. Peoples, Richard P. Rawnsley, Matthew T. Newell, Keith G. Pembleton",
+          "url": "http://dx.doi.org/10.1016/j.agee.2024.109131",
+          "doi": "10.1016/j.agee.2024.109131",
+          "filter": 0
+        },
+        {
+          "title": "Soil methane uptake is tightly linked to carbon dioxide emission in global upland ecosystems",
+          "authors": "Junjun Wu, Long Chen, Hong Zhang, Xiaoxiang Zhao, Xiaoli Cheng, Kerong Zhang, Guihua Liu",
+          "url": "http://dx.doi.org/10.1016/j.agee.2024.109127",
+          "doi": "10.1016/j.agee.2024.109127",
+          "filter": 0
+        },
+        {
+          "title": "A parasitic wasp-releasing engineering to promote ecosystem services in paddy systems",
+          "authors": "Hao Zhang, Chun-Mei You, Jin-Yan Wang, Ben A. Woodcock, Yi-Juan Chen, Xiang-Yun Ji, Nian-Feng Wan",
+          "url": "http://dx.doi.org/10.1016/j.agee.2024.109126",
+          "doi": "10.1016/j.agee.2024.109126",
+          "filter": 0
+        },
+        {
+          "title": "Drought and nitrogen deposition regulate plant nutrient resorption in a typical steppe",
+          "authors": "Yonghong Luo, Yan Shen, Ahmed Salah Elrys, Lan Du, Mohsin Mahmood, Jiatao Zhang, Haiyan Ren, Jinbao Zhang, Na Li, Ru Tian, Wenqian Shao, Ahmed S.M. Elnahal, Zhuwen Xu",
+          "url": "http://dx.doi.org/10.1016/j.agee.2024.109160",
+          "doi": "10.1016/j.agee.2024.109160",
+          "filter": 0
+        },
+        {
+          "title": "Impact of weather and management practices on greenhouse gas flux dynamics on an agricultural grassland in Southern Finland",
+          "authors": "Laura Heimsch, Julius Vira, Istem Fer, Henriikka Vekuri, Juha-Pekka Tuovinen, Annalea Lohila, Jari Liski, Liisa Kulmala",
+          "url": "http://dx.doi.org/10.1016/j.agee.2024.109179",
+          "doi": "10.1016/j.agee.2024.109179",
+          "filter": 0
+        },
+        {
+          "title": "Flowering apricot trees increase the abundance and modulate the distribution of wild bees within Korla fragrant pear (Pyrus sinkiangensis) orchards, but apricot trees in the surrounding landscape do not increase wild bee abundance",
+          "authors": "Qian Li, Bing Liu, Felix J.J.A. Bianchi, Wopke van der Werf, Yanhui Lu",
+          "url": "http://dx.doi.org/10.1016/j.agee.2024.109146",
+          "doi": "10.1016/j.agee.2024.109146",
+          "filter": 0
+        },
+        {
+          "title": "Resource overlap and infrequent predation on key pests show vulnerability in cotton biological control services",
+          "authors": "Jason M. Schmidt, Katherine Russell, Carson Bowers, Alisa W. Coffin, Melissa Thompson, Erin E. Grabarczyk, P. Glynn Tillman, Dawn Olson",
+          "url": "http://dx.doi.org/10.1016/j.agee.2024.109164",
+          "doi": "10.1016/j.agee.2024.109164",
+          "filter": 0
+        },
+        {
+          "title": "The impact of pollination requirements, pollinators, landscape and management practices on pollination in sweet and sour cherry: A systematic review",
+          "authors": "Julia Osterman, Zeus Mateos-Fierro, Catarina Siopa, Helena Castro, Sílvia Castro, Maxime Eeraerts",
+          "url": "http://dx.doi.org/10.1016/j.agee.2024.109163",
+          "doi": "10.1016/j.agee.2024.109163",
+          "filter": 0
+        },
+        {
+          "title": "Proximity to non-crop vegetation increases estimates of predation frequency but not beetle numbers",
+          "authors": "Tobyn Neame, Samuel V.J. Robinson, Paul Galpern",
+          "url": "http://dx.doi.org/10.1016/j.agee.2024.109133",
+          "doi": "10.1016/j.agee.2024.109133",
+          "filter": 0
+        },
+        {
+          "title": "Intensive ground cover management and landscape simplification affect community-wide floral visitor-plant interactions in olive groves",
+          "authors": "Domingo Cano, Carlos Martínez-Núñez, Antonio J. Pérez, Julio M. Alcántara, Teresa Salido, Pedro J. Rey",
+          "url": "http://dx.doi.org/10.1016/j.agee.2024.109124",
+          "doi": "10.1016/j.agee.2024.109124",
+          "filter": 0
+        },
+        {
+          "title": "Structure, acquisition, assembly, and function of the root-associated microbiomes in Japonica rice and hybrid rice",
+          "authors": "Shifeng Xu, Qiongfen Qiu, Chengqi Yan, Jinbo Xiong",
+          "url": "http://dx.doi.org/10.1016/j.agee.2024.109122",
+          "doi": "10.1016/j.agee.2024.109122",
+          "filter": 0
+        },
+        {
+          "title": "Linking farming practices and landscape elements to nest predation of an iconic farmland wader",
+          "authors": "Vallo Tilgar, Jaanus Elts, Kunter Tätte, Riho Marja",
+          "url": "http://dx.doi.org/10.1016/j.agee.2024.109095",
+          "doi": "10.1016/j.agee.2024.109095",
+          "filter": 0
+        },
+        {
+          "title": "Earth Observation based multi-scale analysis of crop diversity in the European Union: First insights for agro-environmental policies",
+          "authors": "Melissande Machefer, Matteo Zampieri, Marijn van der Velde, Frank Dentener, Martin Claverie, Raphaël d’Andrimont",
+          "url": "http://dx.doi.org/10.1016/j.agee.2024.109143",
+          "doi": "10.1016/j.agee.2024.109143",
+          "filter": 0
+        },
+        {
+          "title": "Bird community response to field-level integration of prairie strips",
+          "authors": "Jordan C. Giese, Lisa A. Schulte, Robert W. Klaver",
+          "url": "http://dx.doi.org/10.1016/j.agee.2024.109075",
+          "doi": "10.1016/j.agee.2024.109075",
+          "filter": 0
+        },
+        {
+          "title": "Restoration of semi-natural grasslands boosts biodiversity and re-creates hotspots for ecosystem services",
+          "authors": "Elisabeth Prangel, Triin Reitalu, Lena Neuenkamp, Liis Kasari-Toussaint, Reet Karise, Anu Tiitsaar, Villu Soon, Tiiu Kupper, Mart Meriste, Nele Ingerpuu, Aveliina Helm",
+          "url": "http://dx.doi.org/10.1016/j.agee.2024.109139",
+          "doi": "10.1016/j.agee.2024.109139",
+          "filter": 0
+        },
+        {
+          "title": "Increased N2O emissions by cover crops in a diverse crop rotation can be mediated with dual nitrification and urease inhibitors",
+          "authors": "Azeem Tariq, Nicole Menheere, Yuanpei Gao, Shannon Brown, Laura L. Van Eerd, John D. Lauzon, Sander Bruun, Claudia Wagner-Riddle",
+          "url": "http://dx.doi.org/10.1016/j.agee.2024.109178",
+          "doi": "10.1016/j.agee.2024.109178",
+          "filter": 0
+        },
+        {
+          "title": "Cauliflower strip cropping promotes ground-dwelling arthropod richness and spider abundance",
+          "authors": "Fogelina Cuperus, Bas Allema, Felix J.J.A. Bianchi, Walter A.H. Rossing, Dirk F. van Apeldoorn",
+          "url": "http://dx.doi.org/10.1016/j.agee.2024.109137",
+          "doi": "10.1016/j.agee.2024.109137",
+          "filter": 0
+        },
+        {
+          "title": "Partitioning and controlling factors of evapotranspiration: 2. Dynamics and controls of ratio of transpiration to evapotranspiration at multiple timescales in agroforestry system",
+          "authors": "Bingbing Li, Wuchao Yang, Xijun Wu, Zhi Li",
+          "url": "http://dx.doi.org/10.1016/j.agee.2024.109192",
+          "doi": "10.1016/j.agee.2024.109192",
+          "filter": 0
+        },
+        {
+          "title": "Root traits regulate the capacity of the rhizosphere to support multiple ecosystem services under intercropping and phosphorus fertilization",
+          "authors": "Dongxue Tao, Yingzhi Gao, Daniel Revillini, An Yan, Guiyao Zhou, Clifford S. Swanson, Qiang He, Huimin Ma, Xiaoqian Yu, Manuel Delgado-Baquerizo",
+          "url": "http://dx.doi.org/10.1016/j.agee.2024.109181",
+          "doi": "10.1016/j.agee.2024.109181",
+          "filter": 0
+        },
+        {
+          "title": "Deciphering microbial drivers of soil organic matter mineralization in surface and subsurface soil during long-term vegetation succession",
+          "authors": "Jingwei Shi, Lei Deng, Lin Yang, Yajing Dong, Yang Liao, Jiwei Li, Yurong Liu, Chengjie Ren, Feng Yang, Zhouping Shangguan, Yakov Kuzyakov",
+          "url": "http://dx.doi.org/10.1016/j.agee.2024.109186",
+          "doi": "10.1016/j.agee.2024.109186",
+          "filter": 0
+        },
+        {
+          "title": "Farm dam enhancement significantly improves water quality",
+          "authors": "Maldwyn John Evans, Richard Beggs, Ben C. Scheele, Clare Crane, Eleanor Lang, Angelina Siegrist, Daniel Florance, David Smith, Martino E. Malerba, David B. Lindenmayer",
+          "url": "http://dx.doi.org/10.1016/j.agee.2024.109134",
+          "doi": "10.1016/j.agee.2024.109134",
+          "filter": 0
+        },
+        {
+          "title": "Local actors, farmer decisions and landscape crop diversity in smallholder farming systems: A systems perspective",
+          "authors": "Daniel Kpienbaareh, Kamaldeen Mohammed, Isaac Luginaah, Jinfei Wang, Rachel Bezner Kerr, Esther Lupafya, Laifolo Dakishoni",
+          "url": "http://dx.doi.org/10.1016/j.agee.2024.109138",
+          "doi": "10.1016/j.agee.2024.109138",
+          "filter": 0
+        },
+        {
+          "title": "Managed pollinators improve oilseed rape yield: A global meta-analysis",
+          "authors": "Jinyi Yang, Panlong Wu, Yi Zhao, Aruhan Olhnuud, Jinrui Bai, Keyuan Wu, Yongsheng Zhang, Yunhui Liu",
+          "url": "http://dx.doi.org/10.1016/j.agee.2024.109135",
+          "doi": "10.1016/j.agee.2024.109135",
+          "filter": 0
+        },
+        {
+          "title": "Reseeding inhibits grassland vegetation degradation – Global evidence",
+          "authors": "Wentao Mi, Hao Zheng, Yuan Chi, Weibo Ren, Wanyu Zhang, Haixuan Zhang, Yaling Liu, Feng Yuan",
+          "url": "http://dx.doi.org/10.1016/j.agee.2024.109144",
+          "doi": "10.1016/j.agee.2024.109144",
+          "filter": 0
+        },
+        {
+          "title": "Through the green mosaic: Different tropical vegetation types have complementary effects on parasitoid diversity and biological control in organic agroecosystems",
+          "authors": "Gabriel Marins, Michely Ferreira Santos de Aquino, Ana Claudia da Silva, Heitor Augusto Castilha de Queiroz, Raúl Alberto Laumann, Pedro Henrique Brum Togni",
+          "url": "http://dx.doi.org/10.1016/j.agee.2024.109162",
+          "doi": "10.1016/j.agee.2024.109162",
+          "filter": 0
+        },
+        {
+          "title": "Nitrogen fertilization increases the niche breadth of soil nitrogen-cycling microbes and stabilizes their co-occurrence network in a karst agroecosystem",
+          "authors": "Xionghui Liao, Tiangang Tang, Jiangnan Li, Jiachen Wang, Deborah A. Neher, Wei Zhang, Jun Xiao, Dan Xiao, Peilei Hu, Kelin Wang, Jie Zhao",
+          "url": "http://dx.doi.org/10.1016/j.agee.2024.109177",
+          "doi": "10.1016/j.agee.2024.109177",
+          "filter": 0
+        },
+        {
+          "title": "Wild native insects are efficient pollinators of mangoes in the Northern Territory of Australia",
+          "authors": "Gaurav Singh, James C. Makinson, Amy M. Gilpin, Robert N. Spooner-Hart, James M. Cook",
+          "url": "http://dx.doi.org/10.1016/j.agee.2024.109161",
+          "doi": "10.1016/j.agee.2024.109161",
+          "filter": 0
+        },
+        {
+          "title": "Stable isotopes reveal trophic shifts of alpine frogs in grazed wetlands on the Qinghai–Xizang Plateau",
+          "authors": "Shengnan Yang, Kaiyue Cui, Yuezheng Fan, Junhua Hu",
+          "url": "http://dx.doi.org/10.1016/j.agee.2024.109169",
+          "doi": "10.1016/j.agee.2024.109169",
+          "filter": 0
+        },
+        {
+          "title": "Changes in soil respiration after eight years of warming and increased precipitation in a semiarid temperate steppe",
+          "authors": "Peidong Yu, Hasbagan Ganjurjav, Zhiqiang Wan, Guozheng Hu, Rui Gu, Qingzhu Gao",
+          "url": "http://dx.doi.org/10.1016/j.agee.2024.109110",
+          "doi": "10.1016/j.agee.2024.109110",
+          "filter": 0
+        },
+        {
+          "title": "Plant species richness and legume presence increase microbial necromass carbon accumulation",
+          "authors": "Xiaoming Mou, Peng Lv, Bin Jia, Han Mao, Xueyong Zhao",
+          "url": "http://dx.doi.org/10.1016/j.agee.2024.109196",
+          "doi": "10.1016/j.agee.2024.109196",
+          "filter": 0
+        },
+        {
+          "title": "Changes in soil bacterial community diversity and its network stability under different grazing intensities in plateau rangelands",
+          "authors": "Mengjun Liu, Qing Yang, Bingjie Yan, Yue Ren, Xiaodong Li, Shiying Zhu, Migmar Wangdwei",
+          "url": "http://dx.doi.org/10.1016/j.agee.2024.109190",
+          "doi": "10.1016/j.agee.2024.109190",
+          "filter": 0
+        }
+      ],
+      "articles_hidden": [
+        {
+          "title": "Editorial Board",
+          "url": "http://dx.doi.org/10.1016/s0167-8809(24)00268-8",
+          "doi": "10.1016/s0167-8809(24)00268-8",
+          "filter": 1
+        },
+        {
+          "title": "Editorial Board",
+          "url": "http://dx.doi.org/10.1016/s0167-8809(24)00324-4",
+          "doi": "10.1016/s0167-8809(24)00324-4",
+          "filter": 1
+        }
+      ]
+    },
+    {
+      "journal_full": "Fish and Fisheries",
+      "journal_short": "FishF",
+      "articles": [
+        {
+          "title": "Temporal patterns and regional comparisons of recruitment rates of United States fish stocks",
+          "authors": "Rachel C. Marshall, Jeremy S. Collie, Richard J. Bell, Paul D. Spencer, Cóilín Minto",
+          "abstract": "Several previous studies of marine fish stocks have demonstrated time‐varying recruitment productivity and indicated that including time‐varying parameters can track process variation in recruitment. Few studies have synthesized signal‐to‐noise ratios and underlying reasons for time‐variation across stocks and regions. Using Peterman's productivity method (PPM), we provide a broad synthesis of time‐varying density‐independent productivity in 84 stocks across five regions of the United States. Of all stocks investigated, 50 were found to have time‐varying productivity, challenging assumptions on the stationarity of recruitment parameters and dependent reference points. Our results demonstrate the power of PPM for synthesizing the form and pattern of recruitment time‐variation among regions, including general summaries of directional change over time. Furthermore, our results show regional differences in time‐varying patterns, particularly the signal‐to‐noise ratio (SNR) of low‐ to high‐frequency variation. The SNR was lower in the California Current region than in two Atlantic regions and two Alaska regions. Generalized linear modelling used to synthesize results suggests that stocks with higher contrast in spawning stock biomass over time, standardized regardless of actual spawning stock size, were more likely to have time‐varying productivity than stocks with low contrast. The likelihood of time‐variation in productivity of a given stock was also found to be closely related to the autocorrelation of the recruitment time series. Such inter‐regional and inter‐stock comparisons of variation are vital in understanding the roles of local and global environmental change on fish productivity.",
+          "url": "http://dx.doi.org/10.1111/faf.12862",
+          "doi": "10.1111/faf.12862",
+          "filter": 0
+        }
+      ],
+      "articles_hidden": []
+    },
+    {
+      "journal_full": "Journal of Agricultural and Food Chemistry",
+      "journal_short": "JAFC",
+      "articles": [
+        {
+          "title": "Multiomics Combined with Expression Pattern Analysis Reveals the Regulatory Response of Key Genes in Potato Jasmonic Acid Signaling Pathways to Cadmium Stress",
+          "authors": "Mingfang Yang, Sanwei Yang, Weidong Wang, Xiaoliao Wei, Fei Lou, GuanDi He, Tengbing He",
+          "url": "http://dx.doi.org/10.1021/acs.jafc.4c04883",
+          "doi": "10.1021/acs.jafc.4c04883",
+          "filter": 0
+        },
+        {
+          "title": "Augmentation of Fermentability and Bioavailability Characteristics of Wheat Bran via the Synergistic Interaction between Arabinoxylan-Specific Degrading Enzymes and Lactic Acid Bacteria",
+          "authors": "Yanwei Xu, Yihong Huang, Wei Wu, Muhammad Suhaib Suahid, Caiwei Luo, Ying Zhu, Yuming Guo, Jianmin Yuan",
+          "url": "http://dx.doi.org/10.1021/acs.jafc.4c02423",
+          "doi": "10.1021/acs.jafc.4c02423",
+          "filter": 0
+        },
+        {
+          "title": "New Bacterial Aryl Sulfotransferases: Effective Tools for Sulfation of Polyphenols",
+          "authors": "Katerina Brodsky, Barbora Petránková, Lucie Petrásková, Helena Pelantová, Vladimír Křen, Kateřina Valentová, Pavla Bojarová",
+          "url": "http://dx.doi.org/10.1021/acs.jafc.4c06771",
+          "doi": "10.1021/acs.jafc.4c06771",
+          "filter": 0
+        },
+        {
+          "title": "De Novo Biosynthesis of L-Azetidine-2-Carboxylic Acid in Escherichia coli Strains for Powdery Mildew Treatment",
+          "authors": "Jie Zheng, Hongxiang Liu, Jiwen Zhang, Bo Yu",
+          "url": "http://dx.doi.org/10.1021/acs.jafc.4c06730",
+          "doi": "10.1021/acs.jafc.4c06730",
+          "filter": 0
+        },
+        {
+          "title": "Mutations across Diverse Domains of CjXDR1 Lead to Multidrug Resistance in Clarireedia jacksonii",
+          "authors": "Huangwei Zhang, Peiyuan Jin, Yixuan Kong, Chenchen Jia, Panpan Qiao, Yinglu Dong, Yuxin Zhou, Jian Hu, Zhimin Yang, Geunhwa Jung",
+          "url": "http://dx.doi.org/10.1021/acs.jafc.4c05106",
+          "doi": "10.1021/acs.jafc.4c05106",
+          "filter": 0
+        },
+        {
+          "title": "NMR Metabolite Profiling and Antioxidant Properties of Spartan, Jewels, Misty, and Camelia Blueberries",
+          "authors": "Mattia Spano, Giacomo Di Matteo, Simone Carradori, Marcello Locatelli, Gokhan Zengin, Luisa Mannina, Anatoly Petrovich Sobolev",
+          "url": "http://dx.doi.org/10.1021/acs.jafc.4c01442",
+          "doi": "10.1021/acs.jafc.4c01442",
+          "filter": 0
+        },
+        {
+          "title": "Singlet Oxygen Produced by Aspalathin and Ascorbic Acid Leads to Fragmentation of Dihydrochalcones and Adduct Formation",
+          "authors": "Vanessa K. Fokuhl, Emma L. Gerlach, Marcus A. Glomb",
+          "url": "http://dx.doi.org/10.1021/acs.jafc.4c07633",
+          "doi": "10.1021/acs.jafc.4c07633",
+          "filter": 0
+        },
+        {
+          "title": "Metagenomic Analysis to Assess the Impact of Plant Growth-Promoting Rhizobacteria on Peanut ( Arachis hypogaea L.) Crop Production and Soil Enzymes and Microbial Diversity",
+          "authors": "Ezequiel D. Bigatton, Romina A. Verdenelli, Ricardo J. Haro, Ibrahim Ayoub, Florencia M. Barbero, Maria Paula Martín, Lucas E. Dubini, Jesús V. Jorrín Novo, Enrique I. Lucini, María Ángeles Castillejo",
+          "url": "http://dx.doi.org/10.1021/acs.jafc.4c05687",
+          "doi": "10.1021/acs.jafc.4c05687",
+          "filter": 0
+        },
+        {
+          "title": "Major Bitter-Tasting Compounds from the Dichloromethane Fraction of Bitter Gourd (Fruit of Momordica charantia L.) Extract and Their Precursors",
+          "authors": "Xueyi Cai, Ziqiang Lin, Qihong Zheng, Mengzhen Liao, Hongfu Li, Hanxiao Feng, Huan Chen, Yang Zhang, Xiao Chen, Dong Liang",
+          "url": "http://dx.doi.org/10.1021/acs.jafc.4c06506",
+          "doi": "10.1021/acs.jafc.4c06506",
+          "filter": 0
+        },
+        {
+          "title": "Proteomic and Transcriptomic Profiling Revealed Vital Molecular Events in the Transition from Goat Colostrum to Mature Milk",
+          "authors": "Xiao Zhang, Jianing Shen, Shuying Bai, Jiangtao Huang, Bowen Tian, Yuexin Shao, Yan Yu, Huaiping Shi",
+          "url": "http://dx.doi.org/10.1021/acs.jafc.4c05651",
+          "doi": "10.1021/acs.jafc.4c05651",
+          "filter": 0
+        },
+        {
+          "title": "Development of a Chitin-Based Purification System Utilizing Chitin-Binding Domain and Tobacco Etch Virus Protease Cleavage for Efficient Recombinant Protein Recovery",
+          "authors": "Yao-Dong Lyu, Po-Ting Chen",
+          "url": "http://dx.doi.org/10.1021/acs.jafc.4c07832",
+          "doi": "10.1021/acs.jafc.4c07832",
+          "filter": 0
+        },
+        {
+          "title": "Orally Administered Ginkgolide C Alleviates MPTP-Induced Neurodegeneration by Suppressing Neuroinflammation and Oxidative Stress through Microbiota–Gut–Brain Axis in Mice",
+          "authors": "Xiyu Gao, Shoupeng Fu, Jingru Wen, Aohan Yan, Shuo Yang, Yiming Zhang, Dianfeng Liu, Dewei He",
+          "url": "http://dx.doi.org/10.1021/acs.jafc.4c03783",
+          "doi": "10.1021/acs.jafc.4c03783",
+          "filter": 0
+        },
+        {
+          "title": "Fungicidal Activity of Novel 6-Isothiazol-5-ylpyrimidin-4-amine-Containing Compounds Targeting Complex I Reduced Nicotinamide Adenine Dinucleotide Oxidoreductase",
+          "authors": "Kun Li, You Lv, Rongzhang Wu, Zhenwu Yu, Yulin Liang, Zecong Yu, Ruobing Liang, Liangfu Tang, Hongyu Chen, Zhijin Fan",
+          "url": "http://dx.doi.org/10.1021/acs.jafc.4c07259",
+          "doi": "10.1021/acs.jafc.4c07259",
+          "filter": 0
+        },
+        {
+          "title": "Molecular Insights into the Aroma Difference between Beer and Wine: A Meta-Analysis-Based Sensory Study Using Concentration Leveling Tests",
+          "authors": "Xingjie Wang, Stephanie Frank, Martin Steinhaus",
+          "url": "http://dx.doi.org/10.1021/acs.jafc.4c06838",
+          "doi": "10.1021/acs.jafc.4c06838",
+          "filter": 0
+        },
+        {
+          "title": "Amino Acid Bitterness: Characterization and Suppression",
+          "authors": "Caroline Payton Harmon, Osama M. Ahmed, Paul A.S. Breslin",
+          "url": "http://dx.doi.org/10.1021/acs.jafc.4c05281",
+          "doi": "10.1021/acs.jafc.4c05281",
+          "filter": 0
+        },
+        {
+          "title": "LC–MS/MS and GC–MS/MS Cross-Checking Analysis Method for 426 Pesticide Residues in Agricultural Products: A Method Validation and Measurement of Uncertainty",
+          "authors": "Yong-Kyoung Kim, Eun Joo Baek, Tae Woong Na, Kyu Sang Sim, Hyoyoung Kim, Ho Jin Kim",
+          "url": "http://dx.doi.org/10.1021/acs.jafc.4c01992",
+          "doi": "10.1021/acs.jafc.4c01992",
+          "filter": 0
+        },
+        {
+          "title": "Data-Independent Acquisition Proteome Technology for Analysis of Antifungal and Anti-aflatoxigenic Properties of Eugenol to Aspergillus flavus",
+          "authors": "Xinyue Zhang, Wenjing Peng, Mumin Zheng, Bolei Yang, Bowen Tai, Xu Li, Fuguo Xing",
+          "url": "http://dx.doi.org/10.1021/acs.jafc.4c04635",
+          "doi": "10.1021/acs.jafc.4c04635",
+          "filter": 0
+        },
+        {
+          "title": "Nanoenabled Antiviral Pesticide for Tobacco Mosaic Virus: Excellent Adhesion Performance and Strong Inhibitory Effect to Alleviate the Damage on Photosynthetic System",
+          "authors": "Zeng Wang, Qinhong Jiang, Qian Zhu, Chendong Ji, Jie Li, Meizhen Yin, Jie Shen, Shuo Yan",
+          "url": "http://dx.doi.org/10.1021/acs.jafc.4c06885",
+          "doi": "10.1021/acs.jafc.4c06885",
+          "filter": 0
+        },
+        {
+          "title": "Identification of Key Genes Controlling Sugar and Organic Acid Accumulation in Wampee Fruit ( Clausena lansium ) via Genome Assembly and Genome-wide Association Analysis",
+          "authors": "Huiqiong Chen, Jingxuan Wang, Xiangfeng Wang, Cheng Peng, Xiaoxiao Chang, Zhe Chen, Bowen Yang, Xinrui Wang, Jishui Qiu, Li Guo, Yusheng Lu",
+          "url": "http://dx.doi.org/10.1021/acs.jafc.4c04830",
+          "doi": "10.1021/acs.jafc.4c04830",
+          "filter": 0
+        },
+        {
+          "title": "Ultrasensitive Analysis of Escherichia coli O157:H7 Based on Immunomagnetic Separation and Labeled Surface-Enhanced Raman Scattering with Minimized False Positive Identifications",
+          "authors": "Yang Zhang, Chuping Zhao, Zhiming Guo, Tianxi Yang, Xinai Zhang, Xiaowei Huang, Jiyong Shi, Shipeng Gao, Xiaobo Zou",
+          "url": "http://dx.doi.org/10.1021/acs.jafc.4c06311",
+          "doi": "10.1021/acs.jafc.4c06311",
+          "filter": 0
+        },
+        {
+          "title": "N318L Blocks the Interaction of Fluralaner but Not Broflanilide or Fipronil with the Insect GABA Receptor In Vivo",
+          "authors": "Yichi Zhang, Xinyu Liu, Junyan Wang, Ying Wang, Priscilla Amponsah, Tao Tang, Andrew K. Jones, Chunqing Zhao",
+          "url": "http://dx.doi.org/10.1021/acs.jafc.4c06478",
+          "doi": "10.1021/acs.jafc.4c06478",
+          "filter": 0
+        },
+        {
+          "title": "Combination of Structural Analysis and Proteomics Strategy Revealed the Mechanism of Ultrasound-Assisted Cold Plasma Regulating Shrimp Allergy",
+          "authors": "Hangyu Zhong, Fengqi Wang, Caidie Tang, Jilin Li, Jun-Hu Cheng",
+          "url": "http://dx.doi.org/10.1021/acs.jafc.4c06388",
+          "doi": "10.1021/acs.jafc.4c06388",
+          "filter": 0
+        },
+        {
+          "title": "Potential Regulatory Effects of Arbuscular Mycorrhizal Fungi on Lipid Metabolism of Maize in Response to Low-Temperature Stress",
+          "authors": "Jindian Hu, Shuxin Li, Ya Zhang, Dongsheng Du, Xiancan Zhu",
+          "url": "http://dx.doi.org/10.1021/acs.jafc.4c06908",
+          "doi": "10.1021/acs.jafc.4c06908",
+          "filter": 0
+        },
+        {
+          "title": "Pinonic Acid Derivatives Containing Thiourea Motif: Promising Antifungal Lead Compound Targeting Cellular Barrier of Colletotrichum fructicola",
+          "authors": "Jiulong Wang, Xinying Duan, Jing Li, Wenjing Yuan, Hongyan Si, Ji Zhang, Jie Song, Shangxing Chen, Zongde Wang, Shengliang Liao",
+          "url": "http://dx.doi.org/10.1021/acs.jafc.4c04448",
+          "doi": "10.1021/acs.jafc.4c04448",
+          "filter": 0
+        },
+        {
+          "title": "Novel Pink Pigments Produced by Thermal Interaction of Theaflavins, Theanine, and Glucose: Color Formation, Isolation, and Structural Characterization",
+          "authors": "Piaopiao Long, Shengxiao Su, Mingchun Wen, Chi-Tang Ho, Zisheng Han, Xiaobo Zuo, Yulan Jiang, Jia-Ping Ke, Guoping Lai, Mengting Zhu, Xiaochun Wan, Liang Zhang",
+          "url": "http://dx.doi.org/10.1021/acs.jafc.4c07072",
+          "doi": "10.1021/acs.jafc.4c07072",
+          "filter": 0
+        },
+        {
+          "title": "Galangin Alleviates Alcohol-Provoked Liver Injury Associated with Gut Microbiota Disorder and Intestinal Barrier Dysfunction in Mice",
+          "authors": "Yanan Zhao, Bin Li, Hongting Deng, Chang Zhang, Yitong Wang, Lei Chen, Hui Teng",
+          "url": "http://dx.doi.org/10.1021/acs.jafc.4c05617",
+          "doi": "10.1021/acs.jafc.4c05617",
+          "filter": 0
+        },
+        {
+          "title": "Guardians of Future Food Safety: Innovative Applications and Advancements in Anti-biofouling Materials",
+          "authors": "Tao Wang, Erzheng Su",
+          "url": "http://dx.doi.org/10.1021/acs.jafc.4c05156",
+          "doi": "10.1021/acs.jafc.4c05156",
+          "filter": 0
+        },
+        {
+          "title": "Current Research Status, Opportunities, and Future Challenges of Nine Representative Persistent Herbicides",
+          "authors": "Shoumeng Wang, Yang Yang, Dongzhi Li, Lanfen Xie, Yanbing Wu, Guangling Li",
+          "url": "http://dx.doi.org/10.1021/acs.jafc.4c04537",
+          "doi": "10.1021/acs.jafc.4c04537",
+          "filter": 0
+        },
+        {
+          "title": "Dual-Mechanism Quenching Electrochemiluminescence System by Coupling Energy Transfer with Electron Transfer for Sensitive Competitive Aptamer-Based Detection of Furanyl Fentanyl in Food",
+          "authors": "Xiaolan Wang, Ding Jiang, Meihua Dong, Ying Chen, Wenchang Wang, Zheng Sun, Haibo Li, Hiroshi Shiigi, Zhidong Chen",
+          "url": "http://dx.doi.org/10.1021/acs.jafc.4c07111",
+          "doi": "10.1021/acs.jafc.4c07111",
+          "filter": 0
+        },
+        {
+          "title": "Study on the Mechanism of Effect of Protein on Starch Digestibility in Fermented Barley",
+          "authors": "Mengting Liu, Tao Liu, Jiayan Zhang, Yuhao Liu, Yansheng Zhao, Ying Zhu, Juan Bai, Songtao Fan, Shumao Cui, Yufeng He, Xiang Xiao",
+          "url": "http://dx.doi.org/10.1021/acs.jafc.4c04264",
+          "doi": "10.1021/acs.jafc.4c04264",
+          "filter": 0
+        },
+        {
+          "title": "Application of Matrix-Assisted Laser Desorption Ionization Time-of-Flight Mass Spectrometry for Identification of Foodborne Pathogens: Current Developments and Future Trends",
+          "authors": "Xi Zeng, Yu Wang, Xing Shen, Hong Wang, Zhen-Lin Xu",
+          "url": "http://dx.doi.org/10.1021/acs.jafc.4c06552",
+          "doi": "10.1021/acs.jafc.4c06552",
+          "filter": 0
+        }
+      ],
+      "articles_hidden": []
+    },
+    {
+      "journal_full": "Nature Food",
+      "journal_short": "NatureF",
+      "articles": [
+        {
+          "title": "Equity as a priority in EAT–Lancet-aligned food system transformations",
+          "authors": "Abrania Marrero, Christie Nicoson, Heather Kelahan, Kenny Mendoza, Meg Salvia, Christopher Golden, Josiemer Mattei",
+          "url": "http://dx.doi.org/10.1038/s43016-024-01047-1",
+          "doi": "10.1038/s43016-024-01047-1",
+          "filter": 0
+        },
+        {
+          "title": "Proteomic signatures of healthy dietary patterns are associated with lower risks of major chronic diseases and mortality",
+          "authors": "Kai Zhu, Rui Li, Pang Yao, Hancheng Yu, An Pan, JoAnn E. Manson, Eric B. Rimm, Walter C. Willett, Gang Liu",
+          "url": "http://dx.doi.org/10.1038/s43016-024-01059-x",
+          "doi": "10.1038/s43016-024-01059-x",
+          "filter": 0
+        },
+        {
+          "title": "Localized nitrogen management strategies can halve fertilizer use in Chinese staple crop production",
+          "authors": "Yize Liu, Minghao Zhuang, Xia Liang, Shu Kee Lam, Deli Chen, Arunima Malik, Mengyu Li, Manfred Lenzen, Liying Zhang, Rui Zhang, Lixiao Zhang, Yan Hao",
+          "url": "http://dx.doi.org/10.1038/s43016-024-01057-z",
+          "doi": "10.1038/s43016-024-01057-z",
+          "filter": 0
+        },
+        {
+          "title": "Human activities shape important geographic differences in fish mercury concentration levels",
+          "authors": "Yuping Xiang, Guangliang Liu, Yongguang Yin, Yanbin Li, Dingyong Wang, Yong Cai, Guibin Jiang",
+          "url": "http://dx.doi.org/10.1038/s43016-024-01049-z",
+          "doi": "10.1038/s43016-024-01049-z",
+          "filter": 0
+        },
+        {
+          "title": "AI-driven optimization in plant factories",
+          "authors": "Michael Martin",
+          "url": "http://dx.doi.org/10.1038/s43016-024-01050-6",
+          "doi": "10.1038/s43016-024-01050-6",
+          "filter": 0
+        }
+      ],
+      "articles_hidden": []
+    }
+  ]
+}

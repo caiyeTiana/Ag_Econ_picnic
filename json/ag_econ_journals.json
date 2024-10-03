@@ -1,11 +1,19 @@
 [
   {
+    "journal_full": "American Journal of Agricultural Economics",
+    "journal_short": "AJAE"
+  },
+  {
     "journal_full": "China Agricultural Economic Review",
     "journal_short": "CAER"
   },
   {
-    "journal_full": "China Economic Review",
-    "journal_short": "CER"
+    "journal_full": "Ecological Economics",
+    "journal_short": "EcoE"
+  },
+  {
+    "journal_full": "Energy Economics",
+    "journal_short": "EnergyE"
   },
   {
     "journal_full": "Food Policy",
@@ -26,5 +34,9 @@
   {
     "journal_full": "Journal of the Association of Environmental and Resource Economists ",
     "journal_short": "JAERE"
+  },
+  {
+    "journal_full": "Land Economics",
+    "journal_short": "LE"
   }
 ]

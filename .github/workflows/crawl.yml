@@ -40,6 +40,7 @@ jobs:
         run: |
           Rscript crawl.R "ag_econ"
           Rscript crawl.R "economics"
+          Rscript crawl.R "ag"
           Rscript crawl.R "econ_other_field"
           Rscript crawl.R "multidisciplinary"
 

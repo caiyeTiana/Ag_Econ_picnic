@@ -89,25 +89,16 @@
         <hr>
 
         <strong>Available journal tags</strong>
-        {% for journal in site.data.politics_journals %}
+        {% for journal in site.data.ag_econ_journals %}
         <li> {{ journal.journal_short }}: {{ journal.journal_full }} </li>
         {% endfor %}
         {% for journal in site.data.economics_journals %}
         <li> {{ journal.journal_short }}: {{ journal.journal_full }} </li>
         {% endfor %}
-        {% for journal in site.data.sociology_journals %}
+        {% for journal in site.data.econ_other_field_journals %}
         <li> {{ journal.journal_short }}: {{ journal.journal_full }} </li>
         {% endfor %}
         {% for journal in site.data.multidisciplinary_journals %}
-        <li> {{ journal.journal_short }}: {{ journal.journal_full }} </li>
-        {% endfor %}
-        {% for journal in site.data.ag_economics_journals %}
-        <li> {{ journal.journal_short }}: {{ journal.journal_full }} </li>
-        {% endfor %}
-        {% for journal in site.data.others_economics_journals %}
-        <li> {{ journal.journal_short }}: {{ journal.journal_full }} </li>
-        {% endfor %}
-        {% for journal in site.data.migration_journals %}
         <li> {{ journal.journal_short }}: {{ journal.journal_full }} </li>
         {% endfor %}
 

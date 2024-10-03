@@ -1,5 +1,5 @@
 {
-  "update": "2024-10-02",
+  "update": "2024-10-03",
   "content": [
     {
       "journal_full": "Journal of Finance",
@@ -96,13 +96,6 @@
       "journal_short": "JIE",
       "articles": [
         {
-          "title": "Geopolitical risk perceptions",
-          "authors": "Yevheniia Bondarenko, Vivien Lewis, Matthias Rottner, Yves Schüler",
-          "url": "http://dx.doi.org/10.1016/j.jinteco.2024.104005",
-          "doi": "10.1016/j.jinteco.2024.104005",
-          "filter": 0
-        },
-        {
           "title": "The network origins of trade comovement",
           "authors": "Justas Dainauskas",
           "url": "http://dx.doi.org/10.1016/j.jinteco.2024.104010",
@@ -131,27 +124,10 @@
       "journal_short": "JLE",
       "articles": [
         {
-          "title": "H. Gregg Lewis Prize",
-          "url": "http://dx.doi.org/10.1086/733093",
-          "doi": "10.1086/733093",
-          "filter": 0
-        },
-        {
-          "title": "Jacob Mincer Award",
-          "url": "http://dx.doi.org/10.1086/733091",
-          "doi": "10.1086/733091",
-          "filter": 0
-        },
-        {
-          "title": "Edward P. Lazear Prize",
-          "url": "http://dx.doi.org/10.1086/733090",
-          "doi": "10.1086/733090",
-          "filter": 0
-        },
-        {
-          "title": "Sherwin Rosen Prize",
-          "url": "http://dx.doi.org/10.1086/733094",
-          "doi": "10.1086/733094",
+          "title": "Is Parental Leave Costly for Firms and Coworkers?",
+          "authors": "Anne Ardila Brenøe, Serena Canaan, Nikolaj A. Harmon, Heather N. Royer",
+          "url": "http://dx.doi.org/10.1086/725554",
+          "doi": "10.1086/725554",
           "filter": 0
         },
         {
@@ -162,24 +138,10 @@
           "filter": 0
         },
         {
-          "title": "Is Parental Leave Costly for Firms and Coworkers?",
-          "authors": "Anne Ardila Brenøe, Serena Canaan, Nikolaj A. Harmon, Heather N. Royer",
-          "url": "http://dx.doi.org/10.1086/725554",
-          "doi": "10.1086/725554",
-          "filter": 0
-        },
-        {
           "title": "Measuring Labor Market Power in Developing Countries: Evidence from Colombian Plants",
           "authors": "Francesco Amodio, Nicolás de Roux",
           "url": "http://dx.doi.org/10.1086/725248",
           "doi": "10.1086/725248",
-          "filter": 0
-        },
-        {
-          "title": "Unemployed Job Search across People and over Time: Evidence from Applied-For Jobs",
-          "authors": "Jonas Fluchtmann, Anita M. Glenny, Nikolaj Harmon, Jonas Maibom",
-          "url": "http://dx.doi.org/10.1086/725165",
-          "doi": "10.1086/725165",
           "filter": 0
         },
         {
@@ -190,6 +152,19 @@
           "filter": 0
         },
         {
+          "title": "Unemployed Job Search across People and over Time: Evidence from Applied-For Jobs",
+          "authors": "Jonas Fluchtmann, Anita M. Glenny, Nikolaj Harmon, Jonas Maibom",
+          "url": "http://dx.doi.org/10.1086/725165",
+          "doi": "10.1086/725165",
+          "filter": 0
+        },
+        {
+          "title": "H. Gregg Lewis Prize",
+          "url": "http://dx.doi.org/10.1086/733093",
+          "doi": "10.1086/733093",
+          "filter": 0
+        },
+        {
           "title": "The Impact of Selection into the Labor Force on the Gender Wage Gap",
           "authors": "Francine D. Blau, Lawrence M. Kahn, Nikolai Boboshko, Matthew Comey",
           "url": "http://dx.doi.org/10.1086/725032",
@@ -197,10 +172,28 @@
           "filter": 0
         },
         {
+          "title": "Jacob Mincer Award",
+          "url": "http://dx.doi.org/10.1086/733091",
+          "doi": "10.1086/733091",
+          "filter": 0
+        },
+        {
           "title": "The Efficacy of Tournaments for Nonroutine Team Tasks",
           "authors": "Florian Englmaier, Stefan Grimm, Dominik Grothe, David Schindler, Simeon Schudy",
           "url": "http://dx.doi.org/10.1086/725553",
           "doi": "10.1086/725553",
+          "filter": 0
+        },
+        {
+          "title": "Sherwin Rosen Prize",
+          "url": "http://dx.doi.org/10.1086/733094",
+          "doi": "10.1086/733094",
+          "filter": 0
+        },
+        {
+          "title": "Edward P. Lazear Prize",
+          "url": "http://dx.doi.org/10.1086/733090",
+          "doi": "10.1086/733090",
           "filter": 0
         },
         {

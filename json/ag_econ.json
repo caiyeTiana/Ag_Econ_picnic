@@ -1,0 +1,910 @@
+{
+  "update": "2024-10-03",
+  "content": [
+    {
+      "journal_full": "China Economic Review",
+      "journal_short": "CER",
+      "articles": [
+        {
+          "title": "The effect of political connections on the distribution of firm performance",
+          "authors": "Xuan Li, Yanchen Wang",
+          "url": "http://dx.doi.org/10.1016/j.chieco.2024.102289",
+          "doi": "10.1016/j.chieco.2024.102289",
+          "filter": 0
+        },
+        {
+          "title": "Waves or ripples: African countries risk shocks and the survival of Chinese exports to Africa",
+          "authors": "Xinjian Ye, Mingyong Lai, Hao Xiao, Dinggen Zhou",
+          "url": "http://dx.doi.org/10.1016/j.chieco.2024.102287",
+          "doi": "10.1016/j.chieco.2024.102287",
+          "filter": 0
+        },
+        {
+          "title": "R&amp;D project subsidy V.S. government innovation reward: The effectiveness on corporate innovation",
+          "authors": "Xiaoqi Dong, Yafei Li, Jinping Sun",
+          "url": "http://dx.doi.org/10.1016/j.chieco.2024.102288",
+          "doi": "10.1016/j.chieco.2024.102288",
+          "filter": 0
+        },
+        {
+          "title": "Enhancing China's image in Africa: The role of the Belt and Road Initiative",
+          "authors": "Ziwei Liu, Yibing Ding",
+          "url": "http://dx.doi.org/10.1016/j.chieco.2024.102239",
+          "doi": "10.1016/j.chieco.2024.102239",
+          "filter": 0
+        },
+        {
+          "title": "The role of information in nudging Chinese consumers from choosing sugar to alternative sweeteners",
+          "authors": "Lijun Guan, Shaosheng Jin, Wen Lin",
+          "url": "http://dx.doi.org/10.1016/j.chieco.2024.102233",
+          "doi": "10.1016/j.chieco.2024.102233",
+          "filter": 0
+        },
+        {
+          "title": "Intergenerational transmission of non-cognitive abilities: Evidence from the Wuhan Birth Cohort Studies",
+          "authors": "Ying Li, Shuhang Zhao, Zhilei Shi, Jingchun Nie",
+          "url": "http://dx.doi.org/10.1016/j.chieco.2024.102214",
+          "doi": "10.1016/j.chieco.2024.102214",
+          "filter": 0
+        },
+        {
+          "title": "How does climate regulatory risk influence labor employment decisions? Evidence from a quasi-natural experiment",
+          "authors": "William Mbanyele, Hongyun Huang, Linda T. Muchenje, Jun Zhao",
+          "url": "http://dx.doi.org/10.1016/j.chieco.2024.102236",
+          "doi": "10.1016/j.chieco.2024.102236",
+          "filter": 0
+        },
+        {
+          "title": "‘One System, Two Shadows’: A local public finance perspective on China's shadow banking system",
+          "authors": "Shidai Zhang, Kellee S. Tsai",
+          "url": "http://dx.doi.org/10.1016/j.chieco.2024.102209",
+          "doi": "10.1016/j.chieco.2024.102209",
+          "filter": 0
+        },
+        {
+          "title": "Soybean overweight shock (SOS): The impact of trade liberalization in China on overweight prevalence",
+          "authors": "Rui Wang, Faqin Lin, Kuo Feng",
+          "url": "http://dx.doi.org/10.1016/j.chieco.2024.102224",
+          "doi": "10.1016/j.chieco.2024.102224",
+          "filter": 0
+        },
+        {
+          "title": "Speculation, climate or pandemic: Who drives the Chinese herbal medicine bubbles?",
+          "authors": "Meng Qin, Ai-Hsuan Su, Ruifeng Li, Chi-Wei Su",
+          "url": "http://dx.doi.org/10.1016/j.chieco.2024.102213",
+          "doi": "10.1016/j.chieco.2024.102213",
+          "filter": 0
+        },
+        {
+          "title": "The impact of tax enforcement on corporate energy efficiency: Evidence from a tax collection reform in China",
+          "authors": "Qiuhang Xing, Mengzhe Li, Gaoshuang Xu",
+          "url": "http://dx.doi.org/10.1016/j.chieco.2024.102260",
+          "doi": "10.1016/j.chieco.2024.102260",
+          "filter": 0
+        },
+        {
+          "title": "Can IP tribunals increase firm patent applications?—Empirical evidence from China",
+          "authors": "Yufei Zhang, Li Wang, Tengjiao He",
+          "url": "http://dx.doi.org/10.1016/j.chieco.2024.102240",
+          "doi": "10.1016/j.chieco.2024.102240",
+          "filter": 0
+        },
+        {
+          "title": "Do teachers colleges prepare more effective teachers? Evidence from a top school district in China",
+          "authors": "Qi Zheng, Xin Xie, Xiaoyang Ye, Yi Wei",
+          "url": "http://dx.doi.org/10.1016/j.chieco.2024.102225",
+          "doi": "10.1016/j.chieco.2024.102225",
+          "filter": 0
+        },
+        {
+          "title": "Online markets, offline happiness: E-commerce development and subjective well-being in rural China",
+          "authors": "Binhui Wei, Chunkai Zhao, Mingzhong Luo",
+          "url": "http://dx.doi.org/10.1016/j.chieco.2024.102247",
+          "doi": "10.1016/j.chieco.2024.102247",
+          "filter": 0
+        },
+        {
+          "title": "Traffic violations and economic preferences: Evidence from full-time drivers of a large transportation network company in China",
+          "authors": "Youxin Hu, Shaoqing Huang, Ming Jiang, Xiaoshu Xu",
+          "url": "http://dx.doi.org/10.1016/j.chieco.2024.102255",
+          "doi": "10.1016/j.chieco.2024.102255",
+          "filter": 0
+        },
+        {
+          "title": "Corrigendum to “The political economy of COVID-19 in China” [China Economic Review, Volume 85, 2024, 102143]",
+          "authors": "Qi Li, Zhiting Yuan, Ran Tao",
+          "url": "http://dx.doi.org/10.1016/j.chieco.2024.102242",
+          "doi": "10.1016/j.chieco.2024.102242",
+          "filter": 0
+        },
+        {
+          "title": "The effect of the end-number license plate driving restriction on reducing air pollution in China",
+          "authors": "Yuqi Song",
+          "url": "http://dx.doi.org/10.1016/j.chieco.2024.102252",
+          "doi": "10.1016/j.chieco.2024.102252",
+          "filter": 0
+        },
+        {
+          "title": "How digital finance shapes residents' health: Evidence from China",
+          "authors": "Liping Liao, Minzhe Du",
+          "url": "http://dx.doi.org/10.1016/j.chieco.2024.102246",
+          "doi": "10.1016/j.chieco.2024.102246",
+          "filter": 0
+        },
+        {
+          "title": "Heterogeneous peer effects under endogenous selection: An application to local and migrant children in elementary schools in Shanghai",
+          "authors": "Yuanyuan Chen, Shuaizhang Feng, Chao Yang",
+          "url": "http://dx.doi.org/10.1016/j.chieco.2024.102207",
+          "doi": "10.1016/j.chieco.2024.102207",
+          "filter": 0
+        },
+        {
+          "title": "Plant-level adjustments to imports and exports at the extensive margin",
+          "authors": "Andreas Hauptmann, Hans-Jörg Schmerer, Benjamin Schwanebeck",
+          "url": "http://dx.doi.org/10.1016/j.chieco.2024.102212",
+          "doi": "10.1016/j.chieco.2024.102212",
+          "filter": 0
+        },
+        {
+          "title": "City civilization, employment creation and talent agglomeration: Empirical evidence from “National Civilized City” policy in China",
+          "authors": "Meng Guo, Danglun Luo, Chen Liu",
+          "url": "http://dx.doi.org/10.1016/j.chieco.2024.102215",
+          "doi": "10.1016/j.chieco.2024.102215",
+          "filter": 0
+        },
+        {
+          "title": "The effect of mandatory CSR disclosure on stock liquidity",
+          "authors": "Zhiyuan Li, Wenlian Lin, Sili Zhou",
+          "url": "http://dx.doi.org/10.1016/j.chieco.2024.102232",
+          "doi": "10.1016/j.chieco.2024.102232",
+          "filter": 0
+        },
+        {
+          "title": "Effect of parenting centers on caregiver mental health ——Evidence from a large scale randomized controlled trial in rural China",
+          "authors": "Ai Yue, Qiannan Song, Yuan Gao, Shibin Liang, Xinyue Zhang, Yali Zhang, Yuxiu Ding, Yaojiang Shi",
+          "url": "http://dx.doi.org/10.1016/j.chieco.2024.102259",
+          "doi": "10.1016/j.chieco.2024.102259",
+          "filter": 0
+        },
+        {
+          "title": "Intensified law enforcement and firm innovation: Evidence from China's antitrust consolidation",
+          "authors": "Jialiang Zhu, Jinnan Gu",
+          "url": "http://dx.doi.org/10.1016/j.chieco.2024.102265",
+          "doi": "10.1016/j.chieco.2024.102265",
+          "filter": 0
+        },
+        {
+          "title": "Born by water: Does water resource reallocation promote entrepreneurship?",
+          "authors": "Shengming Hu, Yunyun Zhang, Yao Hu, Hui Wang",
+          "url": "http://dx.doi.org/10.1016/j.chieco.2024.102234",
+          "doi": "10.1016/j.chieco.2024.102234",
+          "filter": 0
+        },
+        {
+          "title": "Pre-marital homeownership as self-protection against divorce risks: Evidence from China's property division regime change",
+          "authors": "Yu Zhang, Ge Yang, Muhan Li, Mengjie Yao",
+          "url": "http://dx.doi.org/10.1016/j.chieco.2024.102237",
+          "doi": "10.1016/j.chieco.2024.102237",
+          "filter": 0
+        },
+        {
+          "title": "The impact of digital infrastructure on the geographical supply chain layout of firms —— Evidence from Chinese microdata",
+          "authors": "Jie Ji, Ying Wang",
+          "url": "http://dx.doi.org/10.1016/j.chieco.2024.102249",
+          "doi": "10.1016/j.chieco.2024.102249",
+          "filter": 0
+        },
+        {
+          "title": "Digitalization of industries and labor mobility in China",
+          "authors": "Heting Wang, Huijuan Wang, Rong Guan",
+          "url": "http://dx.doi.org/10.1016/j.chieco.2024.102248",
+          "doi": "10.1016/j.chieco.2024.102248",
+          "filter": 0
+        },
+        {
+          "title": "Incentive adjustments and land leasing behavior shifts: A quasi-natural experiment of off-office audits",
+          "authors": "Jian Cheng, Jiangmeng Zhao, Dandan Liu",
+          "url": "http://dx.doi.org/10.1016/j.chieco.2024.102229",
+          "doi": "10.1016/j.chieco.2024.102229",
+          "filter": 0
+        },
+        {
+          "title": "Maternity leave reform and women's labor supply: Evidence from China",
+          "authors": "Yu Shen, Xueting Qie, Qingmiao Bi",
+          "url": "http://dx.doi.org/10.1016/j.chieco.2024.102256",
+          "doi": "10.1016/j.chieco.2024.102256",
+          "filter": 0
+        },
+        {
+          "title": "Green credit and firms’ span of global production stages",
+          "authors": "Jiatong Jiang, Jiansuo Pei, Meng Zhang",
+          "url": "http://dx.doi.org/10.1016/j.chieco.2024.102263",
+          "doi": "10.1016/j.chieco.2024.102263",
+          "filter": 0
+        },
+        {
+          "title": "Sectoral shocks, production linkages, and business cycles in China",
+          "authors": "Lunan Jiang, Young Sik Kim, Lin Zhang",
+          "url": "http://dx.doi.org/10.1016/j.chieco.2024.102211",
+          "doi": "10.1016/j.chieco.2024.102211",
+          "filter": 0
+        },
+        {
+          "title": "The effect of government-firm relationship on pollution reduction: The role of official performance appraisal",
+          "authors": "Gaoyi Lin, Changtuo Xu, Hailin Chen, Kai Tang",
+          "url": "http://dx.doi.org/10.1016/j.chieco.2024.102243",
+          "doi": "10.1016/j.chieco.2024.102243",
+          "filter": 0
+        },
+        {
+          "title": "The impact of welfare design on consumption patterns of the poor: Evidence from the recent Dibao reform in rural China",
+          "authors": "Yang Song, Zerui Cheng",
+          "url": "http://dx.doi.org/10.1016/j.chieco.2024.102235",
+          "doi": "10.1016/j.chieco.2024.102235",
+          "filter": 0
+        },
+        {
+          "title": "Does childhood adversity affect household portfolio decisions? Evidence from the Chinese Great Famine",
+          "authors": "Zhiming Cheng, Russell Smyth, Le Zhang",
+          "url": "http://dx.doi.org/10.1016/j.chieco.2024.102227",
+          "doi": "10.1016/j.chieco.2024.102227",
+          "filter": 0
+        },
+        {
+          "title": "Feed the children, free the women? Evidence from the China rural nutrition improvement program",
+          "authors": "Ge Wang, Xinjie Shi, Jane Golley",
+          "url": "http://dx.doi.org/10.1016/j.chieco.2024.102228",
+          "doi": "10.1016/j.chieco.2024.102228",
+          "filter": 0
+        },
+        {
+          "title": "Adapting to trade friction: The supply chain dynamics of Chinese suppliers",
+          "authors": "Guangyuan Guo, Dongmin Hu, Huanhuan Wang, Zhiqiang Zhang",
+          "url": "http://dx.doi.org/10.1016/j.chieco.2024.102230",
+          "doi": "10.1016/j.chieco.2024.102230",
+          "filter": 0
+        },
+        {
+          "title": "Recent progress in hukou reform and labor market integration in China: 1996–2022",
+          "authors": "Zhu Chen, Qianqian Shang, Jipeng Zhang",
+          "url": "http://dx.doi.org/10.1016/j.chieco.2024.102231",
+          "doi": "10.1016/j.chieco.2024.102231",
+          "filter": 0
+        },
+        {
+          "title": "Does liquidity regulation affect commercial banks' carbon bias? Evidence from China",
+          "authors": "Junxun Dai, Yan Liu, Wei Yuan, Xin Zou",
+          "url": "http://dx.doi.org/10.1016/j.chieco.2024.102253",
+          "doi": "10.1016/j.chieco.2024.102253",
+          "filter": 0
+        },
+        {
+          "title": "Price of going green: The employment effects of the environmental protection tax in China",
+          "authors": "Shuling Lu, Qijing Yang",
+          "url": "http://dx.doi.org/10.1016/j.chieco.2024.102244",
+          "doi": "10.1016/j.chieco.2024.102244",
+          "filter": 0
+        },
+        {
+          "title": "Environmental regulation and manufacturing employment: Evidence from China's Eleventh Five-Year Plan",
+          "authors": "Jiaqi Liao, Ning Zhang",
+          "url": "http://dx.doi.org/10.1016/j.chieco.2024.102226",
+          "doi": "10.1016/j.chieco.2024.102226",
+          "filter": 0
+        },
+        {
+          "title": "Impact of a health system vertical integration program on patient expenditures and healthcare utilization: Evidence from county hospitals in East China",
+          "authors": "Wei Jiang, Qiulin Chen, Xuyan Lou, Lina Song, Zhuo Chen",
+          "url": "http://dx.doi.org/10.1016/j.chieco.2024.102250",
+          "doi": "10.1016/j.chieco.2024.102250",
+          "filter": 0
+        },
+        {
+          "title": "Contract enforcement efficiency and corporate vertical specialization: Evidence from a quasi-natural experiment of “announcement of dishonest persons” in China",
+          "authors": "Chaoying Li, Chunxiao Geng, Jian Sun, Chun Yuan",
+          "url": "http://dx.doi.org/10.1016/j.chieco.2024.102241",
+          "doi": "10.1016/j.chieco.2024.102241",
+          "filter": 0
+        },
+        {
+          "title": "Asymmetric employer learning and gender-based statistical discrimination in China",
+          "authors": "Qian Sun",
+          "url": "http://dx.doi.org/10.1016/j.chieco.2024.102258",
+          "doi": "10.1016/j.chieco.2024.102258",
+          "filter": 0
+        }
+      ],
+      "articles_hidden": [
+        {
+          "title": "Editorial Board",
+          "url": "http://dx.doi.org/10.1016/s1043-951x(24)00164-0",
+          "doi": "10.1016/s1043-951x(24)00164-0",
+          "filter": 1
+        }
+      ]
+    },
+    {
+      "journal_full": "Food Policy",
+      "journal_short": "FP",
+      "articles": [
+        {
+          "title": "Beyond information: The power of personalized nudges in promoting vegetable purchases",
+          "authors": "Hiroki Sasaki, Nobuhiro Ito",
+          "url": "http://dx.doi.org/10.1016/j.foodpol.2024.102726",
+          "doi": "10.1016/j.foodpol.2024.102726",
+          "filter": 0
+        },
+        {
+          "title": "Farm size and the quality and quantity of jobs—Insights from Nigeria",
+          "authors": "Olayinka Aremu, Anna Fabry, Eva-Marie Meemken",
+          "url": "http://dx.doi.org/10.1016/j.foodpol.2024.102731",
+          "doi": "10.1016/j.foodpol.2024.102731",
+          "filter": 0
+        },
+        {
+          "title": "A comment on USDA Food Business Centers: Collaborations to nurture innovation in the food system",
+          "authors": "Anders Van Sandt, Dawn Thilmany, Lauren Gwin",
+          "url": "http://dx.doi.org/10.1016/j.foodpol.2024.102727",
+          "doi": "10.1016/j.foodpol.2024.102727",
+          "filter": 0
+        },
+        {
+          "title": "Maternal employment in high-value agriculture and child nutrition: Evidence from the Ethiopian cut-flower industry",
+          "authors": "Astewale Bimr Melaku, Matin Qaim, Bethelhem Legesse Debela",
+          "url": "http://dx.doi.org/10.1016/j.foodpol.2024.102732",
+          "doi": "10.1016/j.foodpol.2024.102732",
+          "filter": 0
+        },
+        {
+          "title": "Public preferences for meat tax attributes in The Netherlands: A discrete choice experiment",
+          "authors": "Veerle E. Siegerink, Joyce Delnoij, Francisco Alpizar",
+          "url": "http://dx.doi.org/10.1016/j.foodpol.2024.102675",
+          "doi": "10.1016/j.foodpol.2024.102675",
+          "filter": 0
+        },
+        {
+          "title": "Reflections on food policy in the context of healthy and sustainable diets",
+          "authors": "Jan Hales, Joya Kemper, Samantha K. White, Ekant Veer",
+          "url": "http://dx.doi.org/10.1016/j.foodpol.2024.102708",
+          "doi": "10.1016/j.foodpol.2024.102708",
+          "filter": 0
+        },
+        {
+          "title": "Impact of food hubs on food security and sustainability: Food hubs perspectives from Leeds, UK",
+          "authors": "Effie Papargyropoulou, Gemma Bridge, Sonja Woodcock, Emma Strachan, Joanna Rowlands, Elizabeth Boniface",
+          "url": "http://dx.doi.org/10.1016/j.foodpol.2024.102705",
+          "doi": "10.1016/j.foodpol.2024.102705",
+          "filter": 0
+        },
+        {
+          "title": "Between dissonance and confusion: When the Nutri-Score as a nutritional signal is misinterpreted",
+          "authors": "Valérie Hémar-Nicolas, Nathalie Guichard, Amélie Clauzel",
+          "url": "http://dx.doi.org/10.1016/j.foodpol.2024.102677",
+          "doi": "10.1016/j.foodpol.2024.102677",
+          "filter": 0
+        },
+        {
+          "title": "Temperature and children’s dietary diversity: Evidence from India",
+          "authors": "Pallavi Rajkhowa, Suman Chakrabarti",
+          "url": "http://dx.doi.org/10.1016/j.foodpol.2024.102703",
+          "doi": "10.1016/j.foodpol.2024.102703",
+          "filter": 0
+        },
+        {
+          "title": "The impact of pre-empting dual food quality regulation on product reformulation and packaging",
+          "authors": "Kjersti Nes, Federico Antonioli, Federica Di Marcantonio, Pavel Ciaian",
+          "url": "http://dx.doi.org/10.1016/j.foodpol.2024.102707",
+          "doi": "10.1016/j.foodpol.2024.102707",
+          "filter": 0
+        },
+        {
+          "title": "Behavioural insights to reach European Union consumer food waste reduction targets",
+          "authors": "Hendrik Bruns, Valeria De Laurentiis, Laura García Herrero, Giulia Listorti",
+          "url": "http://dx.doi.org/10.1016/j.foodpol.2024.102725",
+          "doi": "10.1016/j.foodpol.2024.102725",
+          "filter": 0
+        },
+        {
+          "title": "Impact of crop commercialization on smallholder farmers’ resilience to shocks: Evidence from panel data for rural Southeast Asia",
+          "authors": "Manh Hung Do, Trung Thanh Nguyen",
+          "url": "http://dx.doi.org/10.1016/j.foodpol.2024.102709",
+          "doi": "10.1016/j.foodpol.2024.102709",
+          "filter": 0
+        },
+        {
+          "title": "How does recall bias in farm labor impact separability tests?",
+          "authors": "Bailey Peterson-Wilhelm, Benjamin Schwab",
+          "url": "http://dx.doi.org/10.1016/j.foodpol.2024.102669",
+          "doi": "10.1016/j.foodpol.2024.102669",
+          "filter": 0
+        },
+        {
+          "title": "Autopsy of a futures market failure: Japan’s Dojima rice futures in the early 21st century",
+          "authors": "Shuhei Yamamoto, Joseph P. Janzen, Teresa Serra",
+          "url": "http://dx.doi.org/10.1016/j.foodpol.2024.102717",
+          "doi": "10.1016/j.foodpol.2024.102717",
+          "filter": 0
+        },
+        {
+          "title": "Assessing misallocation in agriculture: Plots versus farms",
+          "authors": "Fernando M. Aragón, Diego Restuccia, Juan Pablo Rud",
+          "url": "http://dx.doi.org/10.1016/j.foodpol.2024.102678",
+          "doi": "10.1016/j.foodpol.2024.102678",
+          "filter": 0
+        },
+        {
+          "title": "An approach for assessing whether agricultural projects help smallholders transition to better livelihood strategies: A malawian case study",
+          "authors": "Anne G. Timu, Peter Hazell, Sara Savastano",
+          "url": "http://dx.doi.org/10.1016/j.foodpol.2024.102728",
+          "doi": "10.1016/j.foodpol.2024.102728",
+          "filter": 0
+        },
+        {
+          "title": "Revisiting heterogenous social desirability bias in consumer willingness to pay for food carbon label: Social norms and environmental concerns",
+          "authors": "Hang Xiong, Wuyang Hu, Meng Xu, Jintao Zhan",
+          "url": "http://dx.doi.org/10.1016/j.foodpol.2024.102690",
+          "doi": "10.1016/j.foodpol.2024.102690",
+          "filter": 0
+        },
+        {
+          "title": "Balancing environmental policies and food security goals in the face of shifting U.S. rail transportation regulations",
+          "authors": "Sandro Steinbach",
+          "url": "http://dx.doi.org/10.1016/j.foodpol.2024.102724",
+          "doi": "10.1016/j.foodpol.2024.102724",
+          "filter": 0
+        },
+        {
+          "title": "Market food environments and child nutrition",
+          "authors": "Vivien Hülsen, Makaiko G. Khonje, Matin Qaim",
+          "url": "http://dx.doi.org/10.1016/j.foodpol.2024.102704",
+          "doi": "10.1016/j.foodpol.2024.102704",
+          "filter": 0
+        },
+        {
+          "title": "Food politics in China: How strengthened accountability enhances food security",
+          "authors": "Yingnan Zhang, Shenghua Lu",
+          "url": "http://dx.doi.org/10.1016/j.foodpol.2024.102692",
+          "doi": "10.1016/j.foodpol.2024.102692",
+          "filter": 0
+        },
+        {
+          "title": "Tax on sugary drinks in Brazil: Simulation of impacts on the purchases of non-alcoholic drinks and family welfare",
+          "authors": "Charline Dassow, Edilberto Almeida",
+          "url": "http://dx.doi.org/10.1016/j.foodpol.2024.102673",
+          "doi": "10.1016/j.foodpol.2024.102673",
+          "filter": 0
+        },
+        {
+          "title": "Nudging consumers’ choices for niche milk: A real purchase experiment",
+          "authors": "Cristiano Franceschinis, Riccardo Scarpa, Mara Thiene",
+          "url": "http://dx.doi.org/10.1016/j.foodpol.2024.102729",
+          "doi": "10.1016/j.foodpol.2024.102729",
+          "filter": 0
+        },
+        {
+          "title": "Women improving nutrition through self-help groups in India: Does nutrition information help?",
+          "authors": "Neha Kumar, Kalyani Raghunathan, Agnes Quisumbing, Samuel Scott, Purnima Menon, Giang Thai, Shivani Gupta, Carly Nichols",
+          "url": "http://dx.doi.org/10.1016/j.foodpol.2024.102716",
+          "doi": "10.1016/j.foodpol.2024.102716",
+          "filter": 0
+        },
+        {
+          "title": "Women’s empowerment and intra-household diet diversity across the urban continuum: Evidence from India’s DHS",
+          "authors": "Soumya Gupta, Payal Seth, Vidya Vemireddy, Prabhu Pingali",
+          "url": "http://dx.doi.org/10.1016/j.foodpol.2024.102680",
+          "doi": "10.1016/j.foodpol.2024.102680",
+          "filter": 0
+        },
+        {
+          "title": "Development of the Food Systems Literacy Competencies Framework for youth: A modified Delphi study with experts",
+          "authors": "Alicia E. Martin, Jess Haines, Evan D.G. Fraser",
+          "url": "http://dx.doi.org/10.1016/j.foodpol.2024.102702",
+          "doi": "10.1016/j.foodpol.2024.102702",
+          "filter": 0
+        },
+        {
+          "title": "Integrating system dynamics to value chain analysis to address price volatility in the Indonesian chilli value chain",
+          "authors": "Yanti Nuraeni Muflikh, Carl Smith, Colin Brown, Nunung Kusnadi, Adhitya Marendra Kiloes, Ammar Abdul Aziz",
+          "url": "http://dx.doi.org/10.1016/j.foodpol.2024.102713",
+          "doi": "10.1016/j.foodpol.2024.102713",
+          "filter": 0
+        },
+        {
+          "title": "Making ends meet in refugee camps: Food distribution cycles, consumption and undernutrition",
+          "authors": "Frederic Aubery, Marie-Charlotte Buisson",
+          "url": "http://dx.doi.org/10.1016/j.foodpol.2024.102666",
+          "doi": "10.1016/j.foodpol.2024.102666",
+          "filter": 0
+        },
+        {
+          "title": "Nutrition education effects on food and nutrition security for women living with HIV/AIDS in Uganda",
+          "authors": "Frances Nakakawa, Johnny Mugisha, Archileo N. Kaaya, Nazarius M. Tumwesigye, Martina Hennessey",
+          "url": "http://dx.doi.org/10.1016/j.foodpol.2024.102715",
+          "doi": "10.1016/j.foodpol.2024.102715",
+          "filter": 0
+        },
+        {
+          "title": "Policy options for managing avian influenza in dairy cows",
+          "authors": "William Nganje, Sandro Steinbach",
+          "url": "http://dx.doi.org/10.1016/j.foodpol.2024.102691",
+          "doi": "10.1016/j.foodpol.2024.102691",
+          "filter": 0
+        }
+      ],
+      "articles_hidden": []
+    },
+    {
+      "journal_full": "Journal of Agricultural Economics",
+      "journal_short": "JAE",
+      "articles": [
+        {
+          "title": "From informal farmland rental to market‐oriented transactions: Do China's Land Transfer Service Centers help?",
+          "authors": "Pengfei Fan, Ashok K. Mishra, Shuyi Feng, Min Su",
+          "abstract": "Farmland rental markets are important in production agriculture. Informal farmland rental markets have taken root in Chinese agriculture. However, farmland rental markets need to be transparent for increased efficiency and smooth functioning. This study uses three waves of nationally representative panel data and a difference‐in‐differences framework to examine the effect of China's Land Transfer Service Centers (LTSCs) on market‐oriented farmland transfers. The result indicates that LTSCs enhance farmland transfer marketisation, encouraging landowners to rent their land to large‐scale operators, engage in fixed‐term contracts and charge pecuniary rents. However, the LTSCs' “discrimination” against smallholders may limit their impact on the overall market. Additionally, LTSCs have weaker effects in villages with large clans and stronger effects in villages with bank outlets. The results illustrate the potential value of intermediary service organisations (ISOs) in land rental markets.",
+          "url": "http://dx.doi.org/10.1111/1477-9552.12615",
+          "doi": "10.1111/1477-9552.12615",
+          "filter": 0
+        },
+        {
+          "title": "Farmers' cooperation to improve water quality under scientific uncertainty: A lab‐in‐the‐field experiment",
+          "authors": "Simone Angioloni, Simone Cerroni",
+          "abstract": "Cooperation amongst natural resource users is key to manage ecosystems sustainably and achieve environmental goals proposed by policy and regulations. This paper focuses on the impact that livestock farming can have on the quality of a water body and investigates farmers' willingness to cooperate to preserve water quality under two different sources of uncertainty and four different degrees of uncertainty. The first source relates to the level of water quality that must be guaranteed in a river catchment to avoid irreversible deterioration of aquatic ecosystems (threshold uncertainty, i.e. with catastrophic consequences). The second source relates to the financial losses that farmers will experience in the long run if they fail to cooperate (impact uncertainty). To this end, a lab‐in‐the‐field experiment was conducted with livestock farmers of Northern Ireland. A local public good game with threshold uncertainty was framed around an agri‐environmental scheme designed to create ungrazed buffer zones for water quality preservation. Results indicate that uncertainty generally hampers farmers' cooperation and the provision of information geared to reduce uncertainty enhances it. Impact uncertainty has a milder negative impact on cooperation than threshold uncertainty. Risk preferences and probability weighting do not influence cooperation, while loss aversion has an influence on cooperation.",
+          "url": "http://dx.doi.org/10.1111/1477-9552.12614",
+          "doi": "10.1111/1477-9552.12614",
+          "filter": 0
+        }
+      ],
+      "articles_hidden": []
+    },
+    {
+      "journal_full": "Journal of Development Economics",
+      "journal_short": "JDE",
+      "articles": [
+        {
+          "title": "Young women in cities: Urbanization and gender-biased migration",
+          "authors": "Yumi Koh, Jing Li, Yifan Wu, Junjian Yi, Hanzhe Zhang",
+          "url": "http://dx.doi.org/10.1016/j.jdeveco.2024.103378",
+          "doi": "10.1016/j.jdeveco.2024.103378",
+          "filter": 0
+        },
+        {
+          "title": "The persistence of trade relocation from civil conflict",
+          "authors": "Tobias Korn, Henry Stemmler",
+          "url": "http://dx.doi.org/10.1016/j.jdeveco.2024.103376",
+          "doi": "10.1016/j.jdeveco.2024.103376",
+          "filter": 0
+        },
+        {
+          "title": "Robots as guardians: Industrial automation and workplace safety in China",
+          "authors": "Wei Luo, Lixin Tang, Yaxin Yang, Xianqiang Zou",
+          "url": "http://dx.doi.org/10.1016/j.jdeveco.2024.103381",
+          "doi": "10.1016/j.jdeveco.2024.103381",
+          "filter": 0
+        },
+        {
+          "title": "The long-run costs of highly competitive exams for government jobs",
+          "authors": "Kunal Mangal",
+          "url": "http://dx.doi.org/10.1016/j.jdeveco.2024.103331",
+          "doi": "10.1016/j.jdeveco.2024.103331",
+          "filter": 0
+        },
+        {
+          "title": "Migration from developing countries: Selection, income elasticity, and Simpson’s paradox",
+          "authors": "Michael A. Clemens, Mariapia Mendola",
+          "url": "http://dx.doi.org/10.1016/j.jdeveco.2024.103359",
+          "doi": "10.1016/j.jdeveco.2024.103359",
+          "filter": 0
+        },
+        {
+          "title": "Land allocation and industrial agglomeration: Evidence from the 2007 reform in China",
+          "authors": "Wenjia Tian, Zhi Wang, Qinghua Zhang",
+          "url": "http://dx.doi.org/10.1016/j.jdeveco.2024.103351",
+          "doi": "10.1016/j.jdeveco.2024.103351",
+          "filter": 0
+        },
+        {
+          "title": "Communist propaganda and women’s status",
+          "authors": "Ruoyu Qian",
+          "url": "http://dx.doi.org/10.1016/j.jdeveco.2024.103341",
+          "doi": "10.1016/j.jdeveco.2024.103341",
+          "filter": 0
+        },
+        {
+          "title": "How distortive are turnover taxes? Evidence from China",
+          "authors": "Jing Xing, Katarzyna Bilicka, Xipei Hou, Sepideh Raei",
+          "url": "http://dx.doi.org/10.1016/j.jdeveco.2024.103332",
+          "doi": "10.1016/j.jdeveco.2024.103332",
+          "filter": 0
+        },
+        {
+          "title": "A Farewell to Arms: Paramilitaries Demobilization, Political Competition and Public Goods in Colombia",
+          "authors": "Felipe Coy",
+          "url": "http://dx.doi.org/10.1016/j.jdeveco.2024.103350",
+          "doi": "10.1016/j.jdeveco.2024.103350",
+          "filter": 0
+        },
+        {
+          "title": "Social ties at work and effort choice: Experimental evidence from Tanzania",
+          "authors": "Martin J. Chegere, Paolo Falco, Andreas Menzel",
+          "url": "http://dx.doi.org/10.1016/j.jdeveco.2024.103354",
+          "doi": "10.1016/j.jdeveco.2024.103354",
+          "filter": 0
+        },
+        {
+          "title": "Unlocking the benefits of credit through saving",
+          "authors": "Sanghamitra Warrier Mukherjee, Lauren Falcao Bergquist, Marshall Burke, Edward Miguel",
+          "url": "http://dx.doi.org/10.1016/j.jdeveco.2024.103346",
+          "doi": "10.1016/j.jdeveco.2024.103346",
+          "filter": 0
+        },
+        {
+          "title": "Childhood migration and educational attainment: Evidence from Indonesia",
+          "authors": "Hanna Schwank",
+          "url": "http://dx.doi.org/10.1016/j.jdeveco.2024.103338",
+          "doi": "10.1016/j.jdeveco.2024.103338",
+          "filter": 0
+        },
+        {
+          "title": "Measuring sex-selective abortion: How many women abort?",
+          "authors": "Aditi Dimri, Véronique Gille, Philipp Ketz",
+          "url": "http://dx.doi.org/10.1016/j.jdeveco.2024.103342",
+          "doi": "10.1016/j.jdeveco.2024.103342",
+          "filter": 0
+        },
+        {
+          "title": "Land expropriation, household behaviors, and health outcomes: Evidence from China",
+          "authors": "Wei Huang, Mi Luo, Yuqi Ta, Boxian Wang",
+          "url": "http://dx.doi.org/10.1016/j.jdeveco.2024.103358",
+          "doi": "10.1016/j.jdeveco.2024.103358",
+          "filter": 0
+        },
+        {
+          "title": "Spatial inefficiencies in Africa’s trade network",
+          "authors": "Tilman Graff",
+          "url": "http://dx.doi.org/10.1016/j.jdeveco.2024.103319",
+          "doi": "10.1016/j.jdeveco.2024.103319",
+          "filter": 0
+        },
+        {
+          "title": "Punishing mayors who fail the test: How do voters respond to information about educational outcomes?",
+          "authors": "Loreto Cox, Sylvia Eyzaguirre, Francisco A. Gallego, Maximiliano García",
+          "url": "http://dx.doi.org/10.1016/j.jdeveco.2024.103315",
+          "doi": "10.1016/j.jdeveco.2024.103315",
+          "filter": 0
+        },
+        {
+          "title": "Evidence on designing sanitation interventions",
+          "authors": "Britta Augsburg, Andrew Foster, Terence Johnson, Molly Lipscomb",
+          "url": "http://dx.doi.org/10.1016/j.jdeveco.2024.103316",
+          "doi": "10.1016/j.jdeveco.2024.103316",
+          "filter": 0
+        },
+        {
+          "title": "Trade liberalization, labor market power, and misallocation across firms: Evidence from China's WTO accession",
+          "authors": "Enze Xie, Mingzhi Xu, Miaojie Yu",
+          "url": "http://dx.doi.org/10.1016/j.jdeveco.2024.103353",
+          "doi": "10.1016/j.jdeveco.2024.103353",
+          "filter": 0
+        },
+        {
+          "title": "Energy policies and pollution in two developing country cities: A quantitative model",
+          "authors": "Rainald Borck, Peter Mulder",
+          "url": "http://dx.doi.org/10.1016/j.jdeveco.2024.103348",
+          "doi": "10.1016/j.jdeveco.2024.103348",
+          "filter": 0
+        },
+        {
+          "title": "Allocating labor across small firms: Experimental evidence on information constraints",
+          "authors": "Morgan Hardy, Seongyoon Kim, Jamie McCasland, Andreas Menzel, Marc Witte",
+          "url": "http://dx.doi.org/10.1016/j.jdeveco.2024.103345",
+          "doi": "10.1016/j.jdeveco.2024.103345",
+          "filter": 0
+        },
+        {
+          "title": "When beer is safer than water: Beer availability and mortality from waterborne illnesses",
+          "authors": "Francisca M. Antman, James M. Flynn",
+          "url": "http://dx.doi.org/10.1016/j.jdeveco.2024.103343",
+          "doi": "10.1016/j.jdeveco.2024.103343",
+          "filter": 0
+        },
+        {
+          "title": "Preprimary education and early childhood development: Evidence from government schools in rural Kenya",
+          "authors": "Pamela Jakiela, Owen Ozier, Lia C.H. Fernald, Heather A. Knauer",
+          "url": "http://dx.doi.org/10.1016/j.jdeveco.2024.103337",
+          "doi": "10.1016/j.jdeveco.2024.103337",
+          "filter": 0
+        },
+        {
+          "title": "Bribery, plant size and size dependent distortions",
+          "authors": "M. Nazım Tamkoç",
+          "url": "http://dx.doi.org/10.1016/j.jdeveco.2024.103361",
+          "doi": "10.1016/j.jdeveco.2024.103361",
+          "filter": 0
+        },
+        {
+          "title": "Corrigendum to Medication against conflict [Journal of Development Economics (2024) Volume 170, September 2024, 103306]",
+          "authors": "Andrea Berlanda, Matteo Cervellati, Elena Esposito, Dominic Rohner, Uwe Sunde",
+          "url": "http://dx.doi.org/10.1016/j.jdeveco.2024.103347",
+          "doi": "10.1016/j.jdeveco.2024.103347",
+          "filter": 0
+        },
+        {
+          "title": "The enduring trauma: How officials' childhood famine experiences affect year-end spending surge",
+          "authors": "Xing Chen, Peng Zhang, Ping Zhang, Andong Zhuge",
+          "url": "http://dx.doi.org/10.1016/j.jdeveco.2024.103356",
+          "doi": "10.1016/j.jdeveco.2024.103356",
+          "filter": 0
+        },
+        {
+          "title": "Passing the message: Peer outreach about COVID-19 precautions in Zambia",
+          "authors": "Alfredo Burlando, Pradeep Chintagunta, Jessica Goldberg, Melissa Graboyes, Peter Hangoma, Dean Karlan, Mario Macis, Silvia Prina",
+          "url": "http://dx.doi.org/10.1016/j.jdeveco.2024.103318",
+          "doi": "10.1016/j.jdeveco.2024.103318",
+          "filter": 0
+        },
+        {
+          "title": "Forced migration and local economic development: Evidence from postwar Hungary",
+          "authors": "Daniel Borbely, Ross Mckenzie",
+          "url": "http://dx.doi.org/10.1016/j.jdeveco.2024.103355",
+          "doi": "10.1016/j.jdeveco.2024.103355",
+          "filter": 0
+        },
+        {
+          "title": "Roads, competition, and the informal sector",
+          "authors": "Elena Perra, Marco Sanfilippo, Asha Sundaram",
+          "url": "http://dx.doi.org/10.1016/j.jdeveco.2024.103339",
+          "doi": "10.1016/j.jdeveco.2024.103339",
+          "filter": 0
+        },
+        {
+          "title": "In-group competition for incentives",
+          "authors": "Michael Olabisi, Mywish Maredia, Jiawen Liu, Toyin Ajibade, Hakeem Ajeigbe",
+          "url": "http://dx.doi.org/10.1016/j.jdeveco.2024.103320",
+          "doi": "10.1016/j.jdeveco.2024.103320",
+          "filter": 0
+        },
+        {
+          "title": "Supporting small firms in a fragile context: Comparing matching and cash grants in Burkina Faso",
+          "authors": "Michael Grimm, Sidiki Soubeiga, Michael Weber",
+          "url": "http://dx.doi.org/10.1016/j.jdeveco.2024.103344",
+          "doi": "10.1016/j.jdeveco.2024.103344",
+          "filter": 0
+        },
+        {
+          "title": "Internal migration and drug violence in Mexico",
+          "authors": "Lorenzo Aldeco Leo, Andrés Jurado, Aurora A. Ramírez-Álvarez",
+          "url": "http://dx.doi.org/10.1016/j.jdeveco.2024.103334",
+          "doi": "10.1016/j.jdeveco.2024.103334",
+          "filter": 0
+        },
+        {
+          "title": "Elite persistence in Sierra Leone: What can names tell us?",
+          "authors": "Yannick Dupraz, Rebecca Simson",
+          "url": "http://dx.doi.org/10.1016/j.jdeveco.2024.103333",
+          "doi": "10.1016/j.jdeveco.2024.103333",
+          "filter": 0
+        },
+        {
+          "title": "The seeds of misallocation: Fertilizer use and maize varietal misidentification in Ethiopia",
+          "authors": "Nils Bohr, Tim Deisemann, Douglas Gollin, Frédéric Kosmowski, Travis J. Lybbert",
+          "url": "http://dx.doi.org/10.1016/j.jdeveco.2024.103349",
+          "doi": "10.1016/j.jdeveco.2024.103349",
+          "filter": 0
+        },
+        {
+          "title": "Returns to quality in rural agricultural markets: Evidence from wheat markets in Ethiopia",
+          "authors": "Jérémy Do Nascimento Miguel",
+          "url": "http://dx.doi.org/10.1016/j.jdeveco.2024.103336",
+          "doi": "10.1016/j.jdeveco.2024.103336",
+          "filter": 0
+        },
+        {
+          "title": "How accurate is a poverty map based on remote sensing data? An application to Malawi",
+          "authors": "Roy van der Weide, Brian Blankespoor, Chris Elbers, Peter Lanjouw",
+          "url": "http://dx.doi.org/10.1016/j.jdeveco.2024.103352",
+          "doi": "10.1016/j.jdeveco.2024.103352",
+          "filter": 0
+        },
+        {
+          "title": "College opportunity and teen fertility: Evidence from Ser Pilo Paga in Colombia",
+          "authors": "Michael D. Bloem, Jesús Villero",
+          "url": "http://dx.doi.org/10.1016/j.jdeveco.2024.103321",
+          "doi": "10.1016/j.jdeveco.2024.103321",
+          "filter": 0
+        },
+        {
+          "title": "How important are matching frictions in the labor market? Experimental &amp; non-experimental evidence from a large Indian firm",
+          "authors": "Abhijit V. Banerjee, Gaurav Chiplunkar",
+          "url": "http://dx.doi.org/10.1016/j.jdeveco.2024.103330",
+          "doi": "10.1016/j.jdeveco.2024.103330",
+          "filter": 0
+        },
+        {
+          "title": "Faster, taller, better: Transit improvements and land use policies",
+          "authors": "Liming Chen, Rana Hasan, Yi Jiang, Andrii Parkhomenko",
+          "url": "http://dx.doi.org/10.1016/j.jdeveco.2024.103322",
+          "doi": "10.1016/j.jdeveco.2024.103322",
+          "filter": 0
+        },
+        {
+          "title": "Information frictions, belief updating and internal migration: Evidence from Ghana and Uganda",
+          "authors": "Sarah Frohnweiler, Bernd Beber, Cara Ebert",
+          "url": "http://dx.doi.org/10.1016/j.jdeveco.2024.103311",
+          "doi": "10.1016/j.jdeveco.2024.103311",
+          "filter": 0
+        },
+        {
+          "title": "Global Mobile Inventors",
+          "authors": "Dany Bahar, Prithwiraj Choudhury, Ernest Miguelez, Sara Signorelli",
+          "url": "http://dx.doi.org/10.1016/j.jdeveco.2024.103357",
+          "doi": "10.1016/j.jdeveco.2024.103357",
+          "filter": 0
+        },
+        {
+          "title": "Pollution-induced trips: Evidence from flight and train bookings in China",
+          "authors": "Ruochen Dai, Dongmei Guo, Yajie Han, Yu Qin",
+          "url": "http://dx.doi.org/10.1016/j.jdeveco.2024.103340",
+          "doi": "10.1016/j.jdeveco.2024.103340",
+          "filter": 0
+        },
+        {
+          "title": "Formal insurance and altruism networks",
+          "authors": "Tizié Bene, Yann Bramoullé, Frédéric Deroïan",
+          "url": "http://dx.doi.org/10.1016/j.jdeveco.2024.103335",
+          "doi": "10.1016/j.jdeveco.2024.103335",
+          "filter": 0
+        }
+      ],
+      "articles_hidden": [
+        {
+          "title": "Editorial Board",
+          "url": "http://dx.doi.org/10.1016/s0304-3878(24)00119-6",
+          "doi": "10.1016/s0304-3878(24)00119-6",
+          "filter": 1
+        }
+      ]
+    },
+    {
+      "journal_full": "Journal of Environmental Economics and Management",
+      "journal_short": "JEEM",
+      "articles": [
+        {
+          "title": "Focusing the view: Improved methods for assessing viewshed impacts of onshore wind turbines",
+          "authors": "Luran Dong, Corey Lang, Jason Parent",
+          "url": "http://dx.doi.org/10.1016/j.jeem.2024.103068",
+          "doi": "10.1016/j.jeem.2024.103068",
+          "filter": 0
+        },
+        {
+          "title": "Too hot to sleep",
+          "authors": "Patrick Bigler, Benedikt Janzen",
+          "url": "http://dx.doi.org/10.1016/j.jeem.2024.103063",
+          "doi": "10.1016/j.jeem.2024.103063",
+          "filter": 0
+        },
+        {
+          "title": "Equity weighting increases valuations when using real-world data",
+          "authors": "Austin Burlile, Peter Maniloff",
+          "url": "http://dx.doi.org/10.1016/j.jeem.2024.103067",
+          "doi": "10.1016/j.jeem.2024.103067",
+          "filter": 0
+        }
+      ],
+      "articles_hidden": []
+    },
+    {
+      "journal_full": "Journal of the Association of Environmental and Resource Economists ",
+      "journal_short": "JAERE",
+      "articles": [
+        {
+          "title": "Wildfires and Agricultural Worker Movement",
+          "authors": "Goeun Lee, Timothy K.M. Beatty",
+          "url": "http://dx.doi.org/10.1086/733350",
+          "doi": "10.1086/733350",
+          "filter": 0
+        }
+      ],
+      "articles_hidden": []
+    }
+  ]
+}

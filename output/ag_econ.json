@@ -1,0 +1,1567 @@
+{
+  "update": "2024-10-03",
+  "content": [
+    {
+      "journal_full": "American Journal of Agricultural Economics",
+      "journal_short": "AJAE",
+      "articles": [],
+      "articles_hidden": []
+    },
+    {
+      "journal_full": "Ecological Economics",
+      "journal_short": "EcoE",
+      "articles": [
+        {
+          "title": "BOOK REVIEWS",
+          "authors": "Beatriz Macchione Saes",
+          "url": "http://dx.doi.org/10.1016/j.ecolecon.2024.108399",
+          "doi": "10.1016/j.ecolecon.2024.108399",
+          "filter": 0
+        },
+        {
+          "title": "Engaging high-income earners in climate action: Policy insights from survey experiments",
+          "authors": "Luis Mundaca, Christine Wamsler",
+          "url": "http://dx.doi.org/10.1016/j.ecolecon.2024.108387",
+          "doi": "10.1016/j.ecolecon.2024.108387",
+          "filter": 0
+        },
+        {
+          "title": "The diverse impacts of democracy on greenhouse gas emissions",
+          "authors": "Yacov Tsur",
+          "url": "http://dx.doi.org/10.1016/j.ecolecon.2024.108411",
+          "doi": "10.1016/j.ecolecon.2024.108411",
+          "filter": 0
+        },
+        {
+          "title": "The impact of income-driven changes in global consumption patterns on Kyoto Gas emissions during the twenty-first century",
+          "authors": "Simon Bones, Richard M. Timmerman",
+          "url": "http://dx.doi.org/10.1016/j.ecolecon.2024.108372",
+          "doi": "10.1016/j.ecolecon.2024.108372",
+          "filter": 0
+        },
+        {
+          "title": "After the storm: Environmental tragedy and sustainable mobility",
+          "authors": "Rocco Caferra, Andrea Morone, Piergiuseppe Morone",
+          "url": "http://dx.doi.org/10.1016/j.ecolecon.2024.108409",
+          "doi": "10.1016/j.ecolecon.2024.108409",
+          "filter": 0
+        },
+        {
+          "title": "Broadening ecological footprint and biocapacity research: A co-developed research agenda with Canadian stakeholders",
+          "authors": "Kaitlin Kish, Eric Miller",
+          "url": "http://dx.doi.org/10.1016/j.ecolecon.2024.108403",
+          "doi": "10.1016/j.ecolecon.2024.108403",
+          "filter": 0
+        },
+        {
+          "title": "European funds and green public procurement",
+          "authors": "Ruben Nicolas, Vítězslav Titl, Fredo Schotanus",
+          "url": "http://dx.doi.org/10.1016/j.ecolecon.2024.108400",
+          "doi": "10.1016/j.ecolecon.2024.108400",
+          "filter": 0
+        },
+        {
+          "title": "Did crop diversity criterion from CAP green payments affect both economic and environmental farm performances? Quasi-experimental evidence from France",
+          "authors": "Thierno Bocar Diop, Lionel Védrine",
+          "url": "http://dx.doi.org/10.1016/j.ecolecon.2024.108405",
+          "doi": "10.1016/j.ecolecon.2024.108405",
+          "filter": 0
+        },
+        {
+          "title": "Linking systems to agencies in urban metabolism studies: A conceptual framework and computational analysis of research literature",
+          "authors": "Nicola Bertoldi, Daniela Perrotti",
+          "url": "http://dx.doi.org/10.1016/j.ecolecon.2024.108397",
+          "doi": "10.1016/j.ecolecon.2024.108397",
+          "filter": 0
+        },
+        {
+          "title": "Accounting for water: A global review and indicators of best practice for improved water governance",
+          "authors": "Michael J. Vardon, Thi Ha Lien Le, Ricardo Martinez-Lagunes, Ogopotse Batlokwa Pule, Sjoerd Schenau, Steve May, R. Quentin Grafton",
+          "url": "http://dx.doi.org/10.1016/j.ecolecon.2024.108396",
+          "doi": "10.1016/j.ecolecon.2024.108396",
+          "filter": 0
+        },
+        {
+          "title": "Hybrid multi-stage steel footprinting unveils a more interdependent material foundation of the global economy",
+          "authors": "Xinyi Li, Chao Zhang, Xue Yang, Ziqian Xia, Zhi Cao, Peng Wang, Heming Wang, Tao Wang, Gang Liu, Wei-Qiang Chen",
+          "url": "http://dx.doi.org/10.1016/j.ecolecon.2024.108408",
+          "doi": "10.1016/j.ecolecon.2024.108408",
+          "filter": 0
+        },
+        {
+          "title": "Does scarcity induce hostility? An experimental investigation of common-pool resources",
+          "authors": "Stephan Geschwind, Johann Graf Lambsdorff",
+          "url": "http://dx.doi.org/10.1016/j.ecolecon.2024.108388",
+          "doi": "10.1016/j.ecolecon.2024.108388",
+          "filter": 0
+        },
+        {
+          "title": "Green versus green: The case against holistic environmental permitting processes",
+          "authors": "Patrik Söderholm, Maria Pettersson",
+          "url": "http://dx.doi.org/10.1016/j.ecolecon.2024.108412",
+          "doi": "10.1016/j.ecolecon.2024.108412",
+          "filter": 0
+        },
+        {
+          "title": "Supply networks of fisheries social-ecological systems: A systematic review of the network approach",
+          "authors": "Marian Rodríguez-Fuentes, José Alberto Zepeda-Domínguez, Lotta C. Kluger, Claudia María Fumero-Andreu, Germán Ponce-Díaz, Manuel J. Zetina-Rejón",
+          "url": "http://dx.doi.org/10.1016/j.ecolecon.2024.108394",
+          "doi": "10.1016/j.ecolecon.2024.108394",
+          "filter": 0
+        },
+        {
+          "title": "Offsetting schemes and ecological taxes for wind power production",
+          "authors": "Mads Greaker, Cathrine Hagem, Andreas Skulstad",
+          "url": "http://dx.doi.org/10.1016/j.ecolecon.2024.108292",
+          "doi": "10.1016/j.ecolecon.2024.108292",
+          "filter": 0
+        },
+        {
+          "title": "The environmental effectiveness of water quality trading: Evidence from emissions trading programs in China",
+          "authors": "Hao Wang, Huub Ploegmakers, Erwin van der Krabben, Sander Meijerink",
+          "url": "http://dx.doi.org/10.1016/j.ecolecon.2024.108277",
+          "doi": "10.1016/j.ecolecon.2024.108277",
+          "filter": 0
+        },
+        {
+          "title": "Are farmers willing to accept compensation from tourism revenue for elephant crop damage and coexistence support? Evidence from Sri Lanka",
+          "authors": "Kanesh Suresh, Clevo Wilson, Annette Quayle, Shunsuke Managi, Uttam Khanal",
+          "url": "http://dx.doi.org/10.1016/j.ecolecon.2024.108300",
+          "doi": "10.1016/j.ecolecon.2024.108300",
+          "filter": 0
+        },
+        {
+          "title": "Footprint analysis and the incidence of emission taxes",
+          "authors": "Thijs ten Raa, Rob Stahlie",
+          "url": "http://dx.doi.org/10.1016/j.ecolecon.2024.108214",
+          "doi": "10.1016/j.ecolecon.2024.108214",
+          "filter": 0
+        },
+        {
+          "title": "Connected we stand: Lead firm ownership ties in the global petrochemical industry",
+          "authors": "Joachim Peter Tilsted, Fredric Bauer",
+          "url": "http://dx.doi.org/10.1016/j.ecolecon.2024.108261",
+          "doi": "10.1016/j.ecolecon.2024.108261",
+          "filter": 0
+        },
+        {
+          "title": "Ecological design of a production plant",
+          "authors": "Tibor Kiss, Zsolt Hetesi, Viktor Kiss",
+          "url": "http://dx.doi.org/10.1016/j.ecolecon.2024.108290",
+          "doi": "10.1016/j.ecolecon.2024.108290",
+          "filter": 0
+        },
+        {
+          "title": "Climate change and migration decisions: A choice experiment from the Mekong Delta, Vietnam",
+          "authors": "Tra Thi Trinh, Alistair Munro",
+          "url": "http://dx.doi.org/10.1016/j.ecolecon.2024.108307",
+          "doi": "10.1016/j.ecolecon.2024.108307",
+          "filter": 0
+        },
+        {
+          "title": "Linking marine habitats and economic values: A spatial scaling methodology for valuing societal benefits",
+          "authors": "D. Burdon, S. Barnard, J.A. Strong, J.P. Atkins",
+          "url": "http://dx.doi.org/10.1016/j.ecolecon.2024.108316",
+          "doi": "10.1016/j.ecolecon.2024.108316",
+          "filter": 0
+        },
+        {
+          "title": "Smallholders' preferred attributes in a subsidy program for replanting overaged oil palm plantations in Indonesia",
+          "authors": "Dienda Hendrawan, Oliver Musshoff",
+          "url": "http://dx.doi.org/10.1016/j.ecolecon.2024.108278",
+          "doi": "10.1016/j.ecolecon.2024.108278",
+          "filter": 0
+        },
+        {
+          "title": "Sites side by side: Can an agglomeration bonus with an adjacency rule connect agri-environmental sites?",
+          "authors": "Mara-Magdalena Häusler, Astrid Zabel",
+          "url": "http://dx.doi.org/10.1016/j.ecolecon.2024.108287",
+          "doi": "10.1016/j.ecolecon.2024.108287",
+          "filter": 0
+        },
+        {
+          "title": "A flexible policy instrument to encourage externality abatement technologies in salmon aquaculture",
+          "authors": "Andreea L. Cojocaru, Frank Jensen, Bård Misund, Rasmus Nielsen, Ruth B. Pincinato, Ragnar Tveterås",
+          "url": "http://dx.doi.org/10.1016/j.ecolecon.2024.108317",
+          "doi": "10.1016/j.ecolecon.2024.108317",
+          "filter": 0
+        },
+        {
+          "title": "Policy management of the Italian small pelagic fishery in the Adriatic Sea: A dynamic maximum economic yield approach",
+          "authors": "F. Natali, G. Toraldo, F. Giannino, G. Cicia, G. Branca",
+          "url": "http://dx.doi.org/10.1016/j.ecolecon.2024.108260",
+          "doi": "10.1016/j.ecolecon.2024.108260",
+          "filter": 0
+        },
+        {
+          "title": "Visible carbon emissions vs. invisible value-added: Re-evaluating the emissions responsibility of multinational enterprises in global value chains",
+          "authors": "Yunfeng Yan, Xiyuan Li, Ran Wang, Bo Meng, Zhongxiu Zhao, Xuemeng Li",
+          "url": "http://dx.doi.org/10.1016/j.ecolecon.2024.108262",
+          "doi": "10.1016/j.ecolecon.2024.108262",
+          "filter": 0
+        },
+        {
+          "title": "Accounting for trade in derived products when estimating European Union's role in driving deforestation",
+          "authors": "Perrine C.S.J. Laroche, Manuela Gómez-Suárez, U. Martin Persson, Florence Pendrill, Florian Schwarzmueller, Catharina J.E. Schulp, Thomas Kastner",
+          "url": "http://dx.doi.org/10.1016/j.ecolecon.2024.108288",
+          "doi": "10.1016/j.ecolecon.2024.108288",
+          "filter": 0
+        },
+        {
+          "title": "Obituary: Clement Allan Tisdell (1939–2022) – An ecological economist in mind, heart and soul",
+          "authors": "Boyd Dirk Blackwell, Clevo Wilson, Charles Perrings, Mohammad Alauddin, Christopher Fleming, Keith Hartley, Anya Phelan",
+          "url": "http://dx.doi.org/10.1016/j.ecolecon.2024.108312",
+          "doi": "10.1016/j.ecolecon.2024.108312",
+          "filter": 0
+        },
+        {
+          "title": "Quantifying the importance of farmers' behavioral factors in ex-ante assessments of policies supporting sustainable farming practices",
+          "authors": "Robert Huber, Cordelia Kreft, Karin Späti, Robert Finger",
+          "url": "http://dx.doi.org/10.1016/j.ecolecon.2024.108303",
+          "doi": "10.1016/j.ecolecon.2024.108303",
+          "filter": 0
+        },
+        {
+          "title": "Sharing the burden of negative externalities: A tale of gridlock and accountability elusion",
+          "authors": "Andrzej Baranski, Duk Gyoo Kim",
+          "url": "http://dx.doi.org/10.1016/j.ecolecon.2024.108264",
+          "doi": "10.1016/j.ecolecon.2024.108264",
+          "filter": 0
+        },
+        {
+          "title": "Multi-pollutants allocation and compensation schemes: A new approach considering materials balance principle",
+          "authors": "Yizhong Wang, Ye Hang, Qunwei Wang",
+          "url": "http://dx.doi.org/10.1016/j.ecolecon.2024.108309",
+          "doi": "10.1016/j.ecolecon.2024.108309",
+          "filter": 0
+        },
+        {
+          "title": "The economic cost of a 130 km/h speed limit: Insights for cost-benefit analyses",
+          "authors": "Stefan Gössling, Andreas Humpe, Todd Litman",
+          "url": "http://dx.doi.org/10.1016/j.ecolecon.2024.108306",
+          "doi": "10.1016/j.ecolecon.2024.108306",
+          "filter": 0
+        },
+        {
+          "title": "Out of sight, not out of mind: The effect of access to conservation sites on the willingness to pay for protecting endangered species",
+          "authors": "Makarena Henríquez, Felipe Vásquez-Lavín, Manuel Barrientos, Roberto D. Ponce Oliva, Antonio Lara, Gabriela Flores-Benner, Carlos Riquelme",
+          "url": "http://dx.doi.org/10.1016/j.ecolecon.2024.108280",
+          "doi": "10.1016/j.ecolecon.2024.108280",
+          "filter": 0
+        },
+        {
+          "title": "Greening for the greater good: Socio-economic impacts of land restoration in the Great Green Wall",
+          "authors": "Ana Paula de la O Campos, Carly Kathleen Petracco, Elsa Valli, Nicholas Sitko",
+          "url": "http://dx.doi.org/10.1016/j.ecolecon.2024.108311",
+          "doi": "10.1016/j.ecolecon.2024.108311",
+          "filter": 0
+        },
+        {
+          "title": "Turning less into more: Measuring real GDP growth in the green transition",
+          "authors": "Nick O'Donovan",
+          "url": "http://dx.doi.org/10.1016/j.ecolecon.2024.108293",
+          "doi": "10.1016/j.ecolecon.2024.108293",
+          "filter": 0
+        },
+        {
+          "title": "Fighting crime to improve recycling: Evaluating an anti-mafia policy on source separation of waste",
+          "authors": "Anna Laura Baraldi, Claudia Cantabene, Alessandro De Iudicibus",
+          "url": "http://dx.doi.org/10.1016/j.ecolecon.2024.108291",
+          "doi": "10.1016/j.ecolecon.2024.108291",
+          "filter": 0
+        },
+        {
+          "title": "Do urban environmental inequalities influence demand for nature based solutions?",
+          "authors": "Georges Farina, Philippe Le Coënt, Cécile Hérivaux",
+          "url": "http://dx.doi.org/10.1016/j.ecolecon.2024.108298",
+          "doi": "10.1016/j.ecolecon.2024.108298",
+          "filter": 0
+        },
+        {
+          "title": "Biological control of the invasive wasp Vespula germanica in Australia: Assessing socio-economic feasibility",
+          "authors": "Susan M. Hester, Peter Tait, Raelene Kwong, Greg Lefoe, Darren Kriticos, Oscar J. Cacho",
+          "url": "http://dx.doi.org/10.1016/j.ecolecon.2024.108315",
+          "doi": "10.1016/j.ecolecon.2024.108315",
+          "filter": 0
+        },
+        {
+          "title": "Challenges of wealth-based sustainability metrics: A critical appraisal",
+          "authors": "Eoin McLaughlin, Cristián Ducoing, Nick Hanley",
+          "url": "http://dx.doi.org/10.1016/j.ecolecon.2024.108308",
+          "doi": "10.1016/j.ecolecon.2024.108308",
+          "filter": 0
+        },
+        {
+          "title": "Criminal enforcement and environmental performance: Evidence from China",
+          "authors": "Xian Liu, Wen Wang, Shoujun Huang",
+          "url": "http://dx.doi.org/10.1016/j.ecolecon.2024.108267",
+          "doi": "10.1016/j.ecolecon.2024.108267",
+          "filter": 0
+        },
+        {
+          "title": "The social cost of adopting a plant-based diet",
+          "authors": "Thibaut Arpinon",
+          "url": "http://dx.doi.org/10.1016/j.ecolecon.2024.108283",
+          "doi": "10.1016/j.ecolecon.2024.108283",
+          "filter": 0
+        },
+        {
+          "title": "Impacts of wildfire-season air quality on park and playground visitation in the Northwest United States",
+          "authors": "Katrina Mullan, Teigan Avery, Patrick Boise, Cindy S. Leary, William L. Rice, Erin O. Semmens",
+          "url": "http://dx.doi.org/10.1016/j.ecolecon.2024.108285",
+          "doi": "10.1016/j.ecolecon.2024.108285",
+          "filter": 0
+        },
+        {
+          "title": "Do forest conservation policies undermine the soybean sector in the Brazilian Amazon? Evidence from the priority listing of municipalities",
+          "authors": "Léa Crepin",
+          "url": "http://dx.doi.org/10.1016/j.ecolecon.2024.108212",
+          "doi": "10.1016/j.ecolecon.2024.108212",
+          "filter": 0
+        },
+        {
+          "title": "The economic cost of a 130 kph speed limit in Germany: Comment",
+          "authors": "Gernot Sieg",
+          "url": "http://dx.doi.org/10.1016/j.ecolecon.2024.108304",
+          "doi": "10.1016/j.ecolecon.2024.108304",
+          "filter": 0
+        },
+        {
+          "title": "Challenges and perspectives of the circular economy in the European Union: A comparative analysis of the member states",
+          "authors": "Francisco José Castillo-Díaz, Luis J. Belmonte-Ureña, Fernando Diánez-Martínez, Francisco Camacho-Ferre",
+          "url": "http://dx.doi.org/10.1016/j.ecolecon.2024.108294",
+          "doi": "10.1016/j.ecolecon.2024.108294",
+          "filter": 0
+        },
+        {
+          "title": "The performance of low carbon agricultural technologies on farmers' welfare: A meta-regression analysis of Asian cases",
+          "authors": "Shuyao Chi, Liuyang Yao, Guoxiong Zhao, Weinan Lu, Minjuan Zhao",
+          "url": "http://dx.doi.org/10.1016/j.ecolecon.2024.108318",
+          "doi": "10.1016/j.ecolecon.2024.108318",
+          "filter": 0
+        },
+        {
+          "title": "The scope of green finance research: Research streams, influential works and future research paths",
+          "authors": "Lennart Ante",
+          "url": "http://dx.doi.org/10.1016/j.ecolecon.2024.108302",
+          "doi": "10.1016/j.ecolecon.2024.108302",
+          "filter": 0
+        },
+        {
+          "title": "What to gain, what to lose? A taxonomy of individual-level gains and losses associated with consumption reduction",
+          "authors": "Petra Riefler, Charlotte Baar, Oliver B. Büttner, Saskia Flachs",
+          "url": "http://dx.doi.org/10.1016/j.ecolecon.2024.108301",
+          "doi": "10.1016/j.ecolecon.2024.108301",
+          "filter": 0
+        },
+        {
+          "title": "Short-haul flights ban in France: Relevant potential but yet modest effects of GHG emissions reduction",
+          "authors": "Andoni Txapartegi, Ignacio Cazcarro, Ibon Galarraga",
+          "url": "http://dx.doi.org/10.1016/j.ecolecon.2024.108289",
+          "doi": "10.1016/j.ecolecon.2024.108289",
+          "filter": 0
+        },
+        {
+          "title": "Synergistic effects of nudges and boosts in environmental education: Evidence from a field experiment",
+          "authors": "Kengo Igei, Hirofumi Kurokawa, Masato Iseki, Akinori Kitsuki, Kenichi Kurita, Shunsuke Managi, Makiko Nakamuro, Akira Sakano",
+          "url": "http://dx.doi.org/10.1016/j.ecolecon.2024.108279",
+          "doi": "10.1016/j.ecolecon.2024.108279",
+          "filter": 0
+        },
+        {
+          "title": "Banking on ecosystem services",
+          "authors": "Luis Mundaca, Jan-Niklas Heintze",
+          "url": "http://dx.doi.org/10.1016/j.ecolecon.2024.108284",
+          "doi": "10.1016/j.ecolecon.2024.108284",
+          "filter": 0
+        },
+        {
+          "title": "A lack of clarity on the bioeconomy concept might be harmful for Amazonian ecosystems and its people",
+          "authors": "Joice Ferreira, Emilie Coudel, Ricardo Abramovay, Jos Barlow, Rachael Garrett, Alexander C. Lees, Marie-Gabrielle Piketty, Roberto Porro, Ima Vieira, Kieran Withey",
+          "url": "http://dx.doi.org/10.1016/j.ecolecon.2024.108299",
+          "doi": "10.1016/j.ecolecon.2024.108299",
+          "filter": 0
+        },
+        {
+          "title": "Sociodemographic disparities in ambient particulate matter exposure in Austria",
+          "authors": "Klara Zwickl, Xenia Miklin, Asjad Naqvi",
+          "url": "http://dx.doi.org/10.1016/j.ecolecon.2024.108180",
+          "doi": "10.1016/j.ecolecon.2024.108180",
+          "filter": 0
+        },
+        {
+          "title": "A commentary on „The economic cost of a 130 kph speed limit in Germany“",
+          "authors": "Alexander Eisenkopf, Andreas Knorr, Andy Obermeyer, Stefan Tscharaktschiew",
+          "url": "http://dx.doi.org/10.1016/j.ecolecon.2024.108305",
+          "doi": "10.1016/j.ecolecon.2024.108305",
+          "filter": 0
+        },
+        {
+          "title": "Texas water markets: Understanding their trends, drivers, and future potential",
+          "authors": "Charles Wight, Kyle Garmany, Eugenio Arima, Dustin Garrick",
+          "url": "http://dx.doi.org/10.1016/j.ecolecon.2024.108259",
+          "doi": "10.1016/j.ecolecon.2024.108259",
+          "filter": 0
+        },
+        {
+          "title": "Following the Circular Economy in European rural municipalities through the Spanish Urban Agenda",
+          "authors": "Inmaculada Bote Alonso, Beatriz Montalbán Pozas",
+          "url": "http://dx.doi.org/10.1016/j.ecolecon.2024.108263",
+          "doi": "10.1016/j.ecolecon.2024.108263",
+          "filter": 0
+        },
+        {
+          "title": "Resource-backed loans and ecological efficiency of human development: Evidence from African countries",
+          "authors": "Yacouba Coulibaly",
+          "url": "http://dx.doi.org/10.1016/j.ecolecon.2024.108295",
+          "doi": "10.1016/j.ecolecon.2024.108295",
+          "filter": 0
+        },
+        {
+          "title": "Deepgrowth: Self-transformation towards harmonious being",
+          "authors": "Hubert Buch-Hansen, Iana Nesterova",
+          "url": "http://dx.doi.org/10.1016/j.ecolecon.2024.108281",
+          "doi": "10.1016/j.ecolecon.2024.108281",
+          "filter": 0
+        },
+        {
+          "title": "What factors influence choosing fish over meat among grocery shoppers? Insights from an unsuccessful nudge intervention",
+          "authors": "Therese Lindahl, Noah Linder",
+          "url": "http://dx.doi.org/10.1016/j.ecolecon.2024.108297",
+          "doi": "10.1016/j.ecolecon.2024.108297",
+          "filter": 0
+        },
+        {
+          "title": "BOOK REVIEWS",
+          "authors": "R. Quentin Grafton, David Salt",
+          "url": "http://dx.doi.org/10.1016/j.ecolecon.2024.108254",
+          "doi": "10.1016/j.ecolecon.2024.108254",
+          "filter": 0
+        },
+        {
+          "title": "CO2 consumer tax support and wind turbine exposure",
+          "authors": "Jacob Ladenburg, Dilge Güldehen Kânoğlu-Özkan, Ugur Soytas",
+          "url": "http://dx.doi.org/10.1016/j.ecolecon.2024.108245",
+          "doi": "10.1016/j.ecolecon.2024.108245",
+          "filter": 0
+        },
+        {
+          "title": "Ecological labour or why environmentally friendly practices struggle to become mainstream",
+          "authors": "Ieva Snikersproge",
+          "url": "http://dx.doi.org/10.1016/j.ecolecon.2024.108286",
+          "doi": "10.1016/j.ecolecon.2024.108286",
+          "filter": 0
+        },
+        {
+          "title": "Is there a trade-off between human well-being and ecological footprint in European countries?",
+          "authors": "Margarita Robaina, Sofia Rodrigues, Mara Madaleno",
+          "url": "http://dx.doi.org/10.1016/j.ecolecon.2024.108296",
+          "doi": "10.1016/j.ecolecon.2024.108296",
+          "filter": 0
+        },
+        {
+          "title": "Tackling climate change: Agroforestry adoption in the face of regional weather extremes",
+          "authors": "Christian Stetter, Johannes Sauer",
+          "url": "http://dx.doi.org/10.1016/j.ecolecon.2024.108266",
+          "doi": "10.1016/j.ecolecon.2024.108266",
+          "filter": 0
+        },
+        {
+          "title": "Effects of residential self-taxing districts on urban surface water quality",
+          "authors": "Andrew Hutchens, David Scrogin",
+          "url": "http://dx.doi.org/10.1016/j.ecolecon.2024.108282",
+          "doi": "10.1016/j.ecolecon.2024.108282",
+          "filter": 0
+        },
+        {
+          "title": "Knowledge spillovers between clean and dirty technologies: Evidence from the patent citation network",
+          "authors": "Su Jung Jee, Sugandha Srivastav",
+          "url": "http://dx.doi.org/10.1016/j.ecolecon.2024.108310",
+          "doi": "10.1016/j.ecolecon.2024.108310",
+          "filter": 0
+        },
+        {
+          "title": "Economic incentives for woodland creation on farmland: Modelling the impacts on biodiversity",
+          "authors": "Mary Nthambi, Katherine Simpson, Tom Bradfer-Lawrence, Andrew Dobson, Tom Finch, Elisa Fuentes-Montemayor, Kirsty Park, Kevin Watts, Nick Hanley",
+          "url": "http://dx.doi.org/10.1016/j.ecolecon.2024.108265",
+          "doi": "10.1016/j.ecolecon.2024.108265",
+          "filter": 0
+        }
+      ],
+      "articles_hidden": [
+        {
+          "title": "Editorial Board",
+          "url": "http://dx.doi.org/10.1016/s0921-8009(24)00229-5",
+          "doi": "10.1016/s0921-8009(24)00229-5",
+          "filter": 1
+        }
+      ]
+    },
+    {
+      "journal_full": "Energy Economics",
+      "journal_short": "EnergyE",
+      "articles": [
+        {
+          "title": "The wealth effect of the US net zero announcement",
+          "authors": "Mona Mashhadi Rajabi, Martina Linnenluecke, Tom Smith",
+          "url": "http://dx.doi.org/10.1016/j.eneco.2024.107945",
+          "doi": "10.1016/j.eneco.2024.107945",
+          "filter": 0
+        },
+        {
+          "title": "Cost, innovation, and emissions leakage from overlapping climate policy",
+          "authors": "William A. Scott",
+          "url": "http://dx.doi.org/10.1016/j.eneco.2024.107949",
+          "doi": "10.1016/j.eneco.2024.107949",
+          "filter": 0
+        },
+        {
+          "title": "Exploring the risk dynamics of US green energy stocks: A green time-varying beta approach",
+          "authors": "Chitrakalpa Sen, Gagari Chakrabarti",
+          "url": "http://dx.doi.org/10.1016/j.eneco.2024.107951",
+          "doi": "10.1016/j.eneco.2024.107951",
+          "filter": 0
+        },
+        {
+          "title": "Risk premium, price of risk and expected volatility in the oil market: Evidence from survey data",
+          "authors": "Georges Prat, Remzi Uctum",
+          "url": "http://dx.doi.org/10.1016/j.eneco.2024.107930",
+          "doi": "10.1016/j.eneco.2024.107930",
+          "filter": 0
+        },
+        {
+          "title": "Do petrol prices affect inflation and inflation expectations? Evidence from New Zealand",
+          "authors": "Puneet Vatsa, Gabriel Pino",
+          "url": "http://dx.doi.org/10.1016/j.eneco.2024.107939",
+          "doi": "10.1016/j.eneco.2024.107939",
+          "filter": 0
+        },
+        {
+          "title": "Influencing conservation: The role of socio-psychological factors on consumer water-saving intentions and practices",
+          "authors": "Ruihui Yu, Mengdi Qin, Yunpeng Gong, T.C.E. Cheng",
+          "url": "http://dx.doi.org/10.1016/j.eneco.2024.107941",
+          "doi": "10.1016/j.eneco.2024.107941",
+          "filter": 0
+        },
+        {
+          "title": "Climate policy uncertainty and energy transition: Evidence from prefecture-level cities in China",
+          "authors": "Yangyi Lin, Adrian (Wai Kong) Cheung",
+          "url": "http://dx.doi.org/10.1016/j.eneco.2024.107938",
+          "doi": "10.1016/j.eneco.2024.107938",
+          "filter": 0
+        },
+        {
+          "title": "Banks' fossil fuel divestment and corporate governance: The role of board gender diversity",
+          "authors": "Simona Cosma, Simona Galletta, Sebastiano Mazzù, Giuseppe Rimo",
+          "url": "http://dx.doi.org/10.1016/j.eneco.2024.107948",
+          "doi": "10.1016/j.eneco.2024.107948",
+          "filter": 0
+        },
+        {
+          "title": "Modeling daily energy use in British homes amidst the electricity market crisis: Insights from smart meter and socio-technical data",
+          "authors": "Lei Chang, Timur Narbaev, Farhad Taghizadeh-Hesary, Muhammad Mohsin",
+          "url": "http://dx.doi.org/10.1016/j.eneco.2024.107933",
+          "doi": "10.1016/j.eneco.2024.107933",
+          "filter": 0
+        },
+        {
+          "title": "Purchase or generate? An analysis of inter-fuel substitution and electricity generation in Japanese manufacturing plants",
+          "authors": "Aline Mortha, Toshi H. Arimura",
+          "url": "http://dx.doi.org/10.1016/j.eneco.2024.107929",
+          "doi": "10.1016/j.eneco.2024.107929",
+          "filter": 0
+        },
+        {
+          "title": "Finding opportunity in economic power dispatch: Saving fuels without impacting retail electricity prices in fuel-producing countries",
+          "authors": "Marie Petitet, Frank A. Felder, Amro M. Elshurafa",
+          "url": "http://dx.doi.org/10.1016/j.eneco.2024.107841",
+          "doi": "10.1016/j.eneco.2024.107841",
+          "filter": 0
+        },
+        {
+          "title": "Analyzing the causal dynamics of circular-economy drivers in SMES using interpretive structural modeling",
+          "authors": "Pedro S.P.C. Oliveira, Fernando A.F. Ferreira, Marina Dabić, João J.M. Ferreira, Neuza C.M.Q.F. Ferreira",
+          "url": "http://dx.doi.org/10.1016/j.eneco.2024.107842",
+          "doi": "10.1016/j.eneco.2024.107842",
+          "filter": 0
+        },
+        {
+          "title": "The road to green development for national-level poverty-stricken counties: Does poverty alleviation help reduce carbon emissions?",
+          "authors": "Xiahai Wei, Chenyu Zeng, Jiannan Wang, Yu Chen",
+          "url": "http://dx.doi.org/10.1016/j.eneco.2024.107817",
+          "doi": "10.1016/j.eneco.2024.107817",
+          "filter": 0
+        },
+        {
+          "title": "Heterogeneity in carbon intensity patterns: A subsampling approach",
+          "authors": "Ulrich Hounyo, Johnson Kakeu, Li Lu",
+          "url": "http://dx.doi.org/10.1016/j.eneco.2024.107819",
+          "doi": "10.1016/j.eneco.2024.107819",
+          "filter": 0
+        },
+        {
+          "title": "Assessing a fuel subsidy: Dynamic effects on retailer pricing and pass-through to consumers",
+          "authors": "Jacint Balaguer, Jordi Ripollés",
+          "url": "http://dx.doi.org/10.1016/j.eneco.2024.107846",
+          "doi": "10.1016/j.eneco.2024.107846",
+          "filter": 0
+        },
+        {
+          "title": "Modeling multi-market coupling effects considering the consumption above quota trading market in renewable portfolio standards: An agent-based perspective",
+          "authors": "Jiaqian Wu, Xiaolin Zheng, Songmin Yu, Lean Yu",
+          "url": "http://dx.doi.org/10.1016/j.eneco.2024.107826",
+          "doi": "10.1016/j.eneco.2024.107826",
+          "filter": 0
+        },
+        {
+          "title": "Speed up for sustainable development: High-speed rail and corporate ESG performance",
+          "authors": "Ruoyu Zhu, Kehu Tan, Xiaohui Xin",
+          "url": "http://dx.doi.org/10.1016/j.eneco.2024.107821",
+          "doi": "10.1016/j.eneco.2024.107821",
+          "filter": 0
+        },
+        {
+          "title": "Public investment on renewable energy R&amp;D Projects: The role of geopolitical risk, and economic and political uncertainties",
+          "authors": "Tin Hei Alpha Yuen, Wai Kee Thomas Yuen",
+          "url": "http://dx.doi.org/10.1016/j.eneco.2024.107837",
+          "doi": "10.1016/j.eneco.2024.107837",
+          "filter": 0
+        },
+        {
+          "title": "A planning model for coal power exit scales based on minimizing idle and shortage losses: A case study of China",
+          "authors": "Delu Wang, Jinqi Mao, Xunpeng Shi, Chunxiao Li, Fan Chen",
+          "url": "http://dx.doi.org/10.1016/j.eneco.2024.107864",
+          "doi": "10.1016/j.eneco.2024.107864",
+          "filter": 0
+        },
+        {
+          "title": "Turning a blind eye: How local government fiscal distress affects the entry of energy-intensive enterprises",
+          "authors": "Zhijiu Yang, Hai Ding",
+          "url": "http://dx.doi.org/10.1016/j.eneco.2024.107828",
+          "doi": "10.1016/j.eneco.2024.107828",
+          "filter": 0
+        },
+        {
+          "title": "Was the German fuel discount passed on to consumers?",
+          "authors": "Mats Petter Kahl",
+          "url": "http://dx.doi.org/10.1016/j.eneco.2024.107843",
+          "doi": "10.1016/j.eneco.2024.107843",
+          "filter": 0
+        },
+        {
+          "title": "Assessing the synergistic effects of artificial intelligence on pollutant and carbon emission mitigation in China",
+          "authors": "Wenli Zhong, Yang Liu, Kangyin Dong, Guohua Ni",
+          "url": "http://dx.doi.org/10.1016/j.eneco.2024.107829",
+          "doi": "10.1016/j.eneco.2024.107829",
+          "filter": 0
+        },
+        {
+          "title": "Extreme spillovers across carbon and energy markets: A multiscale higher-order moment analysis",
+          "authors": "Wen-Jun Chu, Li-Wei Fan, P. Zhou",
+          "url": "http://dx.doi.org/10.1016/j.eneco.2024.107833",
+          "doi": "10.1016/j.eneco.2024.107833",
+          "filter": 0
+        },
+        {
+          "title": "When temperatures matter: Extreme heat and labor share",
+          "authors": "Zhuoyang Lyu, Li Yu, Chen Liu, Tiemeng Ma",
+          "url": "http://dx.doi.org/10.1016/j.eneco.2024.107811",
+          "doi": "10.1016/j.eneco.2024.107811",
+          "filter": 0
+        },
+        {
+          "title": "Trilemma or Trinity? The nexus of economic growth, circular economy and net zero",
+          "authors": "Parantap Basu, Tooraj Jamasb, Anupama Sen",
+          "url": "http://dx.doi.org/10.1016/j.eneco.2024.107844",
+          "doi": "10.1016/j.eneco.2024.107844",
+          "filter": 0
+        },
+        {
+          "title": "Do climate change risks affect the systemic risk between the stocks of clean energy, electric vehicles, and critical minerals? Analysis under changing market conditions",
+          "authors": "Syed Abul Basher, Perry Sadorsky",
+          "url": "http://dx.doi.org/10.1016/j.eneco.2024.107832",
+          "doi": "10.1016/j.eneco.2024.107832",
+          "filter": 0
+        },
+        {
+          "title": "The persistence of environmental and social strategies under emission permits",
+          "authors": "Gianluca Iannucci, Alessandro Tampieri",
+          "url": "http://dx.doi.org/10.1016/j.eneco.2024.107824",
+          "doi": "10.1016/j.eneco.2024.107824",
+          "filter": 0
+        },
+        {
+          "title": "Extreme co-movements between CO2 emission allowances and commodity markets and their response to economic policy uncertainty",
+          "authors": "Xunfa Lu, Pengchao He, Zhengjun Zhang, Nicholas Apergis",
+          "url": "http://dx.doi.org/10.1016/j.eneco.2024.107868",
+          "doi": "10.1016/j.eneco.2024.107868",
+          "filter": 0
+        },
+        {
+          "title": "Natural gas in Europe: The potential impact of disruptions to supply",
+          "authors": "Gabriel Di Bella, Mark Flanagan, Karim Foda, Svitlana Maslova, Alex Pienkowski, Martin Stuermer, Frederik Toscani",
+          "url": "http://dx.doi.org/10.1016/j.eneco.2024.107777",
+          "doi": "10.1016/j.eneco.2024.107777",
+          "filter": 0
+        },
+        {
+          "title": "Dynamic trends and regional differences of economic effects of ultra-high-voltage transmission projects",
+          "authors": "Chuanwang Sun, Jialin Min",
+          "url": "http://dx.doi.org/10.1016/j.eneco.2024.107871",
+          "doi": "10.1016/j.eneco.2024.107871",
+          "filter": 0
+        },
+        {
+          "title": "A novel integrated method for improving the forecasting accuracy of crude oil: ESMD-CFastICA-BiLSTM-Attention",
+          "authors": "Zisheng Ouyang, Min Lu, Zhongzhe Ouyang, Xuewei Zhou, Ren Wang",
+          "url": "http://dx.doi.org/10.1016/j.eneco.2024.107851",
+          "doi": "10.1016/j.eneco.2024.107851",
+          "filter": 0
+        },
+        {
+          "title": "Proof-of-work versus proof-of-stake coins as possible hedges against green and dirty energy",
+          "authors": "Agata Kliber, Barbara Będowska-Sójka",
+          "url": "http://dx.doi.org/10.1016/j.eneco.2024.107820",
+          "doi": "10.1016/j.eneco.2024.107820",
+          "filter": 0
+        },
+        {
+          "title": "The marginal generation and emissions impacts of purchased hydropower: Evidence from the Colorado River Storage Project",
+          "authors": "Jesse I. Kaczmarski, Benjamin A. Jones",
+          "url": "http://dx.doi.org/10.1016/j.eneco.2024.107816",
+          "doi": "10.1016/j.eneco.2024.107816",
+          "filter": 0
+        },
+        {
+          "title": "Commodity systemic risk and macroeconomic predictions",
+          "authors": "Ruolan Ouyang, Tiancheng Pei, Yi Fang, Yang Zhao",
+          "url": "http://dx.doi.org/10.1016/j.eneco.2024.107807",
+          "doi": "10.1016/j.eneco.2024.107807",
+          "filter": 0
+        },
+        {
+          "title": "Heterogeneity of regional carbon emission markets in China: Evidence from multidimensional determinants",
+          "authors": "Xiyong Dong, John F. Zhang",
+          "url": "http://dx.doi.org/10.1016/j.eneco.2024.107835",
+          "doi": "10.1016/j.eneco.2024.107835",
+          "filter": 0
+        },
+        {
+          "title": "Household welfare loss from energy price crisis: Evidence from China",
+          "authors": "Yuhan Zhu, Yan Zheng, Zhiyuan Ren",
+          "url": "http://dx.doi.org/10.1016/j.eneco.2024.107836",
+          "doi": "10.1016/j.eneco.2024.107836",
+          "filter": 0
+        },
+        {
+          "title": "Impacts of state tax and resource ownership policies on extraction: Evidence from U.S. natural gas production",
+          "authors": "Pinky Thomas, Alan Collins, Xiaoli Etienne, Douglas Mugabe",
+          "url": "http://dx.doi.org/10.1016/j.eneco.2024.107869",
+          "doi": "10.1016/j.eneco.2024.107869",
+          "filter": 0
+        },
+        {
+          "title": "The impact of renewable energy policies on the energy transition -– An empirical analysis of Chinese cities",
+          "authors": "Chien-Chiang Lee, Tianhui Wang",
+          "url": "http://dx.doi.org/10.1016/j.eneco.2024.107838",
+          "doi": "10.1016/j.eneco.2024.107838",
+          "filter": 0
+        },
+        {
+          "title": "Analysis of low-carbon technology transfer strategies based on a quadrilateral evolutionary game",
+          "authors": "Chen Zou, Yongchun Huang, Zi Ye, Xinyi Qian",
+          "url": "http://dx.doi.org/10.1016/j.eneco.2024.107825",
+          "doi": "10.1016/j.eneco.2024.107825",
+          "filter": 0
+        },
+        {
+          "title": "Interactions between sustainable bonds, renewable energy and other financial markets: A macroprudential perspective",
+          "authors": "Lisa Sheenan, Koen Schweers, Tony Klein",
+          "url": "http://dx.doi.org/10.1016/j.eneco.2024.107839",
+          "doi": "10.1016/j.eneco.2024.107839",
+          "filter": 0
+        },
+        {
+          "title": "A note on the uniqueness of Nash–Cournot equilibria in an oligopolistic energy market with renewable generation and demand uncertainty",
+          "authors": "Benjamin Chaiken, Joseph E. Duggan",
+          "url": "http://dx.doi.org/10.1016/j.eneco.2024.107849",
+          "doi": "10.1016/j.eneco.2024.107849",
+          "filter": 0
+        },
+        {
+          "title": "The effect of temperature on energy related CO 2 emissions and economic performance in German industry",
+          "authors": "Jakob Lehr, Katrin Rehdanz",
+          "url": "http://dx.doi.org/10.1016/j.eneco.2024.107818",
+          "doi": "10.1016/j.eneco.2024.107818",
+          "filter": 0
+        },
+        {
+          "title": "Environmental regulation and worker earnings: Evidence from city-level air quality standards in China",
+          "authors": "Guanglai Zhang, Ning Zhang",
+          "url": "http://dx.doi.org/10.1016/j.eneco.2024.107834",
+          "doi": "10.1016/j.eneco.2024.107834",
+          "filter": 0
+        },
+        {
+          "title": "Unearthing the hedge and safe-haven potential of green investment funds for energy commodities",
+          "authors": "Oktay Özkan, Muhammad Saeed Meo, Mehak Younus",
+          "url": "http://dx.doi.org/10.1016/j.eneco.2024.107814",
+          "doi": "10.1016/j.eneco.2024.107814",
+          "filter": 0
+        },
+        {
+          "title": "Assessing optimized time-of-use pricing for electric vehicle charging in deep vehicle-grid integration system",
+          "authors": "So Young Yang, JongRoul Woo, Wonjong Lee",
+          "url": "http://dx.doi.org/10.1016/j.eneco.2024.107852",
+          "doi": "10.1016/j.eneco.2024.107852",
+          "filter": 0
+        },
+        {
+          "title": "The decoupling dilemma: Examining economic growth and carbon emissions in emerging economic blocs",
+          "authors": "Farah Naz, Arifa Tanveer, Sitara Karim, Michael Dowling",
+          "url": "http://dx.doi.org/10.1016/j.eneco.2024.107848",
+          "doi": "10.1016/j.eneco.2024.107848",
+          "filter": 0
+        },
+        {
+          "title": "Enhancing energy efficiency in Asia-Pacific: Comprehensive energy policy analysis",
+          "authors": "Bless Kofi Edziah, Eric Evans Osei Opoku",
+          "url": "http://dx.doi.org/10.1016/j.eneco.2024.107831",
+          "doi": "10.1016/j.eneco.2024.107831",
+          "filter": 0
+        },
+        {
+          "title": "Effect of green industrial policy on China's outward renewable energy investment",
+          "authors": "Jiashun Xue, Jessie Poon, Yu Yang, Qiang Ji",
+          "url": "http://dx.doi.org/10.1016/j.eneco.2024.107830",
+          "doi": "10.1016/j.eneco.2024.107830",
+          "filter": 0
+        },
+        {
+          "title": "Cryptocarbon: How much is the corrective tax?",
+          "authors": "Shafik Hebous, Nate Vernon-Lin",
+          "url": "http://dx.doi.org/10.1016/j.eneco.2024.107827",
+          "doi": "10.1016/j.eneco.2024.107827",
+          "filter": 0
+        },
+        {
+          "title": "Unveiling the impact of public data access on collaborative reduction of pollutants and carbon emissions: Evidence from open government data policy",
+          "authors": "Desheng Wu, Yu Xie",
+          "url": "http://dx.doi.org/10.1016/j.eneco.2024.107822",
+          "doi": "10.1016/j.eneco.2024.107822",
+          "filter": 0
+        },
+        {
+          "title": "Economic activities, dry bulk freight, and economic policy uncertainties as drivers of oil prices: A tail-behaviour time-varying causality perspective",
+          "authors": "Hemachandra Padhan, Mustafa Kocoglu, Aviral Kumar Tiwari, Ilham Haouas",
+          "url": "http://dx.doi.org/10.1016/j.eneco.2024.107845",
+          "doi": "10.1016/j.eneco.2024.107845",
+          "filter": 0
+        },
+        {
+          "title": "What drives solar energy adoption in developing countries? Evidence from household surveys across countries",
+          "authors": "Daniel Mahn, Rohan Best, Cong Wang, Olukorede Abiona",
+          "url": "http://dx.doi.org/10.1016/j.eneco.2024.107815",
+          "doi": "10.1016/j.eneco.2024.107815",
+          "filter": 0
+        },
+        {
+          "title": "Targeting SDG7: Identifying heterogeneous energy dilemmas for socially disadvantaged groups in India using machine learning",
+          "authors": "Jiajia Li, Shiyu Yang, Jun Li, Houjian Li",
+          "url": "http://dx.doi.org/10.1016/j.eneco.2024.107854",
+          "doi": "10.1016/j.eneco.2024.107854",
+          "filter": 0
+        },
+        {
+          "title": "Divergent jump characteristics in brown and green cryptocurrencies: The role of energy-related uncertainty",
+          "authors": "Jying-Nan Wang, Samuel A. Vigne, Hung-Chun Liu, Yuan-Teng Hsu",
+          "url": "http://dx.doi.org/10.1016/j.eneco.2024.107847",
+          "doi": "10.1016/j.eneco.2024.107847",
+          "filter": 0
+        },
+        {
+          "title": "Complexity in low-carbon transitions: Uncertainty and policy implications",
+          "authors": "Simone Marsiglio, Marco Tolotti",
+          "url": "http://dx.doi.org/10.1016/j.eneco.2024.107803",
+          "doi": "10.1016/j.eneco.2024.107803",
+          "filter": 0
+        },
+        {
+          "title": "Green supply chain management for carbon accountability",
+          "authors": "Millie Liew, June Cao",
+          "url": "http://dx.doi.org/10.1016/j.eneco.2024.107840",
+          "doi": "10.1016/j.eneco.2024.107840",
+          "filter": 0
+        },
+        {
+          "title": "The effects of long–distance power transmission on employment growth: Empirical evidence from ultra–high voltage projects of China",
+          "authors": "Li Zhao, Zhengye Gao, Shenggang Ren",
+          "url": "http://dx.doi.org/10.1016/j.eneco.2024.107850",
+          "doi": "10.1016/j.eneco.2024.107850",
+          "filter": 0
+        },
+        {
+          "title": "China's monetary policy framework and global commodity prices",
+          "authors": "Shawkat Hammoudeh, Duc Khuong Nguyen, Ricardo M. Sousa",
+          "url": "http://dx.doi.org/10.1016/j.eneco.2024.107767",
+          "doi": "10.1016/j.eneco.2024.107767",
+          "filter": 0
+        },
+        {
+          "title": "Unveiling the Nexus: Climate change, green innovation, and the pendulum of energy consumption and carbon emissions",
+          "authors": "Yassine Kirat, Tina Prodromou, Sandy Suardi",
+          "url": "http://dx.doi.org/10.1016/j.eneco.2024.107727",
+          "doi": "10.1016/j.eneco.2024.107727",
+          "filter": 0
+        },
+        {
+          "title": "The impact of public health measures on household energy consumption: The case of the UK COVID-19 tier system",
+          "authors": "Kentaro Florian Mayr, Paolo Agnolucci",
+          "url": "http://dx.doi.org/10.1016/j.eneco.2024.107788",
+          "doi": "10.1016/j.eneco.2024.107788",
+          "filter": 0
+        },
+        {
+          "title": "How do global commodities react to increasing geopolitical risks? New insights into the Russia-Ukraine and Palestine-Israel conflicts",
+          "authors": "Nasir Khan, Sami Mejri, Shawkat Hammoudeh",
+          "url": "http://dx.doi.org/10.1016/j.eneco.2024.107812",
+          "doi": "10.1016/j.eneco.2024.107812",
+          "filter": 0
+        },
+        {
+          "title": "Safe haven between European ESG and energy sector under Russian-Ukraine war: Role of sustainable investments for portfolio diversification",
+          "authors": "Muhammad Ahad, Zulfiqar Ali Imran, Khurram Shahzad",
+          "url": "http://dx.doi.org/10.1016/j.eneco.2024.107853",
+          "doi": "10.1016/j.eneco.2024.107853",
+          "filter": 0
+        },
+        {
+          "title": "What are the costs of rigidity? A general equilibrium study of the fuel market in Argentina",
+          "authors": "Juan Ignacio Mercatante",
+          "url": "http://dx.doi.org/10.1016/j.eneco.2024.107874",
+          "doi": "10.1016/j.eneco.2024.107874",
+          "filter": 0
+        },
+        {
+          "title": "Commodity windfalls, political regimes, and environmental quality",
+          "authors": "Olayinka Oyekola, Lotanna E. Emediegwu, Jubril O. Animashaun",
+          "url": "http://dx.doi.org/10.1016/j.eneco.2024.107813",
+          "doi": "10.1016/j.eneco.2024.107813",
+          "filter": 0
+        }
+      ],
+      "articles_hidden": [
+        {
+          "title": "Editorial Board",
+          "url": "http://dx.doi.org/10.1016/s0140-9883(24)00603-0",
+          "doi": "10.1016/s0140-9883(24)00603-0",
+          "filter": 1
+        }
+      ]
+    },
+    {
+      "journal_full": "Food Policy",
+      "journal_short": "FP",
+      "articles": [
+        {
+          "title": "Beyond information: The power of personalized nudges in promoting vegetable purchases",
+          "authors": "Hiroki Sasaki, Nobuhiro Ito",
+          "url": "http://dx.doi.org/10.1016/j.foodpol.2024.102726",
+          "doi": "10.1016/j.foodpol.2024.102726",
+          "filter": 0
+        },
+        {
+          "title": "Farm size and the quality and quantity of jobs—Insights from Nigeria",
+          "authors": "Olayinka Aremu, Anna Fabry, Eva-Marie Meemken",
+          "url": "http://dx.doi.org/10.1016/j.foodpol.2024.102731",
+          "doi": "10.1016/j.foodpol.2024.102731",
+          "filter": 0
+        },
+        {
+          "title": "A comment on USDA Food Business Centers: Collaborations to nurture innovation in the food system",
+          "authors": "Anders Van Sandt, Dawn Thilmany, Lauren Gwin",
+          "url": "http://dx.doi.org/10.1016/j.foodpol.2024.102727",
+          "doi": "10.1016/j.foodpol.2024.102727",
+          "filter": 0
+        },
+        {
+          "title": "Maternal employment in high-value agriculture and child nutrition: Evidence from the Ethiopian cut-flower industry",
+          "authors": "Astewale Bimr Melaku, Matin Qaim, Bethelhem Legesse Debela",
+          "url": "http://dx.doi.org/10.1016/j.foodpol.2024.102732",
+          "doi": "10.1016/j.foodpol.2024.102732",
+          "filter": 0
+        },
+        {
+          "title": "Public preferences for meat tax attributes in The Netherlands: A discrete choice experiment",
+          "authors": "Veerle E. Siegerink, Joyce Delnoij, Francisco Alpizar",
+          "url": "http://dx.doi.org/10.1016/j.foodpol.2024.102675",
+          "doi": "10.1016/j.foodpol.2024.102675",
+          "filter": 0
+        },
+        {
+          "title": "Between dissonance and confusion: When the Nutri-Score as a nutritional signal is misinterpreted",
+          "authors": "Valérie Hémar-Nicolas, Nathalie Guichard, Amélie Clauzel",
+          "url": "http://dx.doi.org/10.1016/j.foodpol.2024.102677",
+          "doi": "10.1016/j.foodpol.2024.102677",
+          "filter": 0
+        },
+        {
+          "title": "Reflections on food policy in the context of healthy and sustainable diets",
+          "authors": "Jan Hales, Joya Kemper, Samantha K. White, Ekant Veer",
+          "url": "http://dx.doi.org/10.1016/j.foodpol.2024.102708",
+          "doi": "10.1016/j.foodpol.2024.102708",
+          "filter": 0
+        },
+        {
+          "title": "Impact of food hubs on food security and sustainability: Food hubs perspectives from Leeds, UK",
+          "authors": "Effie Papargyropoulou, Gemma Bridge, Sonja Woodcock, Emma Strachan, Joanna Rowlands, Elizabeth Boniface",
+          "url": "http://dx.doi.org/10.1016/j.foodpol.2024.102705",
+          "doi": "10.1016/j.foodpol.2024.102705",
+          "filter": 0
+        },
+        {
+          "title": "Temperature and children’s dietary diversity: Evidence from India",
+          "authors": "Pallavi Rajkhowa, Suman Chakrabarti",
+          "url": "http://dx.doi.org/10.1016/j.foodpol.2024.102703",
+          "doi": "10.1016/j.foodpol.2024.102703",
+          "filter": 0
+        },
+        {
+          "title": "Behavioural insights to reach European Union consumer food waste reduction targets",
+          "authors": "Hendrik Bruns, Valeria De Laurentiis, Laura García Herrero, Giulia Listorti",
+          "url": "http://dx.doi.org/10.1016/j.foodpol.2024.102725",
+          "doi": "10.1016/j.foodpol.2024.102725",
+          "filter": 0
+        },
+        {
+          "title": "Autopsy of a futures market failure: Japan’s Dojima rice futures in the early 21st century",
+          "authors": "Shuhei Yamamoto, Joseph P. Janzen, Teresa Serra",
+          "url": "http://dx.doi.org/10.1016/j.foodpol.2024.102717",
+          "doi": "10.1016/j.foodpol.2024.102717",
+          "filter": 0
+        },
+        {
+          "title": "How does recall bias in farm labor impact separability tests?",
+          "authors": "Bailey Peterson-Wilhelm, Benjamin Schwab",
+          "url": "http://dx.doi.org/10.1016/j.foodpol.2024.102669",
+          "doi": "10.1016/j.foodpol.2024.102669",
+          "filter": 0
+        },
+        {
+          "title": "Impact of crop commercialization on smallholder farmers’ resilience to shocks: Evidence from panel data for rural Southeast Asia",
+          "authors": "Manh Hung Do, Trung Thanh Nguyen",
+          "url": "http://dx.doi.org/10.1016/j.foodpol.2024.102709",
+          "doi": "10.1016/j.foodpol.2024.102709",
+          "filter": 0
+        },
+        {
+          "title": "Assessing misallocation in agriculture: Plots versus farms",
+          "authors": "Fernando M. Aragón, Diego Restuccia, Juan Pablo Rud",
+          "url": "http://dx.doi.org/10.1016/j.foodpol.2024.102678",
+          "doi": "10.1016/j.foodpol.2024.102678",
+          "filter": 0
+        },
+        {
+          "title": "An approach for assessing whether agricultural projects help smallholders transition to better livelihood strategies: A malawian case study",
+          "authors": "Anne G. Timu, Peter Hazell, Sara Savastano",
+          "url": "http://dx.doi.org/10.1016/j.foodpol.2024.102728",
+          "doi": "10.1016/j.foodpol.2024.102728",
+          "filter": 0
+        },
+        {
+          "title": "The impact of pre-empting dual food quality regulation on product reformulation and packaging",
+          "authors": "Kjersti Nes, Federico Antonioli, Federica Di Marcantonio, Pavel Ciaian",
+          "url": "http://dx.doi.org/10.1016/j.foodpol.2024.102707",
+          "doi": "10.1016/j.foodpol.2024.102707",
+          "filter": 0
+        },
+        {
+          "title": "Tax on sugary drinks in Brazil: Simulation of impacts on the purchases of non-alcoholic drinks and family welfare",
+          "authors": "Charline Dassow, Edilberto Almeida",
+          "url": "http://dx.doi.org/10.1016/j.foodpol.2024.102673",
+          "doi": "10.1016/j.foodpol.2024.102673",
+          "filter": 0
+        },
+        {
+          "title": "Revisiting heterogenous social desirability bias in consumer willingness to pay for food carbon label: Social norms and environmental concerns",
+          "authors": "Hang Xiong, Wuyang Hu, Meng Xu, Jintao Zhan",
+          "url": "http://dx.doi.org/10.1016/j.foodpol.2024.102690",
+          "doi": "10.1016/j.foodpol.2024.102690",
+          "filter": 0
+        },
+        {
+          "title": "Balancing environmental policies and food security goals in the face of shifting U.S. rail transportation regulations",
+          "authors": "Sandro Steinbach",
+          "url": "http://dx.doi.org/10.1016/j.foodpol.2024.102724",
+          "doi": "10.1016/j.foodpol.2024.102724",
+          "filter": 0
+        },
+        {
+          "title": "Market food environments and child nutrition",
+          "authors": "Vivien Hülsen, Makaiko G. Khonje, Matin Qaim",
+          "url": "http://dx.doi.org/10.1016/j.foodpol.2024.102704",
+          "doi": "10.1016/j.foodpol.2024.102704",
+          "filter": 0
+        },
+        {
+          "title": "Food politics in China: How strengthened accountability enhances food security",
+          "authors": "Yingnan Zhang, Shenghua Lu",
+          "url": "http://dx.doi.org/10.1016/j.foodpol.2024.102692",
+          "doi": "10.1016/j.foodpol.2024.102692",
+          "filter": 0
+        },
+        {
+          "title": "Nudging consumers’ choices for niche milk: A real purchase experiment",
+          "authors": "Cristiano Franceschinis, Riccardo Scarpa, Mara Thiene",
+          "url": "http://dx.doi.org/10.1016/j.foodpol.2024.102729",
+          "doi": "10.1016/j.foodpol.2024.102729",
+          "filter": 0
+        },
+        {
+          "title": "Development of the Food Systems Literacy Competencies Framework for youth: A modified Delphi study with experts",
+          "authors": "Alicia E. Martin, Jess Haines, Evan D.G. Fraser",
+          "url": "http://dx.doi.org/10.1016/j.foodpol.2024.102702",
+          "doi": "10.1016/j.foodpol.2024.102702",
+          "filter": 0
+        },
+        {
+          "title": "Women’s empowerment and intra-household diet diversity across the urban continuum: Evidence from India’s DHS",
+          "authors": "Soumya Gupta, Payal Seth, Vidya Vemireddy, Prabhu Pingali",
+          "url": "http://dx.doi.org/10.1016/j.foodpol.2024.102680",
+          "doi": "10.1016/j.foodpol.2024.102680",
+          "filter": 0
+        },
+        {
+          "title": "Women improving nutrition through self-help groups in India: Does nutrition information help?",
+          "authors": "Neha Kumar, Kalyani Raghunathan, Agnes Quisumbing, Samuel Scott, Purnima Menon, Giang Thai, Shivani Gupta, Carly Nichols",
+          "url": "http://dx.doi.org/10.1016/j.foodpol.2024.102716",
+          "doi": "10.1016/j.foodpol.2024.102716",
+          "filter": 0
+        },
+        {
+          "title": "Making ends meet in refugee camps: Food distribution cycles, consumption and undernutrition",
+          "authors": "Frederic Aubery, Marie-Charlotte Buisson",
+          "url": "http://dx.doi.org/10.1016/j.foodpol.2024.102666",
+          "doi": "10.1016/j.foodpol.2024.102666",
+          "filter": 0
+        },
+        {
+          "title": "Integrating system dynamics to value chain analysis to address price volatility in the Indonesian chilli value chain",
+          "authors": "Yanti Nuraeni Muflikh, Carl Smith, Colin Brown, Nunung Kusnadi, Adhitya Marendra Kiloes, Ammar Abdul Aziz",
+          "url": "http://dx.doi.org/10.1016/j.foodpol.2024.102713",
+          "doi": "10.1016/j.foodpol.2024.102713",
+          "filter": 0
+        },
+        {
+          "title": "Policy options for managing avian influenza in dairy cows",
+          "authors": "William Nganje, Sandro Steinbach",
+          "url": "http://dx.doi.org/10.1016/j.foodpol.2024.102691",
+          "doi": "10.1016/j.foodpol.2024.102691",
+          "filter": 0
+        },
+        {
+          "title": "Nutrition education effects on food and nutrition security for women living with HIV/AIDS in Uganda",
+          "authors": "Frances Nakakawa, Johnny Mugisha, Archileo N. Kaaya, Nazarius M. Tumwesigye, Martina Hennessey",
+          "url": "http://dx.doi.org/10.1016/j.foodpol.2024.102715",
+          "doi": "10.1016/j.foodpol.2024.102715",
+          "filter": 0
+        }
+      ],
+      "articles_hidden": []
+    },
+    {
+      "journal_full": "Journal of Agricultural Economics",
+      "journal_short": "JAE",
+      "articles": [
+        {
+          "title": "From informal farmland rental to market‐oriented transactions: Do China's Land Transfer Service Centers help?",
+          "authors": "Pengfei Fan, Ashok K. Mishra, Shuyi Feng, Min Su",
+          "abstract": "Farmland rental markets are important in production agriculture. Informal farmland rental markets have taken root in Chinese agriculture. However, farmland rental markets need to be transparent for increased efficiency and smooth functioning. This study uses three waves of nationally representative panel data and a difference‐in‐differences framework to examine the effect of China's Land Transfer Service Centers (LTSCs) on market‐oriented farmland transfers. The result indicates that LTSCs enhance farmland transfer marketisation, encouraging landowners to rent their land to large‐scale operators, engage in fixed‐term contracts and charge pecuniary rents. However, the LTSCs' “discrimination” against smallholders may limit their impact on the overall market. Additionally, LTSCs have weaker effects in villages with large clans and stronger effects in villages with bank outlets. The results illustrate the potential value of intermediary service organisations (ISOs) in land rental markets.",
+          "url": "http://dx.doi.org/10.1111/1477-9552.12615",
+          "doi": "10.1111/1477-9552.12615",
+          "filter": 0
+        },
+        {
+          "title": "Farmers' cooperation to improve water quality under scientific uncertainty: A lab‐in‐the‐field experiment",
+          "authors": "Simone Angioloni, Simone Cerroni",
+          "abstract": "Cooperation amongst natural resource users is key to manage ecosystems sustainably and achieve environmental goals proposed by policy and regulations. This paper focuses on the impact that livestock farming can have on the quality of a water body and investigates farmers' willingness to cooperate to preserve water quality under two different sources of uncertainty and four different degrees of uncertainty. The first source relates to the level of water quality that must be guaranteed in a river catchment to avoid irreversible deterioration of aquatic ecosystems (threshold uncertainty, i.e. with catastrophic consequences). The second source relates to the financial losses that farmers will experience in the long run if they fail to cooperate (impact uncertainty). To this end, a lab‐in‐the‐field experiment was conducted with livestock farmers of Northern Ireland. A local public good game with threshold uncertainty was framed around an agri‐environmental scheme designed to create ungrazed buffer zones for water quality preservation. Results indicate that uncertainty generally hampers farmers' cooperation and the provision of information geared to reduce uncertainty enhances it. Impact uncertainty has a milder negative impact on cooperation than threshold uncertainty. Risk preferences and probability weighting do not influence cooperation, while loss aversion has an influence on cooperation.",
+          "url": "http://dx.doi.org/10.1111/1477-9552.12614",
+          "doi": "10.1111/1477-9552.12614",
+          "filter": 0
+        }
+      ],
+      "articles_hidden": []
+    },
+    {
+      "journal_full": "Journal of Development Economics",
+      "journal_short": "JDE",
+      "articles": [
+        {
+          "title": "Young women in cities: Urbanization and gender-biased migration",
+          "authors": "Yumi Koh, Jing Li, Yifan Wu, Junjian Yi, Hanzhe Zhang",
+          "url": "http://dx.doi.org/10.1016/j.jdeveco.2024.103378",
+          "doi": "10.1016/j.jdeveco.2024.103378",
+          "filter": 0
+        },
+        {
+          "title": "The persistence of trade relocation from civil conflict",
+          "authors": "Tobias Korn, Henry Stemmler",
+          "url": "http://dx.doi.org/10.1016/j.jdeveco.2024.103376",
+          "doi": "10.1016/j.jdeveco.2024.103376",
+          "filter": 0
+        },
+        {
+          "title": "Robots as guardians: Industrial automation and workplace safety in China",
+          "authors": "Wei Luo, Lixin Tang, Yaxin Yang, Xianqiang Zou",
+          "url": "http://dx.doi.org/10.1016/j.jdeveco.2024.103381",
+          "doi": "10.1016/j.jdeveco.2024.103381",
+          "filter": 0
+        },
+        {
+          "title": "Communist propaganda and women’s status",
+          "authors": "Ruoyu Qian",
+          "url": "http://dx.doi.org/10.1016/j.jdeveco.2024.103341",
+          "doi": "10.1016/j.jdeveco.2024.103341",
+          "filter": 0
+        },
+        {
+          "title": "The long-run costs of highly competitive exams for government jobs",
+          "authors": "Kunal Mangal",
+          "url": "http://dx.doi.org/10.1016/j.jdeveco.2024.103331",
+          "doi": "10.1016/j.jdeveco.2024.103331",
+          "filter": 0
+        },
+        {
+          "title": "Migration from developing countries: Selection, income elasticity, and Simpson’s paradox",
+          "authors": "Michael A. Clemens, Mariapia Mendola",
+          "url": "http://dx.doi.org/10.1016/j.jdeveco.2024.103359",
+          "doi": "10.1016/j.jdeveco.2024.103359",
+          "filter": 0
+        },
+        {
+          "title": "Land allocation and industrial agglomeration: Evidence from the 2007 reform in China",
+          "authors": "Wenjia Tian, Zhi Wang, Qinghua Zhang",
+          "url": "http://dx.doi.org/10.1016/j.jdeveco.2024.103351",
+          "doi": "10.1016/j.jdeveco.2024.103351",
+          "filter": 0
+        },
+        {
+          "title": "Punishing mayors who fail the test: How do voters respond to information about educational outcomes?",
+          "authors": "Loreto Cox, Sylvia Eyzaguirre, Francisco A. Gallego, Maximiliano García",
+          "url": "http://dx.doi.org/10.1016/j.jdeveco.2024.103315",
+          "doi": "10.1016/j.jdeveco.2024.103315",
+          "filter": 0
+        },
+        {
+          "title": "Spatial inefficiencies in Africa’s trade network",
+          "authors": "Tilman Graff",
+          "url": "http://dx.doi.org/10.1016/j.jdeveco.2024.103319",
+          "doi": "10.1016/j.jdeveco.2024.103319",
+          "filter": 0
+        },
+        {
+          "title": "How distortive are turnover taxes? Evidence from China",
+          "authors": "Jing Xing, Katarzyna Bilicka, Xipei Hou, Sepideh Raei",
+          "url": "http://dx.doi.org/10.1016/j.jdeveco.2024.103332",
+          "doi": "10.1016/j.jdeveco.2024.103332",
+          "filter": 0
+        },
+        {
+          "title": "Measuring sex-selective abortion: How many women abort?",
+          "authors": "Aditi Dimri, Véronique Gille, Philipp Ketz",
+          "url": "http://dx.doi.org/10.1016/j.jdeveco.2024.103342",
+          "doi": "10.1016/j.jdeveco.2024.103342",
+          "filter": 0
+        },
+        {
+          "title": "Social ties at work and effort choice: Experimental evidence from Tanzania",
+          "authors": "Martin J. Chegere, Paolo Falco, Andreas Menzel",
+          "url": "http://dx.doi.org/10.1016/j.jdeveco.2024.103354",
+          "doi": "10.1016/j.jdeveco.2024.103354",
+          "filter": 0
+        },
+        {
+          "title": "Unlocking the benefits of credit through saving",
+          "authors": "Sanghamitra Warrier Mukherjee, Lauren Falcao Bergquist, Marshall Burke, Edward Miguel",
+          "url": "http://dx.doi.org/10.1016/j.jdeveco.2024.103346",
+          "doi": "10.1016/j.jdeveco.2024.103346",
+          "filter": 0
+        },
+        {
+          "title": "A Farewell to Arms: Paramilitaries Demobilization, Political Competition and Public Goods in Colombia",
+          "authors": "Felipe Coy",
+          "url": "http://dx.doi.org/10.1016/j.jdeveco.2024.103350",
+          "doi": "10.1016/j.jdeveco.2024.103350",
+          "filter": 0
+        },
+        {
+          "title": "Childhood migration and educational attainment: Evidence from Indonesia",
+          "authors": "Hanna Schwank",
+          "url": "http://dx.doi.org/10.1016/j.jdeveco.2024.103338",
+          "doi": "10.1016/j.jdeveco.2024.103338",
+          "filter": 0
+        },
+        {
+          "title": "Land expropriation, household behaviors, and health outcomes: Evidence from China",
+          "authors": "Wei Huang, Mi Luo, Yuqi Ta, Boxian Wang",
+          "url": "http://dx.doi.org/10.1016/j.jdeveco.2024.103358",
+          "doi": "10.1016/j.jdeveco.2024.103358",
+          "filter": 0
+        },
+        {
+          "title": "Evidence on designing sanitation interventions",
+          "authors": "Britta Augsburg, Andrew Foster, Terence Johnson, Molly Lipscomb",
+          "url": "http://dx.doi.org/10.1016/j.jdeveco.2024.103316",
+          "doi": "10.1016/j.jdeveco.2024.103316",
+          "filter": 0
+        },
+        {
+          "title": "Trade liberalization, labor market power, and misallocation across firms: Evidence from China's WTO accession",
+          "authors": "Enze Xie, Mingzhi Xu, Miaojie Yu",
+          "url": "http://dx.doi.org/10.1016/j.jdeveco.2024.103353",
+          "doi": "10.1016/j.jdeveco.2024.103353",
+          "filter": 0
+        },
+        {
+          "title": "Energy policies and pollution in two developing country cities: A quantitative model",
+          "authors": "Rainald Borck, Peter Mulder",
+          "url": "http://dx.doi.org/10.1016/j.jdeveco.2024.103348",
+          "doi": "10.1016/j.jdeveco.2024.103348",
+          "filter": 0
+        },
+        {
+          "title": "Preprimary education and early childhood development: Evidence from government schools in rural Kenya",
+          "authors": "Pamela Jakiela, Owen Ozier, Lia C.H. Fernald, Heather A. Knauer",
+          "url": "http://dx.doi.org/10.1016/j.jdeveco.2024.103337",
+          "doi": "10.1016/j.jdeveco.2024.103337",
+          "filter": 0
+        },
+        {
+          "title": "Allocating labor across small firms: Experimental evidence on information constraints",
+          "authors": "Morgan Hardy, Seongyoon Kim, Jamie McCasland, Andreas Menzel, Marc Witte",
+          "url": "http://dx.doi.org/10.1016/j.jdeveco.2024.103345",
+          "doi": "10.1016/j.jdeveco.2024.103345",
+          "filter": 0
+        },
+        {
+          "title": "When beer is safer than water: Beer availability and mortality from waterborne illnesses",
+          "authors": "Francisca M. Antman, James M. Flynn",
+          "url": "http://dx.doi.org/10.1016/j.jdeveco.2024.103343",
+          "doi": "10.1016/j.jdeveco.2024.103343",
+          "filter": 0
+        },
+        {
+          "title": "Bribery, plant size and size dependent distortions",
+          "authors": "M. Nazım Tamkoç",
+          "url": "http://dx.doi.org/10.1016/j.jdeveco.2024.103361",
+          "doi": "10.1016/j.jdeveco.2024.103361",
+          "filter": 0
+        },
+        {
+          "title": "Passing the message: Peer outreach about COVID-19 precautions in Zambia",
+          "authors": "Alfredo Burlando, Pradeep Chintagunta, Jessica Goldberg, Melissa Graboyes, Peter Hangoma, Dean Karlan, Mario Macis, Silvia Prina",
+          "url": "http://dx.doi.org/10.1016/j.jdeveco.2024.103318",
+          "doi": "10.1016/j.jdeveco.2024.103318",
+          "filter": 0
+        },
+        {
+          "title": "The enduring trauma: How officials' childhood famine experiences affect year-end spending surge",
+          "authors": "Xing Chen, Peng Zhang, Ping Zhang, Andong Zhuge",
+          "url": "http://dx.doi.org/10.1016/j.jdeveco.2024.103356",
+          "doi": "10.1016/j.jdeveco.2024.103356",
+          "filter": 0
+        },
+        {
+          "title": "Roads, competition, and the informal sector",
+          "authors": "Elena Perra, Marco Sanfilippo, Asha Sundaram",
+          "url": "http://dx.doi.org/10.1016/j.jdeveco.2024.103339",
+          "doi": "10.1016/j.jdeveco.2024.103339",
+          "filter": 0
+        },
+        {
+          "title": "Forced migration and local economic development: Evidence from postwar Hungary",
+          "authors": "Daniel Borbely, Ross Mckenzie",
+          "url": "http://dx.doi.org/10.1016/j.jdeveco.2024.103355",
+          "doi": "10.1016/j.jdeveco.2024.103355",
+          "filter": 0
+        },
+        {
+          "title": "Corrigendum to Medication against conflict [Journal of Development Economics (2024) Volume 170, September 2024, 103306]",
+          "authors": "Andrea Berlanda, Matteo Cervellati, Elena Esposito, Dominic Rohner, Uwe Sunde",
+          "url": "http://dx.doi.org/10.1016/j.jdeveco.2024.103347",
+          "doi": "10.1016/j.jdeveco.2024.103347",
+          "filter": 0
+        },
+        {
+          "title": "Internal migration and drug violence in Mexico",
+          "authors": "Lorenzo Aldeco Leo, Andrés Jurado, Aurora A. Ramírez-Álvarez",
+          "url": "http://dx.doi.org/10.1016/j.jdeveco.2024.103334",
+          "doi": "10.1016/j.jdeveco.2024.103334",
+          "filter": 0
+        },
+        {
+          "title": "Supporting small firms in a fragile context: Comparing matching and cash grants in Burkina Faso",
+          "authors": "Michael Grimm, Sidiki Soubeiga, Michael Weber",
+          "url": "http://dx.doi.org/10.1016/j.jdeveco.2024.103344",
+          "doi": "10.1016/j.jdeveco.2024.103344",
+          "filter": 0
+        },
+        {
+          "title": "In-group competition for incentives",
+          "authors": "Michael Olabisi, Mywish Maredia, Jiawen Liu, Toyin Ajibade, Hakeem Ajeigbe",
+          "url": "http://dx.doi.org/10.1016/j.jdeveco.2024.103320",
+          "doi": "10.1016/j.jdeveco.2024.103320",
+          "filter": 0
+        },
+        {
+          "title": "Returns to quality in rural agricultural markets: Evidence from wheat markets in Ethiopia",
+          "authors": "Jérémy Do Nascimento Miguel",
+          "url": "http://dx.doi.org/10.1016/j.jdeveco.2024.103336",
+          "doi": "10.1016/j.jdeveco.2024.103336",
+          "filter": 0
+        },
+        {
+          "title": "How accurate is a poverty map based on remote sensing data? An application to Malawi",
+          "authors": "Roy van der Weide, Brian Blankespoor, Chris Elbers, Peter Lanjouw",
+          "url": "http://dx.doi.org/10.1016/j.jdeveco.2024.103352",
+          "doi": "10.1016/j.jdeveco.2024.103352",
+          "filter": 0
+        },
+        {
+          "title": "The seeds of misallocation: Fertilizer use and maize varietal misidentification in Ethiopia",
+          "authors": "Nils Bohr, Tim Deisemann, Douglas Gollin, Frédéric Kosmowski, Travis J. Lybbert",
+          "url": "http://dx.doi.org/10.1016/j.jdeveco.2024.103349",
+          "doi": "10.1016/j.jdeveco.2024.103349",
+          "filter": 0
+        },
+        {
+          "title": "Elite persistence in Sierra Leone: What can names tell us?",
+          "authors": "Yannick Dupraz, Rebecca Simson",
+          "url": "http://dx.doi.org/10.1016/j.jdeveco.2024.103333",
+          "doi": "10.1016/j.jdeveco.2024.103333",
+          "filter": 0
+        },
+        {
+          "title": "Information frictions, belief updating and internal migration: Evidence from Ghana and Uganda",
+          "authors": "Sarah Frohnweiler, Bernd Beber, Cara Ebert",
+          "url": "http://dx.doi.org/10.1016/j.jdeveco.2024.103311",
+          "doi": "10.1016/j.jdeveco.2024.103311",
+          "filter": 0
+        },
+        {
+          "title": "Faster, taller, better: Transit improvements and land use policies",
+          "authors": "Liming Chen, Rana Hasan, Yi Jiang, Andrii Parkhomenko",
+          "url": "http://dx.doi.org/10.1016/j.jdeveco.2024.103322",
+          "doi": "10.1016/j.jdeveco.2024.103322",
+          "filter": 0
+        },
+        {
+          "title": "College opportunity and teen fertility: Evidence from Ser Pilo Paga in Colombia",
+          "authors": "Michael D. Bloem, Jesús Villero",
+          "url": "http://dx.doi.org/10.1016/j.jdeveco.2024.103321",
+          "doi": "10.1016/j.jdeveco.2024.103321",
+          "filter": 0
+        },
+        {
+          "title": "Formal insurance and altruism networks",
+          "authors": "Tizié Bene, Yann Bramoullé, Frédéric Deroïan",
+          "url": "http://dx.doi.org/10.1016/j.jdeveco.2024.103335",
+          "doi": "10.1016/j.jdeveco.2024.103335",
+          "filter": 0
+        },
+        {
+          "title": "Pollution-induced trips: Evidence from flight and train bookings in China",
+          "authors": "Ruochen Dai, Dongmei Guo, Yajie Han, Yu Qin",
+          "url": "http://dx.doi.org/10.1016/j.jdeveco.2024.103340",
+          "doi": "10.1016/j.jdeveco.2024.103340",
+          "filter": 0
+        },
+        {
+          "title": "How important are matching frictions in the labor market? Experimental &amp; non-experimental evidence from a large Indian firm",
+          "authors": "Abhijit V. Banerjee, Gaurav Chiplunkar",
+          "url": "http://dx.doi.org/10.1016/j.jdeveco.2024.103330",
+          "doi": "10.1016/j.jdeveco.2024.103330",
+          "filter": 0
+        },
+        {
+          "title": "Global Mobile Inventors",
+          "authors": "Dany Bahar, Prithwiraj Choudhury, Ernest Miguelez, Sara Signorelli",
+          "url": "http://dx.doi.org/10.1016/j.jdeveco.2024.103357",
+          "doi": "10.1016/j.jdeveco.2024.103357",
+          "filter": 0
+        }
+      ],
+      "articles_hidden": [
+        {
+          "title": "Editorial Board",
+          "url": "http://dx.doi.org/10.1016/s0304-3878(24)00119-6",
+          "doi": "10.1016/s0304-3878(24)00119-6",
+          "filter": 1
+        }
+      ]
+    },
+    {
+      "journal_full": "Journal of Environmental Economics and Management",
+      "journal_short": "JEEM",
+      "articles": [
+        {
+          "title": "Focusing the view: Improved methods for assessing viewshed impacts of onshore wind turbines",
+          "authors": "Luran Dong, Corey Lang, Jason Parent",
+          "url": "http://dx.doi.org/10.1016/j.jeem.2024.103068",
+          "doi": "10.1016/j.jeem.2024.103068",
+          "filter": 0
+        },
+        {
+          "title": "Too hot to sleep",
+          "authors": "Patrick Bigler, Benedikt Janzen",
+          "url": "http://dx.doi.org/10.1016/j.jeem.2024.103063",
+          "doi": "10.1016/j.jeem.2024.103063",
+          "filter": 0
+        },
+        {
+          "title": "Equity weighting increases valuations when using real-world data",
+          "authors": "Austin Burlile, Peter Maniloff",
+          "url": "http://dx.doi.org/10.1016/j.jeem.2024.103067",
+          "doi": "10.1016/j.jeem.2024.103067",
+          "filter": 0
+        }
+      ],
+      "articles_hidden": []
+    },
+    {
+      "journal_full": "Journal of the Association of Environmental and Resource Economists ",
+      "journal_short": "JAERE",
+      "articles": [
+        {
+          "title": "Wildfires and Agricultural Worker Movement",
+          "authors": "Goeun Lee, Timothy K.M. Beatty",
+          "url": "http://dx.doi.org/10.1086/733350",
+          "doi": "10.1086/733350",
+          "filter": 0
+        }
+      ],
+      "articles_hidden": []
+    },
+    {
+      "journal_full": "Land Economics",
+      "journal_short": "LE",
+      "articles": [
+        {
+          "title": "Household Sorting as Adaptation to Hurricane Risk in the United States",
+          "authors": "Qin Fan, Laura A. Bakkensen",
+          "url": "http://dx.doi.org/10.3368/le.98.2.111319-0162",
+          "doi": "10.3368/le.98.2.111319-0162",
+          "filter": 0
+        },
+        {
+          "title": "Three-Stage Tradable Set-Aside Requirements, Interdependent Values, and Biodiversity Production on Private Lands",
+          "authors": "Mark D. Agee, Thomas D. Crocker",
+          "url": "http://dx.doi.org/10.3368/le.98.4.090919-0130",
+          "doi": "10.3368/le.98.4.090919-0130",
+          "filter": 0
+        }
+      ],
+      "articles_hidden": []
+    }
+  ]
+}

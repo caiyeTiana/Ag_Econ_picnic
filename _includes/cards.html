@@ -95,6 +95,9 @@
         {% for journal in site.data.economics_journals %}
         <li> {{ journal.journal_short }}: {{ journal.journal_full }} </li>
         {% endfor %}
+        {% for journal in site.data.ag_journals %}
+        <li> {{ journal.journal_short }}: {{ journal.journal_full }} </li>
+        {% endfor %}
         {% for journal in site.data.econ_other_field_journals %}
         <li> {{ journal.journal_short }}: {{ journal.journal_full }} </li>
         {% endfor %}
